@@ -6,6 +6,7 @@ from __future__ import annotations
 import argparse
 import os
 import shutil
+import subprocess
 import sys
 from pathlib import Path
 
@@ -51,13 +52,43 @@ def shadowrocket_config(policy: dict) -> str:
     return "\n".join(lines) + "\n"
 
 
-def clash_config(policy: dict, subscription_url: str = SUB_PLACEHOLDER) -> dict:
-    base = policy["rule_base_url"].rstrip("/")
+DOMAIN_RULES = {"DOMAIN", "DOMAIN-SUFFIX"}
+
+
+def domain_payload(rules) -> list[str]:
+    return [rule.value if rule.type == "DOMAIN" else f".{rule.value}" for rule in rules if rule.type in DOMAIN_RULES]
+
+
+def provider_specs(policy: dict, categories: dict | None, *, mrs: bool = False) -> dict:
+    specs = {}
+    for category in policy["category_order"]:
+        rules = categories.get(category, []) if categories else []
+        domains = domain_payload(rules)
+        other_rules = [rule.line for rule in rules if rule.type not in DOMAIN_RULES]
+        if categories is None or other_rules:
+            specs[category] = {
+                "behavior": "classical", "format": "yaml",
+                "url": f"{policy['rule_base_url'].rstrip('/')}/clash/{category}.yaml",
+                "path": f"./rules/{category}.yaml", "interval": 86400,
+            }
+        if domains:
+            name = f"{category}_domain"
+            suffix = "mrs" if mrs else "yaml"
+            specs[name] = {
+                "behavior": "domain", "format": suffix,
+                "url": f"{policy['rule_base_url'].rstrip('/')}/clash/{name}.{suffix}",
+                "path": f"./rules/{name}.{suffix}", "interval": 86400,
+            }
+    return specs
+
+
+def clash_config(policy: dict, subscription_url: str = SUB_PLACEHOLDER, categories: dict | None = None, *, mrs: bool = False) -> dict:
     config = {
         "mixed-port": 7890,
         "allow-lan": False,
         "mode": "rule",
         "log-level": "info",
+        "geodata-mode": True,
         "ipv6": True,
         "dns": {
             "enable": True,
@@ -67,8 +98,13 @@ def clash_config(policy: dict, subscription_url: str = SUB_PLACEHOLDER) -> dict:
             "fake-ip-range": "198.18.0.1/16",
             "fake-ip-filter": ["*.lan", "*.local", "localhost", "+.msftconnecttest.com", "+.msftncsi.com"],
             "default-nameserver": ["223.5.5.5", "119.29.29.29"],
-            "nameserver": ["https://dns.alidns.com/dns-query", "https://doh.pub/dns-query"],
-            "proxy-server-nameserver": ["https://dns.alidns.com/dns-query"],
+            "respect-rules": True,
+            "nameserver": ["https://dns.alidns.com/dns-query#DIRECT", "https://doh.pub/dns-query#DIRECT"],
+            "nameserver-policy": {
+                "geosite:cn": ["https://dns.alidns.com/dns-query#DIRECT", "https://doh.pub/dns-query#DIRECT"],
+                "geosite:geolocation-!cn": ["https://cloudflare-dns.com/dns-query#节点选择", "https://dns.google/dns-query#节点选择"],
+            },
+            "proxy-server-nameserver": ["https://dns.alidns.com/dns-query#DIRECT"],
         },
         "proxy-providers": {
             "subscription": {
@@ -80,26 +116,17 @@ def clash_config(policy: dict, subscription_url: str = SUB_PLACEHOLDER) -> dict:
             }
         },
         "proxy-groups": policy["groups"],
-        "rule-providers": {
-            category: {
-                "type": "http",
-                "behavior": "classical",
-                "format": "yaml",
-                "url": f"{base}/clash/{category}.yaml",
-                "path": f"./rules/{category}.yaml",
-                "interval": 86400,
-            }
-            for category in policy["category_order"]
-        },
+        "rule-providers": {name: {"type": "http", **spec} for name, spec in provider_specs(policy, categories, mrs=mrs).items()},
         "rules": [
-            f"RULE-SET,{category},{policy['categories'][category]}"
+            f"RULE-SET,{provider},{policy['categories'][category]}"
             for category in policy["category_order"]
+            for provider in ([f"{category}_domain", category] if categories and category in categories and domain_payload(categories[category]) else [category])
         ] + ["GEOIP,CN,DIRECT", f"MATCH,{policy['final']}"],
     }
     return config
 
 
-def build(rules_dir: Path, policy_path: Path, output: Path, *, subscription: bool = False) -> dict:
+def build(rules_dir: Path, policy_path: Path, output: Path, *, subscription: bool = False, mrs: bool = False) -> dict:
     categories, policy = load_sources(rules_dir, policy_path)
     subscription_url = SUB_PLACEHOLDER
     if subscription:
@@ -119,10 +146,22 @@ def build(rules_dir: Path, policy_path: Path, output: Path, *, subscription: boo
                 lines.append(f"# {rule.comment}")
             lines.append(rule.line)
         (sr_dir / f"{category}.list").write_text("\n".join(lines) + "\n", encoding="utf-8")
-        (clash_dir / f"{category}.yaml").write_text(dump_yaml({"payload": [rule.line for rule in rules]}), encoding="utf-8")
+        domain_rules = [rule for rule in rules if rule.type in DOMAIN_RULES]
+        classical_rules = [rule for rule in rules if rule.type not in DOMAIN_RULES]
+        if domain_rules:
+            domain_name = f"{category}_domain"
+            domain_path = clash_dir / f"{domain_name}.yaml"
+            domain_path.write_text(dump_yaml({"payload": domain_payload(domain_rules)}), encoding="utf-8")
+            if mrs:
+                converter = shutil.which("mihomo")
+                if not converter:
+                    raise SourceError("--mrs 需要 mihomo 命令；请安装 Mihomo Meta 内核")
+                subprocess.run([converter, "convert-ruleset", "domain", "yaml", str(domain_path), str(clash_dir / f"{domain_name}.mrs")], check=True)
+        if classical_rules:
+            (clash_dir / f"{category}.yaml").write_text(dump_yaml({"payload": [rule.line for rule in classical_rules]}), encoding="utf-8")
     (sr_dir / "shadowrocket.conf").write_text(shadowrocket_config(policy), encoding="utf-8")
     header = "# 自动生成；公开模板中的 ${SUB_URL} 必须由用户在本地替换。\n"
-    (clash_dir / "config.yaml").write_text(header + dump_yaml(clash_config(policy, subscription_url)), encoding="utf-8")
+    (clash_dir / "config.yaml").write_text(header + dump_yaml(clash_config(policy, subscription_url, categories, mrs=mrs)), encoding="utf-8")
     # Attribution accompanies published dist artifacts as well as source code.
     for name in ("LICENSE", "SOURCES.md", "sources.yaml", "upstream.yaml"):
         source = ROOT / name
@@ -140,10 +179,11 @@ def main() -> int:
     parser.add_argument("--policy", type=Path, default=ROOT / "policy.yaml")
     parser.add_argument("--output", type=Path, default=ROOT / "dist")
     parser.add_argument("--subscription", action="store_true", help="读取 SUB_URL；必须输出到仓库外")
+    parser.add_argument("--mrs", action="store_true", help="使用 Mihomo 将域名规则集编译为 .mrs 二进制格式")
     args = parser.parse_args()
     try:
-        summary = build(args.rules_dir, args.policy, args.output, subscription=args.subscription)
-    except (SourceError, OSError) as exc:
+        summary = build(args.rules_dir, args.policy, args.output, subscription=args.subscription, mrs=args.mrs)
+    except (SourceError, OSError, subprocess.CalledProcessError) as exc:
         print(f"构建失败：{exc}", file=sys.stderr)
         return 1
     print(f"构建完成：{summary['categories']} 个分类，{summary['rules']} 条规则，输出到 {args.output}")

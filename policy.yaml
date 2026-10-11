@@ -1,5 +1,5 @@
 version: 1
-rule_base_url: https://raw.githubusercontent.com/limail8866-prog/fenliu/gh-pages
+rule_base_url: https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages
 groups:
 - name: 节点选择
   type: select
@@ -16,7 +16,7 @@ categories:
   github: 节点选择
   games: 节点选择
   apple: DIRECT
-  microsoft: 节点选择
+  microsoft: DIRECT
   google: 节点选择
   social: 节点选择
   payment: 节点选择

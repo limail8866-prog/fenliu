@@ -38,14 +38,14 @@ dist/clash/                各分类 classical .yaml + config.yaml
 | GitHub | 主站、源码、资源、容器及存储端点 | 节点选择 |
 | 游戏 | Steam、Epic、PlayStation、Xbox、Nintendo、Battle.net、Origin/EA | 节点选择 |
 | Apple | Apple、iCloud、App Store 等 | `DIRECT` |
-| Microsoft | Microsoft、Office、Outlook、OneDrive、Azure 等 | 节点选择 |
+| Microsoft | Microsoft、Office、Outlook、OneDrive、Azure 等 | `DIRECT` |
 | 社交媒体 | Facebook、Instagram、WhatsApp、Discord、Reddit、TikTok、Signal、Zoom | 节点选择 |
 | Google | Google、Gmail、Drive 等 | 节点选择 |
 | 支付 | PayPal、Venmo 等 | 节点选择 |
 | 通用代理 | Global 与 Wikimedia，30,978 条 | 节点选择 |
 | 国内直连 | China 白名单及私网，3,619 条 | `DIRECT` |
 
-客户端只显示「节点选择」一个策略组。AI、流媒体、Telegram、X、GitHub 等规则仍分别匹配，命中后交给节点选择；国内直连和广告拦截则由规则直接执行，不需要额外策略组。Grok 独立站 `grok.com` 归入 AI 规则，X 服务仍由 X 规则单独匹配。覆盖范围依赖已导入的上游规则，不能保证涵盖所有网站或服务的所有端点。
+客户端只显示「节点选择」一个策略组。AI、流媒体、Telegram、X、GitHub 等规则仍分别匹配，命中后交给节点选择；Apple、Microsoft、国内服务直接走 `DIRECT`，广告直接走 `REJECT`，都不需要额外策略组。Grok 独立站 `grok.com` 归入 AI 规则，X 服务仍由 X 规则单独匹配。覆盖范围依赖已导入的上游规则，不能保证涵盖所有网站或服务的所有端点。
 
 ## 添加规则
 
@@ -88,37 +88,39 @@ overrides:
 
 ## 自动发布与规则订阅
 
-GitHub Actions 在 push（不含 gh-pages）和 main 的 PR 中执行 validate → build → pytest。全部通过后，**只有 main 分支**将 `dist/` 内容发布为 `gh-pages` 分支根目录；功能分支和 PR 只校验、不发布。也可手动运行 workflow。工作流不读取个人 SUB_URL，不需要配置订阅 Secret。
+GitHub Actions 在 push（不含 gh-pages）和 main 的 PR 中执行 validate → build → pytest，然后用固定版本且校验 SHA-256 的 Mihomo 编译域名规则集为 `.mrs`。全部通过后，**只有 main 分支**将 `dist/` 内容发布为 `gh-pages` 分支根目录；功能分支和 PR 只校验、不发布。也可手动运行 workflow。工作流不读取个人 SUB_URL，不需要配置订阅 Secret。
 
 首次合并 PR 后 Actions 会创建 gh-pages。若仓库组织策略限制 GITHUB_TOKEN 写权限，需在仓库 Actions 设置允许工作流写入内容。raw 链接不依赖 GitHub Pages 网站开关，但仓库必须公开，客户端才能无鉴权订阅：
 
 ```text
-https://raw.githubusercontent.com/limail8866-prog/fenliu/gh-pages/shadowrocket/shadowrocket.conf
-https://raw.githubusercontent.com/limail8866-prog/fenliu/gh-pages/shadowrocket/ai.list
-https://raw.githubusercontent.com/limail8866-prog/fenliu/gh-pages/clash/config.yaml
-https://raw.githubusercontent.com/limail8866-prog/fenliu/gh-pages/clash/ai.yaml
+https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/shadowrocket/shadowrocket.conf
+https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/shadowrocket/ai.list
+https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/clash/config.yaml
+https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/clash/ai.yaml
 ```
 
-Fork 后修改 `policy.yaml` 中的 `rule_base_url` 为自己的 `https://raw.githubusercontent.com/<用户名>/<仓库>/gh-pages`，重新构建。发布前 raw URL 会返回 404；应等 main 的发布任务成功再导入。
+规则默认通过 jsDelivr CDN 分发，地址在国内通常比 GitHub Raw 稳定。若 jsDelivr 不可用，可把 `policy.yaml` 中的 `rule_base_url` 改为 `https://raw.githubusercontent.com/limail8866-prog/fenliu/gh-pages` 后重新构建；Fork 时改成自己的 Raw 或 CDN 地址。发布前需先等待 main 的发布任务成功。
+
+每周一自动检查两个上游仓库的新提交，运行 `tools/sync_rules.py` 导入并校验，然后创建或更新规则审阅 PR。更新不会直接发布；规则覆盖冲突或测试失败时，工作流停止并保留当前规则。
 
 ## 小火箭导入
 
 1. 在首页添加自己的节点订阅，更新节点。订阅地址只填在客户端。
 2. 在「配置」页添加上面的 `shadowrocket.conf` raw URL，下载并使用；全局路由选择「配置」。
-3. 配置通过 RULE-SET 自动引用各分类 `.list`。节点选择和自动测速以 `policy-regex-filter` 筛选客户端已导入的节点；首次使用检查分组成员与所选节点。`[Proxy]` 留空。
+3. 配置通过 RULE-SET 自动引用各分类 `.list`。客户端只显示「节点选择」，用 `policy-regex-filter` 自动纳入已导入节点。`[Proxy]` 留空。
 4. 规则集更新可使用客户端的规则集更新功能；更新整份配置可能覆盖客户端的自定义修改，长期修改应维护在源 YAML 或 policy.yaml。
 
 如果已有自己的配置，可只加入单个规则集：
 
 ```ini
-RULE-SET,https://raw.githubusercontent.com/limail8866-prog/fenliu/gh-pages/shadowrocket/ai.list,AI
+RULE-SET,https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/shadowrocket/ai.list,AI
 ```
 
 同时保证 `[Proxy Group]` 存在 AI 策略组，并将此规则放在 GEOIP / FINAL 前面。
 
 ## Mihomo / Clash Meta 导入及自己的订阅
 
-`dist/clash/config.yaml` 包含 DNS fake-ip、proxy-groups、HTTP rule-providers 和规则顺序。`proxy-providers.subscription.url` 为 **`${SUB_URL}` 占位**；Mihomo 不会自动展开这个字符串，须在本地替换后才可加载。订阅需要提供 Mihomo/Clash 可读的 YAML（含 `proxies`），不能直接使用小火箭格式或普通 Base64 节点列表。
+`dist/clash/config.yaml` 包含 DNS fake-ip、国内/海外 `nameserver-policy`、唯一可见的「节点选择」组和规则顺序。DOMAIN / DOMAIN-SUFFIX 规则使用 `behavior: domain`，发布时编译成 `.mrs` 二进制；关键词和 IP 规则继续使用 classical。`proxy-providers.subscription.url` 为 **`${SUB_URL}` 占位**；Mihomo 不会自动展开这个字符串，须在本地替换后才可加载。订阅需要提供 Mihomo/Clash 可读的 YAML（含 `proxies`），不能直接使用小火箭格式或普通 Base64 节点列表。
 
 推荐生成仓库外的私人配置。下面命令从终端隐藏读取订阅，再通过环境变量传入，避免把地址写入命令历史：
 
@@ -128,6 +130,8 @@ export SUB_URL
 python build.py --subscription --output "$HOME/.config/fenliu"
 unset SUB_URL
 ```
+
+本地已安装 Mihomo 时，可加 `--mrs` 编译二进制域名 provider；普通 `python build.py` 输出可读 YAML provider。
 
 在 Mihomo 客户端以本地文件导入 `~/.config/fenliu/clash/config.yaml`；或使用内核：
 
@@ -144,19 +148,27 @@ mihomo -f "$HOME/.config/fenliu/clash/config.yaml"
 
 ```yaml
 rule-providers:
+  ai_domain:
+    type: http
+    behavior: domain
+    format: mrs
+    url: https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/clash/ai_domain.mrs
+    path: ./rules/ai_domain.mrs
+    interval: 86400
   ai:
     type: http
     behavior: classical
     format: yaml
-    url: https://raw.githubusercontent.com/limail8866-prog/fenliu/gh-pages/clash/ai.yaml
+    url: https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/clash/ai.yaml
     path: ./rules/ai.yaml
     interval: 86400
 rules:
-  - RULE-SET,ai,AI
-  # 保留其他分类与最后的 GEOIP/MATCH；保证已有 AI 策略组。
+  - RULE-SET,ai_domain,节点选择
+  - RULE-SET,ai,节点选择
+  # 保留其他分类与最后的 GEOIP/MATCH；保证已有「节点选择」组。
 ```
 
-DNS 默认启用 fake-ip，通过国内 DoH 解析；可按本地网络需求修改 policy 以外的生成器 DNS 设置。Mihomo 初次运行需下载订阅、规则和 GEOIP 数据，并按客户端提示授权对应网络访问。没有真实订阅时，本项目仅验证转换和配置结构，不能验证个人节点或客户端实际联网效果。
+DNS 默认启用 fake-ip，`geosite:cn` 使用国内 DoH，海外域名使用 Cloudflare / Google DoH；若本地网络无法访问海外 DoH，可按需要修改生成器 DNS 设置。Mihomo 初次运行需下载订阅、规则和 GEO 数据，并按客户端提示授权对应网络访问。没有真实订阅时，本项目仅验证转换和配置结构，不能验证个人节点或客户端实际联网效果。
 
 ## 开发与许可
 

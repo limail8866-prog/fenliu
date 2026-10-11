@@ -25,8 +25,20 @@ jobs:
         run: python validate.py
       - name: Build public artifacts (subscription stays a placeholder)
         run: python build.py
+      - name: Install pinned Mihomo rule-set compiler
+        run: |
+          archive="$RUNNER_TEMP/mihomo-linux-amd64-v1.19.32.gz"
+          curl --fail --location --silent --show-error "https://github.com/MetaCubeX/mihomo/releases/download/v1.19.32/mihomo-linux-amd64-v1.19.32.gz" --output "$archive"
+          echo "8451100836c9eda194331c2babfad490b2faf30cebc1a04b0e76fd8ac2d35d10  $archive" | sha256sum --check
+          gzip --decompress --stdout "$archive" > "$RUNNER_TEMP/mihomo"
+          chmod +x "$RUNNER_TEMP/mihomo"
+          echo "$RUNNER_TEMP" >> "$GITHUB_PATH"
       - name: Test converters and validation
         run: python -m pytest
+      - name: Rebuild optimized MRS rule providers
+        run: python build.py --mrs
+      - name: Validate config with Mihomo
+        run: mihomo -d "$RUNNER_TEMP/mihomo-home" -t -f dist/clash/config.yaml
       - uses: actions/upload-artifact@v4
         with:
           name: dist

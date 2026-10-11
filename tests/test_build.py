@@ -1,4 +1,5 @@
 import copy
+import shutil
 import subprocess
 import sys
 from pathlib import Path
@@ -23,13 +24,21 @@ def test_every_category_round_trips_in_both_formats(artifacts, source_bundle):
     for category, rules in categories.items():
         sr = (artifacts / f"shadowrocket/{category}.list").read_text().splitlines()
         actual_sr = [line for line in sr if line and not line.startswith("#")]
-        provider = yaml.safe_load((artifacts / f"clash/{category}.yaml").read_text())
-        assert actual_sr == provider["payload"] == [rule.line for rule in rules]
-        assert config["rule-providers"][category]["behavior"] == "classical"
-        assert config["rule-providers"][category]["url"] == (
-            f"{policy['rule_base_url']}/clash/{category}.yaml"
-        )
-        assert len(provider["payload"]) == len(rules)
+        assert actual_sr == [rule.line for rule in rules]
+        domain_rules = [rule for rule in rules if rule.type in {"DOMAIN", "DOMAIN-SUFFIX"}]
+        classical_rules = [rule for rule in rules if rule.type not in {"DOMAIN", "DOMAIN-SUFFIX"}]
+        if domain_rules:
+            provider = yaml.safe_load((artifacts / f"clash/{category}_domain.yaml").read_text())
+            assert provider["payload"] == [rule.value if rule.type == "DOMAIN" else f".{rule.value}" for rule in domain_rules]
+            spec = config["rule-providers"][f"{category}_domain"]
+            assert spec["behavior"] == "domain"
+            assert spec["url"] == f"{policy['rule_base_url']}/clash/{category}_domain.yaml"
+        if classical_rules:
+            provider = yaml.safe_load((artifacts / f"clash/{category}.yaml").read_text())
+            assert provider["payload"] == [rule.line for rule in classical_rules]
+            spec = config["rule-providers"][category]
+            assert spec["behavior"] == "classical"
+            assert spec["url"] == f"{policy['rule_base_url']}/clash/{category}.yaml"
 
 
 @pytest.mark.parametrize("rule_type,value,expected", [
@@ -52,7 +61,12 @@ def test_all_types_written_to_both_formats(tmp_path, rule_type, value, expected,
     output = tmp_path / "out"
     build(rules_dir, ROOT / "policy.yaml", output)
     assert expected in (output / "shadowrocket/ai.list").read_text().splitlines()
-    assert expected in yaml.safe_load((output / "clash/ai.yaml").read_text())["payload"]
+    if rule_type in {"DOMAIN", "DOMAIN-SUFFIX"}:
+        domain_rules = yaml.safe_load((output / "clash/ai_domain.yaml").read_text())["payload"]
+        assert (value if rule_type == "DOMAIN" else f".{value}") in domain_rules
+    else:
+        classical = yaml.safe_load((output / "clash/ai.yaml").read_text())["payload"]
+        assert expected in classical
     assert "# first second" in (output / "shadowrocket/ai.list").read_text()
 
 
@@ -65,9 +79,13 @@ def test_order_group_references_and_terminal_rules(artifacts, source_bundle):
         f"RULE-SET,{policy['rule_base_url']}/shadowrocket/{name}.list,{policy['categories'][name]}"
         for name in policy["category_order"]
     ] + ["GEOIP,CN,DIRECT", "FINAL,节点选择"]
-    assert config["rules"] == [
-        f"RULE-SET,{name},{policy['categories'][name]}" for name in policy["category_order"]
-    ] + ["GEOIP,CN,DIRECT", "MATCH,节点选择"]
+    expected_rules = []
+    for name in policy["category_order"]:
+        if (artifacts / f"clash/{name}_domain.yaml").exists():
+            expected_rules.append(f"RULE-SET,{name}_domain,{policy['categories'][name]}")
+        if (artifacts / f"clash/{name}.yaml").exists():
+            expected_rules.append(f"RULE-SET,{name},{policy['categories'][name]}")
+    assert config["rules"] == expected_rules + ["GEOIP,CN,DIRECT", "MATCH,节点选择"]
     assert sr_rules[0].endswith("ads_reject.list,REJECT")
     assert sr_rules[-3].endswith("cn_direct.list,DIRECT")
     names = {group["name"] for group in config["proxy-groups"]}
@@ -78,6 +96,11 @@ def test_order_group_references_and_terminal_rules(artifacts, source_bundle):
             assert group["use"] == ["subscription"]
     assert config["dns"]["enhanced-mode"] == "fake-ip"
     assert config["dns"]["fake-ip-range"] == "198.18.0.1/16"
+    assert config["geodata-mode"] is True
+    assert config["dns"]["respect-rules"] is True
+    assert config["dns"]["nameserver-policy"]["geosite:cn"] == ["https://dns.alidns.com/dns-query#DIRECT", "https://doh.pub/dns-query#DIRECT"]
+    assert config["dns"]["nameserver-policy"]["geosite:geolocation-!cn"] == ["https://cloudflare-dns.com/dns-query#节点选择", "https://dns.google/dns-query#节点选择"]
+    assert config["rules"].index("RULE-SET,microsoft_domain,DIRECT") < config["rules"].index("RULE-SET,global_proxy_domain,节点选择")
     assert "[General]" in sr_text and "[Proxy Group]" in sr_text
     assert sr_text.split("[Proxy]\n")[1].split("[Proxy Group]")[0].strip().startswith("#")
     assert "节点选择 = select, DIRECT, policy-regex-filter=" in sr_text
@@ -136,19 +159,34 @@ def test_generated_config_does_not_mutate_policy(source_bundle):
     assert policy == original
 
 
+@pytest.mark.skipif(not shutil.which("mihomo"), reason="Mihomo compiler is not installed")
+def test_mrs_build_emits_binary_domain_providers(tmp_path):
+    output = tmp_path / "mrs-dist"
+    build(ROOT / "rules", ROOT / "policy.yaml", output, mrs=True)
+    config = yaml.safe_load((output / "clash/config.yaml").read_text())
+    domain_providers = [provider for provider in config["rule-providers"].values() if provider["behavior"] == "domain"]
+    assert len(domain_providers) > 0
+    assert all(provider["format"] == "mrs" for provider in domain_providers)
+    for provider in domain_providers:
+        name = Path(provider["url"]).name
+        binary = output / "clash" / name
+        assert binary.exists() and binary.stat().st_size > 4
+        assert binary.read_bytes().startswith(bytes.fromhex("28b52ffd"))
+
+
 def test_x_core_services_and_grok_have_explicit_routing(artifacts):
     config = yaml.safe_load((artifacts / "clash/config.yaml").read_text())
-    x_payload = yaml.safe_load((artifacts / "clash/x.yaml").read_text())["payload"]
-    essential = {f"DOMAIN-SUFFIX,{domain}" for domain in (
+    x_payload = yaml.safe_load((artifacts / "clash/x_domain.yaml").read_text())["payload"]
+    essential = {f".{domain}" for domain in (
         "x.com", "twitter.com", "t.co", "twimg.com", "twvid.com", "twitteroauth.com"
     )}
     assert essential <= set(x_payload)
-    assert "RULE-SET,x,节点选择" in config["rules"]
-    assert config["rules"].index("RULE-SET,x,节点选择") < config["rules"].index("RULE-SET,cn_direct,DIRECT")
+    assert "RULE-SET,x_domain,节点选择" in config["rules"]
+    assert config["rules"].index("RULE-SET,x_domain,节点选择") < config["rules"].index("RULE-SET,cn_direct_domain,DIRECT")
     assert not any(group["name"] == "X" for group in config["proxy-groups"])
     sr = (artifacts / "shadowrocket/shadowrocket.conf").read_text()
     assert "X = select, 节点选择, 自动测速, DIRECT" not in sr
     assert "/shadowrocket/x.list,节点选择" in sr
-    ai_payload = yaml.safe_load((artifacts / "clash/ai.yaml").read_text())["payload"]
-    assert "DOMAIN-SUFFIX,grok.com" in ai_payload
+    ai_payload = yaml.safe_load((artifacts / "clash/ai_domain.yaml").read_text())["payload"]
+    assert ".grok.com" in ai_payload
     assert "DOMAIN-SUFFIX,grok.com" not in x_payload
