@@ -1,0 +1,159 @@
+repository: https://github.com/blackmatrix7/ios_rule_script
+commit: 83f37120c155f67c8eef43221dabe15cc3c95fec
+license: GPL-2.0
+sources:
+- category: ai
+  path: rule/Clash/OpenAI/OpenAI.list
+  sha256: 6f4047cdbf6953cf5d9b38c4ccd6da7bc6f1acb91b7a87134f25d5b8f5d2408b
+  selected:
+  - DOMAIN,chat.openai.com.cdn.cloudflare.net
+  - DOMAIN,openai-api.arkoselabs.com
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN-SUFFIX,openai.com
+- category: ai
+  path: rule/Clash/Claude/Claude.list
+  sha256: 870e7e25d798e7f00338507f773b0eea4dfd15e25e9df0a27d5ae421ae1ab378
+  selected:
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claude.ai
+- category: ai
+  path: rule/Clash/Gemini/Gemini.list
+  sha256: db8f69154426dca76792ab80b3ad6b0e2d078ebe0e52e76faec1724245a4ec49
+  selected:
+  - DOMAIN,ai.google.dev
+  - DOMAIN,makersuite.google.com
+  - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN-KEYWORD,generativelanguage
+- category: streaming
+  path: rule/Clash/YouTube/YouTube.list
+  sha256: a8e4819c3ee2ba71c06873769310ec012a3aa2e8fc54843168ae6edef6e75280
+  selected:
+  - DOMAIN-SUFFIX,ggpht.com
+  - DOMAIN-SUFFIX,googlevideo.com
+  - DOMAIN-SUFFIX,youtu.be
+  - DOMAIN-SUFFIX,youtube-nocookie.com
+  - DOMAIN-SUFFIX,youtube.com
+  - DOMAIN-SUFFIX,ytimg.com
+- category: streaming
+  path: rule/Clash/Netflix/Netflix.list
+  sha256: 9ceac35682ac97d17223d90e08c4e56b52c072b1698d746a2d22444110318b57
+  selected:
+  - DOMAIN-SUFFIX,fast.com
+  - DOMAIN-SUFFIX,netflix.com
+  - DOMAIN-SUFFIX,netflix.net
+  - DOMAIN-SUFFIX,nflxext.com
+  - DOMAIN-SUFFIX,nflximg.com
+  - DOMAIN-SUFFIX,nflximg.net
+  - DOMAIN-SUFFIX,nflxso.net
+  - DOMAIN-SUFFIX,nflxvideo.net
+- category: streaming
+  path: rule/Clash/Spotify/Spotify.list
+  sha256: 0832138646a9425340a62743e0a1f847f681b571b1d28d07372a97dd6fd46efd
+  selected:
+  - DOMAIN-SUFFIX,pscdn.co
+  - DOMAIN-SUFFIX,scdn.co
+  - DOMAIN-SUFFIX,spoti.fi
+  - DOMAIN-SUFFIX,spotify.com
+  - DOMAIN-SUFFIX,spotifycdn.com
+- category: telegram
+  path: rule/Clash/Telegram/Telegram.list
+  sha256: 0e99a027795b51c495e3bd97c854b147898c5e598ece47bd79515a419aab25e1
+  selected:
+  - DOMAIN-SUFFIX,cdn-telegram.org
+  - DOMAIN-SUFFIX,t.me
+  - DOMAIN-SUFFIX,tdesktop.com
+  - DOMAIN-SUFFIX,telegra.ph
+  - DOMAIN-SUFFIX,telegram-cdn.org
+  - DOMAIN-SUFFIX,telegram.dog
+  - DOMAIN-SUFFIX,telegram.me
+  - DOMAIN-SUFFIX,telegram.org
+  - DOMAIN-SUFFIX,telegramdownload.com
+  - DOMAIN-SUFFIX,telesco.pe
+  - DOMAIN-SUFFIX,tg.dev
+  - IP-CIDR,149.154.160.0/20,no-resolve
+  - IP-CIDR,91.108.0.0/16,no-resolve
+  - IP-CIDR6,2001:67c:4e8::/48,no-resolve
+  - IP-CIDR6,2001:b28:f23c::/47,no-resolve
+  - IP-CIDR6,2001:b28:f23f::/48,no-resolve
+  - IP-CIDR6,2a0a:f280::/29,no-resolve
+- category: github
+  path: rule/Clash/GitHub/GitHub.list
+  sha256: ced8ab0ecda5775d04ec8ee6a57b282181108565331a6a1d85e9a26fee25d79b
+  selected:
+  - DOMAIN-SUFFIX,ghcr.io
+  - DOMAIN-SUFFIX,github-cloud.s3.amazonaws.com
+  - DOMAIN-SUFFIX,github.blog
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,github.dev
+  - DOMAIN-SUFFIX,github.io
+  - DOMAIN-SUFFIX,githubassets.com
+  - DOMAIN-SUFFIX,githubusercontent.com
+- category: apple
+  path: rule/Clash/Apple/Apple.list
+  sha256: 5c3cef124b9895248bc9c6371b55901a8bca66f5c485c93a9008e6745d2a0e2e
+  selected:
+  - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,mzstatic.com
+  - DOMAIN-SUFFIX,aaplimg.com
+  - DOMAIN-SUFFIX,icloud-content.com
+  - DOMAIN-SUFFIX,icloud.com
+  - DOMAIN-SUFFIX,itunes.com
+  - DOMAIN-SUFFIX,apple-cloudkit.com
+  - DOMAIN-SUFFIX,cdn-apple.com
+- category: microsoft
+  path: rule/Clash/Microsoft/Microsoft.list
+  sha256: 241e998fe692f1ad0cec29b66b95769bee656f4beb3b5ccd47f15b8e8935d5dc
+  selected:
+  - DOMAIN-SUFFIX,1drv.ms
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,live.com
+  - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,microsoftonline.com
+  - DOMAIN-SUFFIX,office.com
+  - DOMAIN-SUFFIX,office.net
+  - DOMAIN-SUFFIX,office365.com
+  - DOMAIN-SUFFIX,outlook.com
+  - DOMAIN-SUFFIX,windows.net
+  - DOMAIN-SUFFIX,windowsupdate.com
+  - DOMAIN-SUFFIX,onedrive.com
+- category: cn_direct
+  path: rule/Clash/China/China.list
+  sha256: 9b441d075b8ec70c6df22d09b6b6d63bce06669f8a8f851ef7a12eccad675d4c
+  selected:
+  - DOMAIN-SUFFIX,126.com
+  - DOMAIN-SUFFIX,163.com
+  - DOMAIN-SUFFIX,alicdn.com
+  - DOMAIN-SUFFIX,alipay.com
+  - DOMAIN-SUFFIX,amap.com
+  - DOMAIN-SUFFIX,baidu.com
+  - DOMAIN-SUFFIX,bilibili.com
+  - DOMAIN-SUFFIX,ctrip.com
+  - DOMAIN-SUFFIX,douyin.com
+  - DOMAIN-SUFFIX,ele.me
+  - DOMAIN-SUFFIX,jd.com
+  - DOMAIN-SUFFIX,meituan.com
+  - DOMAIN-SUFFIX,qq.com
+  - DOMAIN-SUFFIX,taobao.com
+  - DOMAIN-SUFFIX,tmall.com
+  - DOMAIN-SUFFIX,weibo.com
+  - DOMAIN-SUFFIX,xiaohongshu.com
+  - DOMAIN-SUFFIX,zhihu.com
+- category: ads_reject
+  path: rule/Clash/AdvertisingLite/AdvertisingLite.list
+  sha256: 7bf42a2a6f030da08eebff3a8cfa5a3d65dabbd1c1caff8ec807f26d858c5a27
+  selected:
+  - DOMAIN,ads.adiquity.com
+  - DOMAIN,ads.cdn.rovio.com
+  - DOMAIN,ads.snapchat.com
+  - DOMAIN-SUFFIX,adcolony.com
+  - DOMAIN-SUFFIX,adnxs.com
+  - DOMAIN-SUFFIX,adsrvr.org
+  - DOMAIN-SUFFIX,app-measurement.com
+  - DOMAIN-SUFFIX,cnzz.com
+  - DOMAIN-SUFFIX,criteo.com
+  - DOMAIN-SUFFIX,doubleclick.net
+  - DOMAIN-SUFFIX,googlesyndication.com
+  - DOMAIN-SUFFIX,outbrain.com
+  - DOMAIN-SUFFIX,taboola.com

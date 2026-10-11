@@ -1,0 +1,11 @@
+[project]
+name = "fenliu"
+version = "0.1.0"
+description = "Generate Shadowrocket and Mihomo rules from shared YAML sources"
+requires-python = ">=3.11"
+dependencies = ["PyYAML==6.0.3"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-ra"

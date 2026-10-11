@@ -1,0 +1,37 @@
+# 精选规则；不是完整上游镜像。参见 SOURCES.md。
+- type: DOMAIN-SUFFIX
+  value: 1drv.ms
+  comment: blackmatrix7/Microsoft 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: bing.com
+  comment: blackmatrix7/Microsoft 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: live.com
+  comment: blackmatrix7/Microsoft 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: microsoft.com
+  comment: blackmatrix7/Microsoft 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: microsoftonline.com
+  comment: blackmatrix7/Microsoft 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: office.com
+  comment: blackmatrix7/Microsoft 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: office.net
+  comment: blackmatrix7/Microsoft 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: office365.com
+  comment: blackmatrix7/Microsoft 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: outlook.com
+  comment: blackmatrix7/Microsoft 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: windows.net
+  comment: blackmatrix7/Microsoft 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: windowsupdate.com
+  comment: blackmatrix7/Microsoft 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: onedrive.com
+  comment: blackmatrix7/Microsoft 精选；来源见 sources.yaml

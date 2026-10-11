@@ -1,0 +1,52 @@
+version: 1
+# gh-pages 的根目录是 dist/ 的内容，不再包含 dist/ 这一层。
+rule_base_url: https://raw.githubusercontent.com/limail8866-prog/fenliu/gh-pages
+groups:
+  - name: 节点选择
+    type: select
+    proxies: [自动测速, DIRECT]
+    use: [subscription]
+  - name: 自动测速
+    type: url-test
+    proxies: []
+    use: [subscription]
+    url: https://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+  - name: AI
+    type: select
+    proxies: [节点选择, 自动测速, DIRECT]
+  - name: 流媒体
+    type: select
+    proxies: [节点选择, 自动测速, DIRECT]
+  - name: Telegram
+    type: select
+    proxies: [节点选择, 自动测速, DIRECT]
+  - name: 直连
+    type: select
+    proxies: [DIRECT]
+  - name: 拒绝
+    type: select
+    proxies: [REJECT]
+  - name: 漏网之鱼
+    type: select
+    proxies: [节点选择, 自动测速, DIRECT]
+categories:
+  ads_reject: 拒绝
+  ai: AI
+  streaming: 流媒体
+  telegram: Telegram
+  github: 节点选择
+  apple: 直连
+  microsoft: 节点选择
+  cn_direct: 直连
+category_order:
+  - ads_reject
+  - ai
+  - streaming
+  - telegram
+  - github
+  - apple
+  - microsoft
+  - cn_direct
+final: 漏网之鱼

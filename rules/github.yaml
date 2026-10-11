@@ -1,0 +1,25 @@
+# 精选规则；不是完整上游镜像。参见 SOURCES.md。
+- type: DOMAIN-SUFFIX
+  value: ghcr.io
+  comment: blackmatrix7/GitHub 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: github-cloud.s3.amazonaws.com
+  comment: blackmatrix7/GitHub 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: github.blog
+  comment: blackmatrix7/GitHub 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: github.com
+  comment: blackmatrix7/GitHub 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: github.dev
+  comment: blackmatrix7/GitHub 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: github.io
+  comment: blackmatrix7/GitHub 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: githubassets.com
+  comment: blackmatrix7/GitHub 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: githubusercontent.com
+  comment: blackmatrix7/GitHub 精选；来源见 sources.yaml

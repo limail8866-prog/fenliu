@@ -1,0 +1,37 @@
+# 精选规则；不是完整上游镜像。参见 SOURCES.md。
+- type: DOMAIN
+  value: chat.openai.com.cdn.cloudflare.net
+  comment: blackmatrix7/OpenAI 精选；来源见 sources.yaml
+- type: DOMAIN
+  value: openai-api.arkoselabs.com
+  comment: blackmatrix7/OpenAI 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: chatgpt.com
+  comment: blackmatrix7/OpenAI 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: oaistatic.com
+  comment: blackmatrix7/OpenAI 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: oaiusercontent.com
+  comment: blackmatrix7/OpenAI 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: openai.com
+  comment: blackmatrix7/OpenAI 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: anthropic.com
+  comment: blackmatrix7/Claude 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: claude.ai
+  comment: blackmatrix7/Claude 精选；来源见 sources.yaml
+- type: DOMAIN
+  value: ai.google.dev
+  comment: blackmatrix7/Gemini 精选；来源见 sources.yaml
+- type: DOMAIN
+  value: makersuite.google.com
+  comment: blackmatrix7/Gemini 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: gemini.google.com
+  comment: blackmatrix7/Gemini 精选；来源见 sources.yaml
+- type: DOMAIN-KEYWORD
+  value: generativelanguage
+  comment: blackmatrix7/Gemini 精选；来源见 sources.yaml

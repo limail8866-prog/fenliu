@@ -1,0 +1,40 @@
+# 精选规则；不是完整上游镜像。参见 SOURCES.md。
+- type: DOMAIN
+  value: ads.adiquity.com
+  comment: blackmatrix7/AdvertisingLite 精选；来源见 sources.yaml
+- type: DOMAIN
+  value: ads.cdn.rovio.com
+  comment: blackmatrix7/AdvertisingLite 精选；来源见 sources.yaml
+- type: DOMAIN
+  value: ads.snapchat.com
+  comment: blackmatrix7/AdvertisingLite 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: adcolony.com
+  comment: blackmatrix7/AdvertisingLite 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: adnxs.com
+  comment: blackmatrix7/AdvertisingLite 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: adsrvr.org
+  comment: blackmatrix7/AdvertisingLite 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: app-measurement.com
+  comment: blackmatrix7/AdvertisingLite 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: cnzz.com
+  comment: blackmatrix7/AdvertisingLite 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: criteo.com
+  comment: blackmatrix7/AdvertisingLite 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: doubleclick.net
+  comment: blackmatrix7/AdvertisingLite 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: googlesyndication.com
+  comment: blackmatrix7/AdvertisingLite 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: outbrain.com
+  comment: blackmatrix7/AdvertisingLite 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: taboola.com
+  comment: blackmatrix7/AdvertisingLite 精选；来源见 sources.yaml

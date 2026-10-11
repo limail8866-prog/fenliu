@@ -1,0 +1,58 @@
+# 精选规则；不是完整上游镜像。参见 SOURCES.md。
+- type: DOMAIN-SUFFIX
+  value: ggpht.com
+  comment: blackmatrix7/YouTube 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: googlevideo.com
+  comment: blackmatrix7/YouTube 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: youtu.be
+  comment: blackmatrix7/YouTube 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: youtube-nocookie.com
+  comment: blackmatrix7/YouTube 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: youtube.com
+  comment: blackmatrix7/YouTube 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: ytimg.com
+  comment: blackmatrix7/YouTube 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: fast.com
+  comment: blackmatrix7/Netflix 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: netflix.com
+  comment: blackmatrix7/Netflix 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: netflix.net
+  comment: blackmatrix7/Netflix 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: nflxext.com
+  comment: blackmatrix7/Netflix 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: nflximg.com
+  comment: blackmatrix7/Netflix 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: nflximg.net
+  comment: blackmatrix7/Netflix 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: nflxso.net
+  comment: blackmatrix7/Netflix 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: nflxvideo.net
+  comment: blackmatrix7/Netflix 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: pscdn.co
+  comment: blackmatrix7/Spotify 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: scdn.co
+  comment: blackmatrix7/Spotify 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: spoti.fi
+  comment: blackmatrix7/Spotify 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: spotify.com
+  comment: blackmatrix7/Spotify 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: spotifycdn.com
+  comment: blackmatrix7/Spotify 精选；来源见 sources.yaml

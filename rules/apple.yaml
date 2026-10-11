@@ -1,0 +1,25 @@
+# 精选规则；不是完整上游镜像。参见 SOURCES.md。
+- type: DOMAIN-SUFFIX
+  value: apple.com
+  comment: blackmatrix7/Apple 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: mzstatic.com
+  comment: blackmatrix7/Apple 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: aaplimg.com
+  comment: blackmatrix7/Apple 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: icloud-content.com
+  comment: blackmatrix7/Apple 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: icloud.com
+  comment: blackmatrix7/Apple 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: itunes.com
+  comment: blackmatrix7/Apple 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: apple-cloudkit.com
+  comment: blackmatrix7/Apple 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: cdn-apple.com
+  comment: blackmatrix7/Apple 精选；来源见 sources.yaml

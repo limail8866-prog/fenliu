@@ -1,0 +1,67 @@
+# 精选规则；不是完整上游镜像。参见 SOURCES.md。
+- type: DOMAIN-SUFFIX
+  value: 126.com
+  comment: blackmatrix7/China 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: 163.com
+  comment: blackmatrix7/China 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: alicdn.com
+  comment: blackmatrix7/China 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: alipay.com
+  comment: blackmatrix7/China 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: amap.com
+  comment: blackmatrix7/China 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: baidu.com
+  comment: blackmatrix7/China 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: bilibili.com
+  comment: blackmatrix7/China 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: ctrip.com
+  comment: blackmatrix7/China 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: douyin.com
+  comment: blackmatrix7/China 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: ele.me
+  comment: blackmatrix7/China 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: jd.com
+  comment: blackmatrix7/China 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: meituan.com
+  comment: blackmatrix7/China 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: qq.com
+  comment: blackmatrix7/China 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: taobao.com
+  comment: blackmatrix7/China 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: tmall.com
+  comment: blackmatrix7/China 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: weibo.com
+  comment: blackmatrix7/China 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: xiaohongshu.com
+  comment: blackmatrix7/China 精选；来源见 sources.yaml
+- type: DOMAIN-SUFFIX
+  value: zhihu.com
+  comment: blackmatrix7/China 精选；来源见 sources.yaml
+- type: IP-CIDR
+  value: 10.0.0.0/8
+  comment: 本地私网直连
+- type: IP-CIDR
+  value: 172.16.0.0/12
+  comment: 本地私网直连
+- type: IP-CIDR
+  value: 192.168.0.0/16
+  comment: 本地私网直连
+- type: IP-CIDR6
+  value: fc00::/7
+  comment: IPv6 本地唯一地址直连
