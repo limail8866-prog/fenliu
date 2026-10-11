@@ -86,7 +86,7 @@ def test_policy_errors(tmp_path, mutation, source_bundle):
     elif mutation == "duplicate_group":
         policy["groups"].append(copy.deepcopy(policy["groups"][0]))
     elif mutation == "cycle":
-        policy["groups"][1]["proxies"] = ["节点选择"]
+        policy["groups"][0]["proxies"] = ["节点选择"]
     elif mutation == "order":
         policy["category_order"].reverse()
     elif mutation == "missing_category":

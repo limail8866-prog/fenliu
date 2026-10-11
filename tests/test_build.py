@@ -64,25 +64,23 @@ def test_order_group_references_and_terminal_rules(artifacts, source_bundle):
     assert sr_rules == [
         f"RULE-SET,{policy['rule_base_url']}/shadowrocket/{name}.list,{policy['categories'][name]}"
         for name in policy["category_order"]
-    ] + ["GEOIP,CN,DIRECT", "FINAL,漏网之鱼"]
+    ] + ["GEOIP,CN,DIRECT", "FINAL,节点选择"]
     assert config["rules"] == [
         f"RULE-SET,{name},{policy['categories'][name]}" for name in policy["category_order"]
-    ] + ["GEOIP,CN,DIRECT", "MATCH,漏网之鱼"]
-    assert sr_rules[0].endswith("ads_reject.list,拒绝")
-    assert sr_rules[-3].endswith("cn_direct.list,直连")
+    ] + ["GEOIP,CN,DIRECT", "MATCH,节点选择"]
+    assert sr_rules[0].endswith("ads_reject.list,REJECT")
+    assert sr_rules[-3].endswith("cn_direct.list,DIRECT")
     names = {group["name"] for group in config["proxy-groups"]}
-    assert names == {"节点选择", "自动测速", "AI", "流媒体", "Telegram", "直连", "拒绝", "漏网之鱼"}
+    assert names == {"节点选择"}
     for group in config["proxy-groups"]:
         assert set(group["proxies"]) <= names | {"DIRECT", "REJECT"}
         if group.get("use"):
             assert group["use"] == ["subscription"]
-    auto = next(group for group in config["proxy-groups"] if group["name"] == "自动测速")
-    assert "DIRECT" not in auto["proxies"]  # Direct must not win the proxy speed test.
     assert config["dns"]["enhanced-mode"] == "fake-ip"
     assert config["dns"]["fake-ip-range"] == "198.18.0.1/16"
     assert "[General]" in sr_text and "[Proxy Group]" in sr_text
     assert sr_text.split("[Proxy]\n")[1].split("[Proxy Group]")[0].strip().startswith("#")
-    assert "自动测速 = url-test, policy-regex-filter=" in sr_text
+    assert "节点选择 = select, DIRECT, policy-regex-filter=" in sr_text
 
 
 def test_public_build_never_embeds_subscription(tmp_path, monkeypatch):
@@ -146,7 +144,7 @@ def test_x_core_services_and_grok_have_explicit_routing(artifacts):
     )}
     assert essential <= set(x_payload)
     assert "RULE-SET,x,节点选择" in config["rules"]
-    assert config["rules"].index("RULE-SET,x,节点选择") < config["rules"].index("RULE-SET,cn_direct,直连")
+    assert config["rules"].index("RULE-SET,x,节点选择") < config["rules"].index("RULE-SET,cn_direct,DIRECT")
     assert not any(group["name"] == "X" for group in config["proxy-groups"])
     sr = (artifacts / "shadowrocket/shadowrocket.conf").read_text()
     assert "X = select, 节点选择, 自动测速, DIRECT" not in sr

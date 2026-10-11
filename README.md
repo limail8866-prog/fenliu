@@ -26,26 +26,26 @@ dist/shadowrocket/         各分类 .list + shadowrocket.conf
 dist/clash/                各分类 classical .yaml + config.yaml
 ```
 
-目前从 **blackmatrix7/ios_rule_script** 和 **v2fly/domain-list-community** 的 47 份固定版本文件导入并去重，包含 **14 个分类、78,624 条规则、8 个策略组**。来源、跳过统计与许可见 [SOURCES.md](SOURCES.md)。规则分类与策略组分开：X、GitHub、游戏、社交媒体、Google、支付、Microsoft 和通用代理仍分别匹配规则，但统一走「节点选择」。没有单独分类的网站优先匹配通用代理列表，最后由「漏网之鱼」兜底；二者默认都使用节点选择。
+目前从 **blackmatrix7/ios_rule_script** 和 **v2fly/domain-list-community** 的 47 份固定版本文件导入并去重，包含 **14 个分类、78,624 条规则**。来源、跳过统计与许可见 [SOURCES.md](SOURCES.md)。规则仍按分类匹配，但默认只生成一个可见策略组「节点选择」：需代理的分类及漏网流量走节点选择，国内直连分类直接走 `DIRECT`，广告规则直接走 `REJECT`。没有单独分类的网站优先匹配通用代理列表。
 
 | 分类 | 覆盖范围 | 默认策略 |
 | --- | --- | --- |
-| 广告拦截 | AdvertisingLite 完整兼容规则，38,066 条 | 拒绝 |
-| AI | OpenAI、ChatGPT、Sora、Claude、Gemini、Copilot、Grok | AI |
-| 流媒体 | YouTube、Netflix、Spotify、Twitch、Disney+、Prime Video、HBO、Hulu | 流媒体 |
-| Telegram | 域名、媒体 CDN、IPv4/IPv6 网段 | Telegram |
+| 广告拦截 | AdvertisingLite 完整兼容规则，38,066 条 | `REJECT` |
+| AI | OpenAI、ChatGPT、Sora、Claude、Gemini、Copilot、Grok | 节点选择 |
+| 流媒体 | YouTube、Netflix、Spotify、Twitch、Disney+、Prime Video、HBO、Hulu | 节点选择 |
+| Telegram | 域名、媒体 CDN、IPv4/IPv6 网段 | 节点选择 |
 | X | Twitter/X 主站、t.co 短链、图片、视频、鉴权域名 | 节点选择 |
 | GitHub | 主站、源码、资源、容器及存储端点 | 节点选择 |
 | 游戏 | Steam、Epic、PlayStation、Xbox、Nintendo、Battle.net、Origin/EA | 节点选择 |
-| Apple | Apple、iCloud、App Store 等 | 直连 |
+| Apple | Apple、iCloud、App Store 等 | `DIRECT` |
 | Microsoft | Microsoft、Office、Outlook、OneDrive、Azure 等 | 节点选择 |
 | 社交媒体 | Facebook、Instagram、WhatsApp、Discord、Reddit、TikTok、Signal、Zoom | 节点选择 |
 | Google | Google、Gmail、Drive 等 | 节点选择 |
 | 支付 | PayPal、Venmo 等 | 节点选择 |
 | 通用代理 | Global 与 Wikimedia，30,978 条 | 节点选择 |
-| 国内直连 | China 白名单及私网，3,619 条 | 直连 |
+| 国内直连 | China 白名单及私网，3,619 条 | `DIRECT` |
 
-日常只需在 8 个策略组中选择：节点选择、自动测速、AI、流媒体、Telegram、直连、拒绝和漏网之鱼。X 等其他分类保留独立规则列表，默认交给「节点选择」，减少客户端里的分组数量。AI 中的 Grok 独立站 `grok.com` 使用 AI 策略；X 规则仍单独匹配并走节点选择。覆盖范围依赖已导入的上游规则，不能保证涵盖所有网站或服务的所有端点。
+客户端只显示「节点选择」一个策略组。AI、流媒体、Telegram、X、GitHub 等规则仍分别匹配，命中后交给节点选择；国内直连和广告拦截则由规则直接执行，不需要额外策略组。Grok 独立站 `grok.com` 归入 AI 规则，X 服务仍由 X 规则单独匹配。覆盖范围依赖已导入的上游规则，不能保证涵盖所有网站或服务的所有端点。
 
 ## 添加规则
 
@@ -65,15 +65,15 @@ dist/clash/                各分类 classical .yaml + config.yaml
 
 支持 `DOMAIN`、`DOMAIN-SUFFIX`、`DOMAIN-KEYWORD`、`IP-CIDR`、`IP-CIDR6`、`GEOIP`。不要把 URL、端口或 `*.` 通配符填入域名规则；CIDR 必须是对齐的网络地址且含前缀。IP 规则自动在两端追加 `no-resolve`。域名统一小写，并支持 IDNA 转换。`GEOIP` 的值要加引号，例如 `value: 'NO'`，避免 YAML 把它当成布尔值。
 
-新增分类时同时在 `policy.yaml` 的 `categories` 添加策略组映射，在 `category_order` 添加位置。组类型支持 `select` 和 `url-test`；`proxies` 只引用组名或 `DIRECT` / `REJECT`，`use: [subscription]` 用于节点来源。自动测速组不包含 DIRECT，避免直连在测速中胜出。
+新增分类时同时在 `policy.yaml` 的 `categories` 添加目标（策略组名、`DIRECT` 或 `REJECT`），在 `category_order` 添加位置。当前默认模板只定义「节点选择」组，节点由 `use: [subscription]` 提供；分类规则可以直接选择内置的 `DIRECT` 和 `REJECT`。
 
 两端使用相同的匹配顺序：
 
-1. `ads_reject` → 拒绝
+1. `ads_reject` → `REJECT`
 2. 自定义分类：AI → 流媒体 → Telegram → X → GitHub → 游戏 → Apple → Microsoft → 社交媒体 → Google → 支付 → 通用代理
-3. `cn_direct` → 直连
+3. `cn_direct` → `DIRECT`
 4. `GEOIP,CN,DIRECT`
-5. 小火箭 `FINAL,漏网之鱼` / Mihomo `MATCH,漏网之鱼`
+5. 小火箭 `FINAL,节点选择` / Mihomo `MATCH,节点选择`
 
 `validate.py` 检查字段、YAML 重复键、规范化后的重复规则、跨分类域名/后缀/关键词覆盖、同版本 IP 网段重叠、映射及策略组循环引用。重复规则始终报错；未声明的跨分类覆盖也报错。完整列表中的合理覆盖必须在 `policy.yaml` 的 `overrides` 写明较高/较低分类和原因，而且与 category_order 一致，例如广告子域名先于国内白名单、Discord 专用资源先于 Google 云平台。当前审阅了 34 对分类覆盖；它们按照原定顺序匹配，不改变拒绝和直连的优先级。
 

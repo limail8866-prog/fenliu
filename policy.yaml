@@ -4,65 +4,24 @@ groups:
 - name: 节点选择
   type: select
   proxies:
-  - 自动测速
   - DIRECT
   use:
   - subscription
-- name: 自动测速
-  type: url-test
-  proxies: []
-  use:
-  - subscription
-  url: https://www.gstatic.com/generate_204
-  interval: 300
-  tolerance: 50
-- name: AI
-  type: select
-  proxies:
-  - 节点选择
-  - 自动测速
-  - DIRECT
-- name: 流媒体
-  type: select
-  proxies:
-  - 节点选择
-  - 自动测速
-  - DIRECT
-- name: Telegram
-  type: select
-  proxies:
-  - 节点选择
-  - 自动测速
-  - DIRECT
-- name: 直连
-  type: select
-  proxies:
-  - DIRECT
-- name: 拒绝
-  type: select
-  proxies:
-  - REJECT
-- name: 漏网之鱼
-  type: select
-  proxies:
-  - 节点选择
-  - 自动测速
-  - DIRECT
 categories:
-  ads_reject: 拒绝
-  ai: AI
-  streaming: 流媒体
-  telegram: Telegram
+  ads_reject: REJECT
+  ai: 节点选择
+  streaming: 节点选择
+  telegram: 节点选择
   x: 节点选择
   github: 节点选择
   games: 节点选择
-  apple: 直连
+  apple: DIRECT
   microsoft: 节点选择
   google: 节点选择
   social: 节点选择
   payment: 节点选择
   global_proxy: 节点选择
-  cn_direct: 直连
+  cn_direct: DIRECT
 category_order:
 - ads_reject
 - ai
@@ -78,7 +37,7 @@ category_order:
 - payment
 - global_proxy
 - cn_direct
-final: 漏网之鱼
+final: 节点选择
 overrides:
 - higher: ads_reject
   lower: google
