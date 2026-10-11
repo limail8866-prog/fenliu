@@ -1,25 +1,93 @@
-# 精选规则；不是完整上游镜像。参见 SOURCES.md。
+- type: DOMAIN-SUFFIX
+  value: atom.io
+  comment: upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+- type: DOMAIN-SUFFIX
+  value: dependabot.com
+  comment: upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
 - type: DOMAIN-SUFFIX
   value: ghcr.io
-  comment: blackmatrix7/GitHub 精选；来源见 sources.yaml
+  comment: upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+- type: DOMAIN-SUFFIX
+  value: git.io
+  comment: upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+- type: DOMAIN-SUFFIX
+  value: github-atom-io-herokuapp-com.freetls.fastly.net
+  comment: upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+- type: DOMAIN-SUFFIX
+  value: github-avatars.oss-cn-hongkong.aliyuncs.com
+  comment: upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
 - type: DOMAIN-SUFFIX
   value: github-cloud.s3.amazonaws.com
-  comment: blackmatrix7/GitHub 精选；来源见 sources.yaml
+  comment: upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
 - type: DOMAIN-SUFFIX
   value: github.blog
-  comment: blackmatrix7/GitHub 精选；来源见 sources.yaml
+  comment: upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
 - type: DOMAIN-SUFFIX
   value: github.com
-  comment: blackmatrix7/GitHub 精选；来源见 sources.yaml
+  comment: upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+- type: DOMAIN-SUFFIX
+  value: github.community
+  comment: upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
 - type: DOMAIN-SUFFIX
   value: github.dev
-  comment: blackmatrix7/GitHub 精选；来源见 sources.yaml
+  comment: upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
 - type: DOMAIN-SUFFIX
   value: github.io
-  comment: blackmatrix7/GitHub 精选；来源见 sources.yaml
+  comment: upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+- type: DOMAIN-SUFFIX
+  value: githubapp.com
+  comment: upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
 - type: DOMAIN-SUFFIX
   value: githubassets.com
-  comment: blackmatrix7/GitHub 精选；来源见 sources.yaml
+  comment: upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+- type: DOMAIN-SUFFIX
+  value: githubcopilot.com
+  comment: upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+- type: DOMAIN-SUFFIX
+  value: githubhackathon.com
+  comment: upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+- type: DOMAIN-SUFFIX
+  value: githubnext.com
+  comment: upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+- type: DOMAIN-SUFFIX
+  value: githubpreview.dev
+  comment: upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+- type: DOMAIN-SUFFIX
+  value: githubstatus.com
+  comment: upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+- type: DOMAIN-SUFFIX
+  value: githubuniverse.com
+  comment: upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
 - type: DOMAIN-SUFFIX
   value: githubusercontent.com
-  comment: blackmatrix7/GitHub 精选；来源见 sources.yaml
+  comment: upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+- type: DOMAIN-SUFFIX
+  value: myoctocat.com
+  comment: upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+- type: DOMAIN-SUFFIX
+  value: npm.community
+  comment: upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+- type: DOMAIN-SUFFIX
+  value: npmjs.com
+  comment: upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+- type: DOMAIN-SUFFIX
+  value: npmjs.org
+  comment: upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+- type: DOMAIN-SUFFIX
+  value: opensource.guide
+  comment: upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+- type: DOMAIN-SUFFIX
+  value: rawgit.com
+  comment: upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+- type: DOMAIN-SUFFIX
+  value: rawgithub.com
+  comment: upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+- type: DOMAIN-SUFFIX
+  value: repo.new
+  comment: upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+- type: DOMAIN-SUFFIX
+  value: thegithubshop.com
+  comment: upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+- type: DOMAIN-KEYWORD
+  value: github
+  comment: upstream:blackmatrix:rule/Clash/GitHub/GitHub.list

@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import os
+import shutil
 import sys
 from pathlib import Path
 
@@ -123,10 +124,12 @@ def build(rules_dir: Path, policy_path: Path, output: Path, *, subscription: boo
     header = "# 自动生成；公开模板中的 ${SUB_URL} 必须由用户在本地替换。\n"
     (clash_dir / "config.yaml").write_text(header + dump_yaml(clash_config(policy, subscription_url)), encoding="utf-8")
     # Attribution accompanies published dist artifacts as well as source code.
-    for name in ("LICENSE", "SOURCES.md", "sources.yaml"):
+    for name in ("LICENSE", "SOURCES.md", "sources.yaml", "upstream.yaml"):
         source = ROOT / name
         if source.exists():
             (output / name).write_bytes(source.read_bytes())
+    if (ROOT / "licenses").exists():
+        shutil.copytree(ROOT / "licenses", output / "licenses", dirs_exist_ok=True)
     (output / ".nojekyll").touch()
     return {"categories": len(categories), "rules": sum(map(len, categories.values()))}
 

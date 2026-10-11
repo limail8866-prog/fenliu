@@ -1,52 +1,214 @@
 version: 1
-# gh-pages 的根目录是 dist/ 的内容，不再包含 dist/ 这一层。
 rule_base_url: https://raw.githubusercontent.com/limail8866-prog/fenliu/gh-pages
 groups:
-  - name: 节点选择
-    type: select
-    proxies: [自动测速, DIRECT]
-    use: [subscription]
-  - name: 自动测速
-    type: url-test
-    proxies: []
-    use: [subscription]
-    url: https://www.gstatic.com/generate_204
-    interval: 300
-    tolerance: 50
-  - name: AI
-    type: select
-    proxies: [节点选择, 自动测速, DIRECT]
-  - name: 流媒体
-    type: select
-    proxies: [节点选择, 自动测速, DIRECT]
-  - name: Telegram
-    type: select
-    proxies: [节点选择, 自动测速, DIRECT]
-  - name: 直连
-    type: select
-    proxies: [DIRECT]
-  - name: 拒绝
-    type: select
-    proxies: [REJECT]
-  - name: 漏网之鱼
-    type: select
-    proxies: [节点选择, 自动测速, DIRECT]
+- name: 节点选择
+  type: select
+  proxies:
+  - 自动测速
+  - DIRECT
+  use:
+  - subscription
+- name: 自动测速
+  type: url-test
+  proxies: []
+  use:
+  - subscription
+  url: https://www.gstatic.com/generate_204
+  interval: 300
+  tolerance: 50
+- name: AI
+  type: select
+  proxies:
+  - 节点选择
+  - 自动测速
+  - DIRECT
+- name: 流媒体
+  type: select
+  proxies:
+  - 节点选择
+  - 自动测速
+  - DIRECT
+- name: Telegram
+  type: select
+  proxies:
+  - 节点选择
+  - 自动测速
+  - DIRECT
+- name: X
+  type: select
+  proxies:
+  - 节点选择
+  - 自动测速
+  - DIRECT
+- name: Google
+  type: select
+  proxies:
+  - 节点选择
+  - 自动测速
+  - DIRECT
+- name: 社交媒体
+  type: select
+  proxies:
+  - 节点选择
+  - 自动测速
+  - DIRECT
+- name: 游戏
+  type: select
+  proxies:
+  - 节点选择
+  - 自动测速
+  - DIRECT
+- name: 支付
+  type: select
+  proxies:
+  - 节点选择
+  - 自动测速
+  - DIRECT
+- name: 直连
+  type: select
+  proxies:
+  - DIRECT
+- name: 拒绝
+  type: select
+  proxies:
+  - REJECT
+- name: 漏网之鱼
+  type: select
+  proxies:
+  - 节点选择
+  - 自动测速
+  - DIRECT
 categories:
   ads_reject: 拒绝
   ai: AI
   streaming: 流媒体
   telegram: Telegram
+  x: X
   github: 节点选择
+  games: 游戏
   apple: 直连
   microsoft: 节点选择
+  google: Google
+  social: 社交媒体
+  payment: 支付
+  global_proxy: 节点选择
   cn_direct: 直连
 category_order:
-  - ads_reject
-  - ai
-  - streaming
-  - telegram
-  - github
-  - apple
-  - microsoft
-  - cn_direct
+- ads_reject
+- ai
+- streaming
+- telegram
+- x
+- github
+- games
+- apple
+- microsoft
+- social
+- google
+- payment
+- global_proxy
+- cn_direct
 final: 漏网之鱼
+overrides:
+- higher: ads_reject
+  lower: google
+  reason: 广告与跟踪规则优先于服务分类和国内直连
+- higher: ads_reject
+  lower: cn_direct
+  reason: 广告与跟踪规则优先于服务分类和国内直连
+- higher: ads_reject
+  lower: global_proxy
+  reason: 广告与跟踪规则优先于服务分类和国内直连
+- higher: ads_reject
+  lower: microsoft
+  reason: 广告与跟踪规则优先于服务分类和国内直连
+- higher: ads_reject
+  lower: social
+  reason: 广告与跟踪规则优先于服务分类和国内直连
+- higher: ads_reject
+  lower: streaming
+  reason: 广告与跟踪规则优先于服务分类和国内直连
+- higher: ads_reject
+  lower: payment
+  reason: 广告与跟踪规则优先于服务分类和国内直连
+- higher: ads_reject
+  lower: ai
+  reason: 广告与跟踪规则优先于服务分类和国内直连
+- higher: ads_reject
+  lower: github
+  reason: 广告与跟踪规则优先于服务分类和国内直连
+- higher: ads_reject
+  lower: apple
+  reason: 广告与跟踪规则优先于服务分类和国内直连
+- higher: ads_reject
+  lower: x
+  reason: 广告与跟踪规则优先于服务分类和国内直连
+- higher: ads_reject
+  lower: games
+  reason: 广告与跟踪规则优先于服务分类和国内直连
+- higher: ai
+  lower: global_proxy
+  reason: AI 服务的专用端点及 CDN 优先于云平台和通用代理规则
+- higher: ai
+  lower: microsoft
+  reason: AI 服务的专用端点及 CDN 优先于云平台和通用代理规则
+- higher: ai
+  lower: google
+  reason: AI 服务的专用端点及 CDN 优先于云平台和通用代理规则
+- higher: streaming
+  lower: google
+  reason: 流媒体专用端点、CDN 与网段优先于云平台和通用代理规则
+- higher: streaming
+  lower: global_proxy
+  reason: 流媒体专用端点、CDN 与网段优先于云平台和通用代理规则
+- higher: telegram
+  lower: global_proxy
+  reason: Telegram 专用规则优先于通用代理关键词
+- higher: x
+  lower: global_proxy
+  reason: X/Twitter 的服务与媒体域名优先于通用代理关键词
+- higher: github
+  lower: global_proxy
+  reason: GitHub 专用域名及存储端点优先于共享平台和国内白名单
+- higher: github
+  lower: cn_direct
+  reason: GitHub 专用域名及存储端点优先于共享平台和国内白名单
+- higher: games
+  lower: global_proxy
+  reason: 游戏与 Xbox 登录/CDN 端点优先于微软、通用代理及国内白名单
+- higher: games
+  lower: cn_direct
+  reason: 游戏与 Xbox 登录/CDN 端点优先于微软、通用代理及国内白名单
+- higher: games
+  lower: microsoft
+  reason: 游戏与 Xbox 登录/CDN 端点优先于微软、通用代理及国内白名单
+- higher: apple
+  lower: global_proxy
+  reason: 苹果专用服务和 CDN 端点使用直连，优先于泛平台及通用代理列表
+- higher: apple
+  lower: cn_direct
+  reason: 苹果专用服务和 CDN 端点使用直连，优先于泛平台及通用代理列表
+- higher: microsoft
+  lower: global_proxy
+  reason: 微软专用服务及下载端点优先于通用代理与国内白名单，可在微软策略中选择直连
+- higher: microsoft
+  lower: cn_direct
+  reason: 微软专用服务及下载端点优先于通用代理与国内白名单，可在微软策略中选择直连
+- higher: social
+  lower: global_proxy
+  reason: 社交应用的资源及专用 CDN 优先于 Google 云平台和通用代理规则
+- higher: social
+  lower: google
+  reason: 社交应用的资源及专用 CDN 优先于 Google 云平台和通用代理规则
+- higher: google
+  lower: global_proxy
+  reason: Google 专用规则优先于通用代理列表
+- higher: payment
+  lower: global_proxy
+  reason: 支付服务的专用存储端点优先于通用代理列表
+- higher: global_proxy
+  lower: cn_direct
+  reason: 通用代理列表中的海外服务及特定端点优先于国内白名单的宽泛后缀
+- higher: streaming
+  lower: social
+  reason: 流媒体专用端点、CDN 与网段优先于云平台和通用代理规则

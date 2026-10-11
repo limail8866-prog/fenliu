@@ -1,52 +1,114 @@
-# 精选规则；不是完整上游镜像。参见 SOURCES.md。
+- type: DOMAIN
+  value: api.imem.app
+  comment: upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+- type: DOMAIN
+  value: api.swiftgram.app
+  comment: upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
 - type: DOMAIN-SUFFIX
   value: cdn-telegram.org
-  comment: blackmatrix7/Telegram 精选；来源见 sources.yaml
+  comment: upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+- type: DOMAIN-SUFFIX
+  value: comments.app
+  comment: upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+- type: DOMAIN-SUFFIX
+  value: contest.com
+  comment: upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+- type: DOMAIN-SUFFIX
+  value: graph.org
+  comment: upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+- type: DOMAIN-SUFFIX
+  value: legra.ph
+  comment: upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+- type: DOMAIN-SUFFIX
+  value: mbrx.app
+  comment: upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+- type: DOMAIN-SUFFIX
+  value: quiz.directory
+  comment: upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+- type: DOMAIN-SUFFIX
+  value: stel.com
+  comment: upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
 - type: DOMAIN-SUFFIX
   value: t.me
-  comment: blackmatrix7/Telegram 精选；来源见 sources.yaml
+  comment: upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
 - type: DOMAIN-SUFFIX
   value: tdesktop.com
-  comment: blackmatrix7/Telegram 精选；来源见 sources.yaml
+  comment: upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+- type: DOMAIN-SUFFIX
+  value: telega.one
+  comment: upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
 - type: DOMAIN-SUFFIX
   value: telegra.ph
-  comment: blackmatrix7/Telegram 精选；来源见 sources.yaml
+  comment: upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
 - type: DOMAIN-SUFFIX
   value: telegram-cdn.org
-  comment: blackmatrix7/Telegram 精选；来源见 sources.yaml
+  comment: upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
 - type: DOMAIN-SUFFIX
   value: telegram.dog
-  comment: blackmatrix7/Telegram 精选；来源见 sources.yaml
+  comment: upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
 - type: DOMAIN-SUFFIX
   value: telegram.me
-  comment: blackmatrix7/Telegram 精选；来源见 sources.yaml
+  comment: upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
 - type: DOMAIN-SUFFIX
   value: telegram.org
-  comment: blackmatrix7/Telegram 精选；来源见 sources.yaml
+  comment: upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+- type: DOMAIN-SUFFIX
+  value: telegram.space
+  comment: upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
 - type: DOMAIN-SUFFIX
   value: telegramdownload.com
-  comment: blackmatrix7/Telegram 精选；来源见 sources.yaml
+  comment: upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
 - type: DOMAIN-SUFFIX
   value: telesco.pe
-  comment: blackmatrix7/Telegram 精选；来源见 sources.yaml
+  comment: upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
 - type: DOMAIN-SUFFIX
   value: tg.dev
-  comment: blackmatrix7/Telegram 精选；来源见 sources.yaml
+  comment: upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+- type: DOMAIN-SUFFIX
+  value: tx.me
+  comment: upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+- type: DOMAIN-SUFFIX
+  value: usercontent.dev
+  comment: upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+- type: DOMAIN-KEYWORD
+  value: nicegram
+  comment: upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+- type: IP-CIDR
+  value: 109.239.140.0/24
+  comment: upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+- type: IP-CIDR
+  value: 139.59.210.98/32
+  comment: upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
 - type: IP-CIDR
   value: 149.154.160.0/20
-  comment: blackmatrix7/Telegram 精选；来源见 sources.yaml
+  comment: upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+- type: IP-CIDR
+  value: 196.55.216.167/32
+  comment: upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+- type: IP-CIDR
+  value: 5.28.192.0/18
+  comment: upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
 - type: IP-CIDR
   value: 91.108.0.0/16
-  comment: blackmatrix7/Telegram 精选；来源见 sources.yaml
+  comment: upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
 - type: IP-CIDR6
   value: 2001:67c:4e8::/48
-  comment: blackmatrix7/Telegram 精选；来源见 sources.yaml
+  comment: upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
 - type: IP-CIDR6
   value: 2001:b28:f23c::/47
-  comment: blackmatrix7/Telegram 精选；来源见 sources.yaml
+  comment: upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
 - type: IP-CIDR6
   value: 2001:b28:f23f::/48
-  comment: blackmatrix7/Telegram 精选；来源见 sources.yaml
+  comment: upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
 - type: IP-CIDR6
   value: 2a0a:f280::/29
-  comment: blackmatrix7/Telegram 精选；来源见 sources.yaml
+  comment: upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+- type: DOMAIN-SUFFIX
+  value: fragment.com
+  comment: upstream:v2fly:data/telegram
+- type: DOMAIN-SUFFIX
+  value: ton.org
+  comment: upstream:v2fly:data/telegram
+- type: DOMAIN-SUFFIX
+  value: toncenter.com
+  comment: upstream:v2fly:data/telegram

@@ -14,11 +14,13 @@ def main() -> int:
     parser.add_argument("--policy", type=Path, default=ROOT / "policy.yaml")
     args = parser.parse_args()
     try:
-        categories, _ = load_sources(args.rules_dir, args.policy)
+        categories, policy = load_sources(args.rules_dir, args.policy)
     except SourceError as exc:
         print(f"校验失败：\n{exc}", file=sys.stderr)
         return 1
     print(f"校验通过：{len(categories)} 个分类，{sum(map(len, categories.values()))} 条规则")
+    if policy.get("overrides"):
+        print(f"已检查 {len(policy['overrides'])} 个显式分类覆盖声明；其他跨分类冲突仍会失败")
     return 0
 
 

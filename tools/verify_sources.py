@@ -5,30 +5,33 @@ import hashlib
 import sys
 from pathlib import Path
 from urllib.error import URLError
-from urllib.request import urlopen
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 from rulelib import ROOT, SourceError, load_sources, normalize, read_yaml
+from tools.sync_rules import fetch_snapshot, parse_line
 
 
 def main() -> int:
     manifest = read_yaml(ROOT / "sources.yaml")
     categories, _ = load_sources()
-    base = f"https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/{manifest['commit']}"
+    snapshots = {}
     try:
         for source in manifest["sources"]:
-            with urlopen(f"{base}/{source['path']}", timeout=30) as response:
-                raw = response.read()
+            repo = manifest["repositories"][source["repository"]]
+            identity = (source["repository"], source["path"])
+            if identity not in snapshots:
+                snapshots[identity] = fetch_snapshot(repo, source["path"], None, False)
+            raw = snapshots[identity]
             if hashlib.sha256(raw).hexdigest() != source["sha256"]:
                 raise SourceError(f"来源摘要不匹配：{source['path']}")
             upstream = set(raw.decode("utf-8").splitlines())
             local = {(rule.type, rule.value) for rule in categories[source["category"]]}
             for line in source["selected"]:
-                rule_type, value, *_ = line.split(",")
-                if line not in upstream or (rule_type, normalize(rule_type, value)) not in local:
+                parsed = parse_line(line, repo["format"])
+                if line not in upstream or parsed not in local:
                     raise SourceError(f"选取规则未同时存在于上游及本地：{line}")
-            print(f"来源核验通过：{source['path']}（精选 {len(source['selected'])} 条）")
+            print(f"来源核验通过：{repo['repository']}/{source['path']}（导入 {len(source['selected'])} 条）")
     except (SourceError, URLError, OSError) as exc:
         print(f"来源核验失败：{exc}", file=sys.stderr)
         return 1

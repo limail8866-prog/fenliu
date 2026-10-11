@@ -18,14 +18,34 @@ python -m pytest
 ```text
 rules/                     每分类一个 YAML
 policy.yaml                策略组、映射、分类顺序及公开规则 URL
-sources.yaml / SOURCES.md   固定上游提交、文件摘要、精选规则和许可
+upstream.yaml              上游项目、固定提交和导入分类
+sources.yaml / SOURCES.md   文件摘要、导入原文、去重统计和许可
 build.py / validate.py     生成与校验入口
 tests/                     格式转换、策略引用、校验与订阅保密测试
 dist/shadowrocket/         各分类 .list + shadowrocket.conf
 dist/clash/                各分类 classical .yaml + config.yaml
 ```
 
-初始包含 AI、流媒体、Telegram、GitHub、Apple、Microsoft、国内直连、广告拦截共八类。来自已有 GitHub 规则项目的 **111 条精选规则**，来源与 GPL-2.0 许可见 [SOURCES.md](SOURCES.md)。它们是可维护的起点，未保证覆盖所有服务；Apple 默认直连，Microsoft 和 GitHub 默认走节点选择，可在 policy.yaml 修改。
+目前从 **blackmatrix7/ios_rule_script** 和 **v2fly/domain-list-community** 的 47 份固定版本文件导入并去重，包含 **14 个分类、78,624 条规则、13 个策略组**。来源、跳过统计与许可见 [SOURCES.md](SOURCES.md)。没有单独分类的网站优先匹配通用代理列表，最后由「漏网之鱼」兜底；二者默认都使用节点选择。
+
+| 分类 | 覆盖范围 | 默认策略 |
+| --- | --- | --- |
+| 广告拦截 | AdvertisingLite 完整兼容规则，38,066 条 | 拒绝 |
+| AI | OpenAI、ChatGPT、Sora、Claude、Gemini、Copilot、Grok | AI |
+| 流媒体 | YouTube、Netflix、Spotify、Twitch、Disney+、Prime Video、HBO、Hulu | 流媒体 |
+| Telegram | 域名、媒体 CDN、IPv4/IPv6 网段 | Telegram |
+| X | Twitter/X 主站、t.co 短链、图片、视频、鉴权域名 | X |
+| GitHub | 主站、源码、资源、容器及存储端点 | 节点选择 |
+| 游戏 | Steam、Epic、PlayStation、Xbox、Nintendo、Battle.net、Origin/EA | 游戏 |
+| Apple | Apple、iCloud、App Store 等 | 直连 |
+| Microsoft | Microsoft、Office、Outlook、OneDrive、Azure 等 | 节点选择 |
+| 社交媒体 | Facebook、Instagram、WhatsApp、Discord、Reddit、TikTok、Signal、Zoom | 社交媒体 |
+| Google | Google、Gmail、Drive 等 | Google |
+| 支付 | PayPal、Venmo 等 | 支付 |
+| 通用代理 | Global 与 Wikimedia，30,978 条 | 节点选择 |
+| 国内直连 | China 白名单及私网，3,619 条 | 直连 |
+
+服务策略组可以手动选择节点、自动测速或 DIRECT，例如游戏组可以选择直连以使用国内下载 CDN。AI 中的 Grok 独立站 `grok.com` 使用 AI 策略；X 内嵌服务仍跟随 X。覆盖范围依赖已导入的上游规则，不能保证涵盖所有网站或服务的所有端点。
 
 ## 添加规则
 
@@ -50,12 +70,21 @@ dist/clash/                各分类 classical .yaml + config.yaml
 两端使用相同的匹配顺序：
 
 1. `ads_reject` → 拒绝
-2. 自定义分类：AI → 流媒体 → Telegram → GitHub → Apple → Microsoft
+2. 自定义分类：AI → 流媒体 → Telegram → X → GitHub → 游戏 → Apple → Microsoft → 社交媒体 → Google → 支付 → 通用代理
 3. `cn_direct` → 直连
 4. `GEOIP,CN,DIRECT`
 5. 小火箭 `FINAL,漏网之鱼` / Mihomo `MATCH,漏网之鱼`
 
-`validate.py` 检查字段、YAML 重复键、规范化后的重复规则、跨分类域名/后缀/关键词覆盖、同版本 IP 网段重叠、映射及策略组循环引用；发现问题返回非零退出码。跨分类的同一规则也视为错误，即使映射同组。它只做静态检查，不下载 GEOIP 数据库或探测服务可用性；无法推断 GEOIP 与 CIDR 的关系，也无法证明所有关键词组合的交集。宽泛后缀包含精确广告域名也会报告冲突，需要明确调整分类边界。
+`validate.py` 检查字段、YAML 重复键、规范化后的重复规则、跨分类域名/后缀/关键词覆盖、同版本 IP 网段重叠、映射及策略组循环引用。重复规则始终报错；未声明的跨分类覆盖也报错。完整列表中的合理覆盖必须在 `policy.yaml` 的 `overrides` 写明较高/较低分类和原因，而且与 category_order 一致，例如广告子域名先于国内白名单、Discord 专用资源先于 Google 云平台。当前审阅了 34 对分类覆盖；它们按照原定顺序匹配，不改变拒绝和直连的优先级。
+
+```yaml
+overrides:
+  - higher: ads_reject
+    lower: cn_direct
+    reason: 广告子域名先于国内服务的宽泛后缀
+```
+
+大规模校验使用域名后缀索引和 CIDR 区间，避免逐条比较全部域名。校验只做静态检查，不下载 GEOIP 数据库或探测服务可用性；无法推断 GEOIP 与 CIDR 的关系，也无法证明所有关键词组合的交集。
 
 ## 自动发布与规则订阅
 
@@ -131,6 +160,22 @@ DNS 默认启用 fake-ip，通过国内 DoH 解析；可按本地网络需求修
 
 ## 开发与许可
 
-`python build.py --output /其他目录` 可生成独立产物；`--rules-dir`、`--policy` 支持测试用源目录。`python tools/verify_sources.py` 可联网核验固定上游来源；日常 validate / build / pytest 均可离线运行。
+`python build.py --output /其他目录` 可生成独立产物；`--rules-dir`、`--policy` 支持测试用源目录。日常 validate / build / pytest 均可离线运行，CI 不会在构建时下载新的上游规则。
 
-源码及分发的规则使用 GPL-2.0，见 [LICENSE](LICENSE) 和 [SOURCES.md](SOURCES.md)。本项目提供规则生成能力，不提供代理节点或订阅服务。
+更新完整列表时修改 `upstream.yaml` 的固定提交或来源文件，再运行：
+
+```bash
+# 默认仅预览；先审阅来源和覆盖报告。
+python tools/sync_rules.py --cache-dir /tmp/fenliu-upstream-cache --report /tmp/fenliu-import-report.json
+# 必要时在 policy.yaml 为合理覆盖补充明确说明；未声明的覆盖不能写入。
+python tools/sync_rules.py --cache-dir /tmp/fenliu-upstream-cache --write
+python validate.py
+python build.py
+python -m pytest
+# 可选联网核验固定来源的摘要、原文及导入结果。
+python tools/verify_sources.py
+```
+
+导入保留没有 `upstream:` / `blackmatrix7/` / `v2fly/` 来源标记的手工规则，按分类优先级去重，递归解析 v2fly 的 include。缓存以仓库、提交和完整路径为键；缓存齐全时可以加 `--offline`。同一固定提交的文件若与已保存摘要不符会失败。不要把手工新增规则的 comment 写成这些导入器来源标记，否则更新时会被当作受上游管理的规则替换。
+
+本项目以 GPL-2.0 发布；v2fly 来源同时保留 MIT 版权许可，见 [LICENSE](LICENSE)、[licenses/v2fly-MIT.txt](licenses/v2fly-MIT.txt) 和 [SOURCES.md](SOURCES.md)。本项目提供规则生成能力，不提供代理节点或订阅服务。

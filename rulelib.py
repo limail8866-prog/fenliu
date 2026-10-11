@@ -20,7 +20,7 @@ class SourceError(ValueError):
     """An actionable, non-secret source validation error."""
 
 
-class UniqueKeyLoader(yaml.SafeLoader):
+class UniqueKeyLoader(getattr(yaml, "CSafeLoader", yaml.SafeLoader)):
     pass
 
 
@@ -146,7 +146,7 @@ def _safe_group_name(name: object) -> bool:
 def load_policy(path: Path, categories: dict[str, list[Rule]]) -> dict:
     data = read_yaml(path)
     required = {"version", "rule_base_url", "groups", "categories", "category_order", "final"}
-    if not isinstance(data, dict) or set(data) != required or type(data["version"]) is not int or data["version"] != 1:
+    if not isinstance(data, dict) or not required <= set(data) or set(data) - required - {"overrides"} or type(data["version"]) is not int or data["version"] != 1:
         raise SourceError("policy.yaml 字段或 version 不合法")
     if not https_url(data["rule_base_url"]) or any(c in data["rule_base_url"] for c in ",#"):
         raise SourceError("rule_base_url 必须是合法 HTTPS 地址")
@@ -210,6 +210,21 @@ def load_policy(path: Path, categories: dict[str, list[Rule]]) -> dict:
         group = by_name[mapping[category]]
         if group["proxies"] != [builtin] or group.get("use") or group["type"] != "select":
             raise SourceError(f"{category} 必须映射到仅包含 {builtin} 的 select 策略组")
+    overrides = data.get("overrides", [])
+    if not isinstance(overrides, list):
+        raise SourceError("overrides 必须是列表")
+    pairs = set()
+    for override in overrides:
+        if not isinstance(override, dict) or set(override) != {"higher", "lower", "reason"}:
+            raise SourceError("overrides 条目需要 higher、lower 和 reason")
+        higher, lower = override["higher"], override["lower"]
+        if higher not in order or lower not in order or order.index(higher) >= order.index(lower):
+            raise SourceError("overrides 必须引用存在的分类且 higher 排在 lower 前")
+        if not isinstance(override["reason"], str) or not override["reason"].strip():
+            raise SourceError("overrides 必须说明覆盖原因")
+        if (higher, lower) in pairs:
+            raise SourceError("overrides 分类对重复")
+        pairs.add((higher, lower))
     return data
 
 
@@ -232,27 +247,75 @@ def overlaps(left: Rule, right: Rule) -> bool:
     return False
 
 
-def validate_sources(categories: dict[str, list[Rule]]) -> list[str]:
-    errors, seen, previous = [], {}, []
+def iter_source_conflicts(categories: dict[str, list[Rule]]):
+    """Yield duplicates and overlaps using domain indexes and CIDR intervals.
+
+    Never compare every pair of domains: suffix lookup is proportional to label
+    count; keyword scanning is proportional to the small keyword rule count.
+    """
+    seen, entries = {}, []
     for category, rules in categories.items():
         for index, rule in enumerate(rules, 1):
             location = f"{category}.yaml:第 {index} 条"
             key = (rule.type, rule.value)
             if key in seen:
-                errors.append(f"重复规则：{location} 与 {seen[key]} ({rule.line})")
+                prior = seen[key]
+                yield "duplicate", (category, rule, location), prior
             else:
-                seen[key] = location
-                for prior_category, prior_rule, prior_location in previous:
-                    if prior_category != category and overlaps(rule, prior_rule):
-                        errors.append(f"跨分类冲突：{location} 与 {prior_location} ({rule.line} / {prior_rule.line})")
-                previous.append((category, rule, location))
+                entry = (category, rule, location)
+                seen[key] = entry
+                entries.append(entry)
+    suffixes = {entry[1].value: entry for entry in entries if entry[1].type == "DOMAIN-SUFFIX"}
+    domains = [entry for entry in entries if entry[1].type in DOMAIN_TYPES]
+    keywords = [entry for entry in entries if entry[1].type == "DOMAIN-KEYWORD"]
+    for entry in domains:
+        category, rule, _ = entry
+        labels = rule.value.split(".")
+        for index in range(len(labels)):
+            suffix = suffixes.get(".".join(labels[index:]))
+            if suffix and suffix[0] != category:
+                # The same-value DOMAIN + DOMAIN-SUFFIX pair is reported once,
+                # and suffix children discover their unique ancestor naturally.
+                yield "overlap", entry, suffix
+        for keyword in keywords:
+            if keyword[0] != category and keyword[1].value in rule.value:
+                yield "overlap", entry, keyword
+    for index, keyword in enumerate(keywords):
+        for prior in keywords[:index]:
+            if prior[0] != keyword[0] and overlaps(prior[1], keyword[1]):
+                yield "overlap", keyword, prior
+    for ip_type in IP_TYPES:
+        networks = []
+        for entry in entries:
+            if entry[1].type == ip_type:
+                network = ipaddress.ip_network(entry[1].value)
+                networks.append((int(network.network_address), int(network.broadcast_address), entry))
+        active = []
+        for start, end, entry in sorted(networks, key=lambda n: (n[0], -n[1])):
+            active = [(prior_end, prior) for prior_end, prior in active if prior_end >= start]
+            for _, prior in active:
+                if prior[0] != entry[0]:
+                    yield "overlap", entry, prior
+            active.append((end, entry))
+
+
+def validate_sources(categories: dict[str, list[Rule]], policy: dict | None = None) -> list[str]:
+    overrides = {frozenset((item["higher"], item["lower"])) for item in (policy or {}).get("overrides", [])}
+    errors = []
+    for kind, entry, prior in iter_source_conflicts(categories):
+        category, rule, location = entry
+        prior_category, prior_rule, prior_location = prior
+        if kind == "duplicate":
+            errors.append(f"重复规则：{location} 与 {prior_location} ({rule.line})")
+        elif frozenset((category, prior_category)) not in overrides:
+            errors.append(f"跨分类冲突：{location} 与 {prior_location} ({rule.line} / {prior_rule.line})")
     return errors
 
 
 def load_sources(rules_dir: Path = ROOT / "rules", policy_path: Path = ROOT / "policy.yaml"):
     categories = load_rules(rules_dir)
     policy = load_policy(policy_path, categories)
-    errors = validate_sources(categories)
+    errors = validate_sources(categories, policy)
     if errors:
         raise SourceError("\n".join(errors))
     return categories, policy

@@ -78,8 +78,8 @@ def test_bad_yaml_and_rule_schema(tmp_path, content):
 
 
 @pytest.mark.parametrize("mutation", ["unknown_group", "duplicate_group", "cycle", "order", "missing_category", "reject", "direct", "url", "provider"])
-def test_policy_errors(tmp_path, mutation):
-    categories, original = load_sources()
+def test_policy_errors(tmp_path, mutation, source_bundle):
+    categories, original = source_bundle
     policy = copy.deepcopy(original)
     if mutation == "unknown_group":
         policy["categories"]["ai"] = "不存在的策略组"
@@ -117,14 +117,71 @@ def test_cli_returns_nonzero_for_invalid_sources(tmp_path):
     assert not (tmp_path / "output").exists()
 
 
-def test_source_manifest_matches_captured_rules():
-    categories, _ = load_sources()
+def test_source_manifest_matches_captured_rules(source_bundle):
+    from tools.sync_rules import parse_line
+
+    categories, _ = source_bundle
     manifest = read_yaml(ROOT / "sources.yaml")
-    assert len(manifest["commit"]) == 40
-    assert manifest["license"] == "GPL-2.0"
+    assert manifest["version"] == 2
+    for repo in manifest["repositories"].values():
+        assert len(repo["commit"]) == 40
+        assert repo["license"] in {"GPL-2.0", "MIT"}
+    selected_rules = {category: {(r.type, r.value) for r in rules} for category, rules in categories.items()}
     for source in manifest["sources"]:
         assert len(source["sha256"]) == 64
-        selected_rules = {(r.type, r.value) for r in categories[source["category"]]}
         for selected in source["selected"]:
-            rule_type, value, *_ = selected.split(",")
-            assert (rule_type, normalize(rule_type, value)) in selected_rules
+            parsed = parse_line(selected, manifest["repositories"][source["repository"]]["format"])
+            assert parsed in selected_rules[source["category"]]
+
+
+def test_indexed_conflict_detection_matches_pairwise_oracle():
+    from itertools import combinations
+    from rulelib import iter_source_conflicts, overlaps
+
+    candidates = [
+        Rule("DOMAIN-SUFFIX", "example.com"), Rule("DOMAIN", "example.com"),
+        Rule("DOMAIN", "api.example.com"), Rule("DOMAIN-SUFFIX", "api.example.com"),
+        Rule("DOMAIN", "notexample.com"), Rule("DOMAIN-KEYWORD", "example"),
+        Rule("DOMAIN-KEYWORD", "api.example"), Rule("DOMAIN-SUFFIX", "other.com"),
+        Rule("IP-CIDR", "192.0.2.0/24"), Rule("IP-CIDR", "192.0.2.0/25"),
+        Rule("IP-CIDR", "192.0.2.128/25"), Rule("IP-CIDR", "192.0.3.0/24"),
+        Rule("IP-CIDR6", "2001:db8::/32"), Rule("IP-CIDR6", "2001:db8:1::/48"),
+        Rule("IP-CIDR6", "2001:db9::/32"), Rule("GEOIP", "CN"),
+    ]
+    for shift in range(3):
+        categories = {name: [] for name in ("ai", "social", "cn_direct")}
+        flat = []
+        for index, rule in enumerate(candidates):
+            category = list(categories)[(index + shift) % 3]
+            categories[category].append(rule)
+            flat.append((category, rule))
+        expected = {frozenset((left, right)) for left, right in combinations(flat, 2)
+                    if left[0] != right[0] and overlaps(left[1], right[1])}
+        actual = {frozenset(((left[0], left[1]), (right[0], right[1])))
+                  for kind, left, right in iter_source_conflicts(categories)}
+        assert actual == expected
+
+
+def test_declared_overrides_allow_overlap_but_never_duplicates():
+    categories = {"ads_reject": [Rule("DOMAIN", "ads.example.com")],
+                  "cn_direct": [Rule("DOMAIN-SUFFIX", "example.com")]}
+    policy = {"overrides": [{"higher": "ads_reject", "lower": "cn_direct", "reason": "广告优先"}]}
+    assert validate_sources(categories)
+    assert validate_sources(categories, policy) == []
+    categories["cn_direct"].append(Rule("DOMAIN", "ads.example.com"))
+    assert "重复规则" in validate_sources(categories, policy)[0]
+
+
+@pytest.mark.parametrize("override", [
+    {"higher": "cn_direct", "lower": "ads_reject", "reason": "倒序"},
+    {"higher": "ads_reject", "lower": "missing", "reason": "缺失分类"},
+    {"higher": "ads_reject", "lower": "cn_direct", "reason": ""},
+])
+def test_invalid_override_declarations(tmp_path, source_bundle, override):
+    categories, original = source_bundle
+    policy = copy.deepcopy(original)
+    policy["overrides"] = [override]
+    path = tmp_path / "policy.yaml"
+    path.write_text(yaml.safe_dump(policy, allow_unicode=True))
+    with pytest.raises(SourceError):
+        load_policy(path, categories)
