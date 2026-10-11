@@ -199,17 +199,15 @@ def load_policy(path: Path, categories: dict[str, list[Rule]]) -> dict:
     mapping, order = data["categories"], data["category_order"]
     if not isinstance(mapping, dict) or set(mapping) != set(categories):
         raise SourceError("categories 必须恰好映射 rules/ 中的全部分类")
-    if any(target not in names for target in mapping.values()) or data["final"] not in names:
+    if any(target not in names + ["DIRECT", "REJECT"] for target in mapping.values()) or data["final"] not in names:
         raise SourceError("分类或 final 引用了不存在的策略组")
     if not isinstance(order, list) or any(not isinstance(c, str) for c in order) or len(order) != len(categories) or set(order) != set(categories):
         raise SourceError("category_order 必须包含每个分类且不重复")
     if order[0] != "ads_reject" or order[-1] != "cn_direct":
         raise SourceError("分类顺序必须以 ads_reject 开头、cn_direct 结尾")
-    by_name = {g["name"]: g for g in groups}
     for category, builtin in (("ads_reject", "REJECT"), ("cn_direct", "DIRECT")):
-        group = by_name[mapping[category]]
-        if group["proxies"] != [builtin] or group.get("use") or group["type"] != "select":
-            raise SourceError(f"{category} 必须映射到仅包含 {builtin} 的 select 策略组")
+        if mapping[category] != builtin:
+            raise SourceError(f"{category} 必须直接映射到 {builtin}")
     overrides = data.get("overrides", [])
     if not isinstance(overrides, list):
         raise SourceError("overrides 必须是列表")
