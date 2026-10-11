@@ -71,7 +71,7 @@ def test_order_group_references_and_terminal_rules(artifacts, source_bundle):
     assert sr_rules[0].endswith("ads_reject.list,拒绝")
     assert sr_rules[-3].endswith("cn_direct.list,直连")
     names = {group["name"] for group in config["proxy-groups"]}
-    assert names == {"节点选择", "自动测速", "AI", "流媒体", "Telegram", "X", "Google", "社交媒体", "游戏", "支付", "直连", "拒绝", "漏网之鱼"}
+    assert names == {"节点选择", "自动测速", "AI", "流媒体", "Telegram", "直连", "拒绝", "漏网之鱼"}
     for group in config["proxy-groups"]:
         assert set(group["proxies"]) <= names | {"DIRECT", "REJECT"}
         if group.get("use"):
@@ -145,14 +145,12 @@ def test_x_core_services_and_grok_have_explicit_routing(artifacts):
         "x.com", "twitter.com", "t.co", "twimg.com", "twvid.com", "twitteroauth.com"
     )}
     assert essential <= set(x_payload)
-    assert "RULE-SET,x,X" in config["rules"]
-    assert config["rules"].index("RULE-SET,x,X") < config["rules"].index("RULE-SET,cn_direct,直连")
-    x_group = next(group for group in config["proxy-groups"] if group["name"] == "X")
-    assert x_group["type"] == "select"
-    assert x_group["proxies"][0] == "节点选择"
+    assert "RULE-SET,x,节点选择" in config["rules"]
+    assert config["rules"].index("RULE-SET,x,节点选择") < config["rules"].index("RULE-SET,cn_direct,直连")
+    assert not any(group["name"] == "X" for group in config["proxy-groups"])
     sr = (artifacts / "shadowrocket/shadowrocket.conf").read_text()
-    assert "X = select, 节点选择, 自动测速, DIRECT" in sr
-    assert "/shadowrocket/x.list,X" in sr
+    assert "X = select, 节点选择, 自动测速, DIRECT" not in sr
+    assert "/shadowrocket/x.list,节点选择" in sr
     ai_payload = yaml.safe_load((artifacts / "clash/ai.yaml").read_text())["payload"]
     assert "DOMAIN-SUFFIX,grok.com" in ai_payload
     assert "DOMAIN-SUFFIX,grok.com" not in x_payload

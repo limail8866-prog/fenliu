@@ -26,7 +26,7 @@ dist/shadowrocket/         各分类 .list + shadowrocket.conf
 dist/clash/                各分类 classical .yaml + config.yaml
 ```
 
-目前从 **blackmatrix7/ios_rule_script** 和 **v2fly/domain-list-community** 的 47 份固定版本文件导入并去重，包含 **14 个分类、78,624 条规则、13 个策略组**。来源、跳过统计与许可见 [SOURCES.md](SOURCES.md)。没有单独分类的网站优先匹配通用代理列表，最后由「漏网之鱼」兜底；二者默认都使用节点选择。
+目前从 **blackmatrix7/ios_rule_script** 和 **v2fly/domain-list-community** 的 47 份固定版本文件导入并去重，包含 **14 个分类、78,624 条规则、8 个策略组**。来源、跳过统计与许可见 [SOURCES.md](SOURCES.md)。规则分类与策略组分开：X、GitHub、游戏、社交媒体、Google、支付、Microsoft 和通用代理仍分别匹配规则，但统一走「节点选择」。没有单独分类的网站优先匹配通用代理列表，最后由「漏网之鱼」兜底；二者默认都使用节点选择。
 
 | 分类 | 覆盖范围 | 默认策略 |
 | --- | --- | --- |
@@ -34,18 +34,18 @@ dist/clash/                各分类 classical .yaml + config.yaml
 | AI | OpenAI、ChatGPT、Sora、Claude、Gemini、Copilot、Grok | AI |
 | 流媒体 | YouTube、Netflix、Spotify、Twitch、Disney+、Prime Video、HBO、Hulu | 流媒体 |
 | Telegram | 域名、媒体 CDN、IPv4/IPv6 网段 | Telegram |
-| X | Twitter/X 主站、t.co 短链、图片、视频、鉴权域名 | X |
+| X | Twitter/X 主站、t.co 短链、图片、视频、鉴权域名 | 节点选择 |
 | GitHub | 主站、源码、资源、容器及存储端点 | 节点选择 |
-| 游戏 | Steam、Epic、PlayStation、Xbox、Nintendo、Battle.net、Origin/EA | 游戏 |
+| 游戏 | Steam、Epic、PlayStation、Xbox、Nintendo、Battle.net、Origin/EA | 节点选择 |
 | Apple | Apple、iCloud、App Store 等 | 直连 |
 | Microsoft | Microsoft、Office、Outlook、OneDrive、Azure 等 | 节点选择 |
-| 社交媒体 | Facebook、Instagram、WhatsApp、Discord、Reddit、TikTok、Signal、Zoom | 社交媒体 |
-| Google | Google、Gmail、Drive 等 | Google |
-| 支付 | PayPal、Venmo 等 | 支付 |
+| 社交媒体 | Facebook、Instagram、WhatsApp、Discord、Reddit、TikTok、Signal、Zoom | 节点选择 |
+| Google | Google、Gmail、Drive 等 | 节点选择 |
+| 支付 | PayPal、Venmo 等 | 节点选择 |
 | 通用代理 | Global 与 Wikimedia，30,978 条 | 节点选择 |
 | 国内直连 | China 白名单及私网，3,619 条 | 直连 |
 
-服务策略组可以手动选择节点、自动测速或 DIRECT，例如游戏组可以选择直连以使用国内下载 CDN。AI 中的 Grok 独立站 `grok.com` 使用 AI 策略；X 内嵌服务仍跟随 X。覆盖范围依赖已导入的上游规则，不能保证涵盖所有网站或服务的所有端点。
+日常只需在 8 个策略组中选择：节点选择、自动测速、AI、流媒体、Telegram、直连、拒绝和漏网之鱼。X 等其他分类保留独立规则列表，默认交给「节点选择」，减少客户端里的分组数量。AI 中的 Grok 独立站 `grok.com` 使用 AI 策略；X 规则仍单独匹配并走节点选择。覆盖范围依赖已导入的上游规则，不能保证涵盖所有网站或服务的所有端点。
 
 ## 添加规则
 

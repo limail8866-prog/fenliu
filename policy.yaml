@@ -34,36 +34,6 @@ groups:
   - 节点选择
   - 自动测速
   - DIRECT
-- name: X
-  type: select
-  proxies:
-  - 节点选择
-  - 自动测速
-  - DIRECT
-- name: Google
-  type: select
-  proxies:
-  - 节点选择
-  - 自动测速
-  - DIRECT
-- name: 社交媒体
-  type: select
-  proxies:
-  - 节点选择
-  - 自动测速
-  - DIRECT
-- name: 游戏
-  type: select
-  proxies:
-  - 节点选择
-  - 自动测速
-  - DIRECT
-- name: 支付
-  type: select
-  proxies:
-  - 节点选择
-  - 自动测速
-  - DIRECT
 - name: 直连
   type: select
   proxies:
@@ -83,14 +53,14 @@ categories:
   ai: AI
   streaming: 流媒体
   telegram: Telegram
-  x: X
+  x: 节点选择
   github: 节点选择
-  games: 游戏
+  games: 节点选择
   apple: 直连
   microsoft: 节点选择
-  google: Google
-  social: 社交媒体
-  payment: 支付
+  google: 节点选择
+  social: 节点选择
+  payment: 节点选择
   global_proxy: 节点选择
   cn_direct: 直连
 category_order:
