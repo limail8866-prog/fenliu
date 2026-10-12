@@ -284,9 +284,6 @@
   value: rsshub2.asailor.org
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN
-  value: sberpro.vedomosti.ru
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN
   value: standchartbank.sc.omtrdc.net
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN
@@ -825,9 +822,6 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: 20yearsoffea.com
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: 21-school.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: 21centuryaccess.com
@@ -2159,9 +2153,6 @@
   value: accessheonline.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
-  value: accesspoint.uz
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
   value: accesstohe.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -3137,9 +3128,6 @@
   value: afi.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
-  value: afisha.ru
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
   value: afkv28.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -3233,6 +3221,9 @@
   value: agroforestry.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: agroros.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: ags.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -3318,6 +3309,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: ahxxx.club
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: ai-bank.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: ai-sdk.dev
@@ -3980,7 +3974,13 @@
   value: akbars.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: akcept.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: akiba-souken.com
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: akibank.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: akita-bank.co.jp
@@ -3993,6 +3993,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: albagals.com
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: albank.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: albastudio.co
@@ -5534,6 +5537,9 @@
   value: apis.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: apkbank.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: apkfind.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -5799,6 +5805,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: area51.to
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: aresbank.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: arewereadyyet.com
@@ -6941,6 +6950,9 @@
   value: autoesporte.com.br
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: autofinancebank.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: autokreditbank.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -7685,6 +7697,9 @@
   value: banbury-college.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: bancaintesa.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: bandag.cc
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -7733,10 +7748,16 @@
   value: bank-credit-suisse-moscow.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: bank-hlynov.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: bank-maskan.ir
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: bank131.com
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: bank131.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: bankermak.ru
@@ -7748,10 +7769,22 @@
   value: bankmellat.ir
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: bankofkazan.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: bankperm.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: banksepah.ir
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: bankstavr.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: banksy.tokyo
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: bankvl.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: banned.video
@@ -8370,6 +8403,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: bernards.ac.uk
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: beru.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: besa.ac.uk
@@ -10616,6 +10652,9 @@
   value: bmwauslieferungszentrum.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: bmwbank.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: bmwbikes.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -10928,6 +10967,9 @@
   value: bobvoyeur.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: boc.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: bocici.buzz
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -11079,6 +11121,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: bookmark.xxx
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: bookmate.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: bookmybridgestonetyre.com
@@ -12363,6 +12408,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: bymj.io
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: bystrobank.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: bystys.tech
@@ -13895,6 +13943,9 @@
   value: centrino.net
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: centrinvest.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: ceoi.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -14151,6 +14202,12 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: cheib.ac.uk
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: chelindbank.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: chelinvest.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: chelmsford-college.ac.uk
@@ -14477,6 +14534,9 @@
   value: cib.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: cibank.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: ciciaicdn.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -14490,6 +14550,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: ciemap.ac.uk
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: cifra-bank.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: cignet.ac.uk
@@ -14709,9 +14772,6 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: citycollegesoton.ac.uk
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: citydrive.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: cityheaven.net
@@ -14963,9 +15023,6 @@
   value: cloud.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
-  value: cloud.ru
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
   value: cloudc.one
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -15185,6 +15242,9 @@
   value: cmpcp.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: cmrbank.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: cms.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -15207,6 +15267,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: co.tv
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: coalmetbank.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: coatbridge.ac.uk
@@ -16238,10 +16301,16 @@
   value: creditcardsbay.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: crediteurope.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: creditkarma.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: creditlink-east.ac.uk
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: creditural.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: creds.ac.uk
@@ -17150,6 +17219,9 @@
   value: data.gov.tw
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: databank.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: datacloudmy.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -17247,6 +17319,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: dca.ac.uk
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: dcapital.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: dcard.cc
@@ -17487,6 +17562,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: delicious.com.au
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: delivery-club.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: dell.ac
@@ -18072,6 +18150,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: derwentside.ac.uk
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: derzhava.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: desertbmw.com
@@ -19910,6 +19991,9 @@
   value: duyaossr.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: dvbank.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: dvdtrailertube.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -20115,12 +20199,6 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: eaplay.com
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: eaptechka.online
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: eapteka.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: earlham.ac.uk
@@ -20978,6 +21056,9 @@
   value: ed6.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: edadeal.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: edam.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -21123,6 +21204,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: eevlxtra.ac.uk
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: efbank.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: efc.ac.uk
@@ -21425,6 +21509,9 @@
   value: emas.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: emb.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: embark-studios.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -21615,6 +21702,12 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: enematube.com
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: energobank.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: energotransbank.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: energy2050.ac.uk
@@ -22709,6 +22802,9 @@
   value: evolverpro.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: evrofinance.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: evropaelire.org
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -22793,6 +22889,9 @@
   value: exgirlfriendmarket.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: eximbank.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: exiporn.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -22833,6 +22932,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: explorespanking.com
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: expobank.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: exporntoons.net
@@ -23933,6 +24035,9 @@
   value: finlitsummit.org
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: finstarbank.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: fiotolia.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -24311,6 +24416,9 @@
   value: foodchain.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: foodfox.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: foodsecurity.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -24318,6 +24426,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: footwear-cadcam.com
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: forabank.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: forbesimg.com
@@ -26027,6 +26138,9 @@
   value: gazprombank.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: gaztransbank.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: gb.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -26135,6 +26249,9 @@
   value: geasontraining.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: gebank.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: geceguby.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -26241,6 +26358,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: gen2.ac.uk
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: genbank.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: gendai.net
@@ -26432,9 +26552,6 @@
   value: getsexgames.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
-  value: getsynapse.io
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
   value: gettyimages.at
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -26600,9 +26717,6 @@
   value: gibtds.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
-  value: gid.ru
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
   value: giffgaff.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -26613,9 +26727,6 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: gift-surg.ac.uk
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: giga.chat
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: gigabyte.com
@@ -26760,9 +26871,6 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: gittigidiyorsikayet.com
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: gitverse.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: givemebuzzsaw.com
@@ -28176,6 +28284,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: haltoncollege.ac.uk
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: halvacard.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: hamec.ac.uk
@@ -29987,6 +30098,9 @@
   value: home-song.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: home.bank
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: homealonemilfs.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -31691,9 +31805,6 @@
   value: id.hao123.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
-  value: id.ru
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
   value: idarkdoll.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -32522,6 +32633,9 @@
   value: imzog.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: in-bank.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: inaporn.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -32706,6 +32820,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: ingkacentres.com
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: ingobank.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: ingyenszexvideo.top
@@ -33587,6 +33704,9 @@
   value: investorschronicle.co.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: investpay.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: invity.io
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -33830,6 +33950,9 @@
   value: ismg.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: isnbank.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: isomorphiclabs.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -33882,6 +34005,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: itaiwan.gov.tw
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: itb.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: itcanwait.com
@@ -34913,51 +35039,6 @@
   value: jivara.global
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
-  value: jivo.chat
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: jivo.ru
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: jivochat.co.in
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: jivochat.co.za
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: jivochat.com
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: jivochat.com.br
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: jivochat.com.co
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: jivochat.com.pe
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: jivochat.com.tr
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: jivochat.de
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: jivochat.es
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: jivochat.ng
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: jivochat.ru
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: jivosite.com
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: jivosite.ru
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
   value: jiyou520.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -35501,6 +35582,9 @@
   value: jzydh.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: k-bnk.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: k8s.io
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -35604,6 +35688,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: kamisama-maeda-lab.com
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: kamkombank.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: kampalaexclusiveescorts.com
@@ -35769,6 +35856,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: kaydara.com
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: kbb.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: kbdxlesx.xyz
@@ -36413,10 +36503,13 @@
   value: korewaeroi.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
-  value: korona.com
+  value: koronapay.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: koshelek.app
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: koshelev-bank.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: koskade.com
@@ -36462,6 +36555,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: kraken.onl
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: kremlinbank.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: krhentai.com
@@ -36560,13 +36656,13 @@
   value: kundun1069.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
-  value: kuper.ru
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
   value: kusugurizanmai.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: kutjeporno.com
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: kuzbank.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: kwok7.com
@@ -36765,6 +36861,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: lanniser-ylo.shop
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: lanta.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: laosijifuli9009.top
@@ -38052,6 +38151,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: locate.ac.uk
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: lockobank.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: lockssalliance.ac.uk
@@ -39371,7 +39473,13 @@
   value: marinecentrewales.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: maritimebank.com
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: marjon.ac.uk
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: market.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: marketexecutive.net
@@ -40010,6 +40118,9 @@
   value: mcb.com.mm
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: mcbank.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: mcc.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -40328,12 +40439,6 @@
   value: megahdporno.net
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
-  value: megamarket.ru
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: megamarket.tech
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
   value: megamon.co.kr
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -40526,6 +40631,9 @@
   value: metadac.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: metallinvestbank.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: metalpha.finance
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -40566,6 +40674,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: methodsnorthwest.ac.uk
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: metib.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: metro.co.uk
@@ -42032,6 +42143,9 @@
   value: modular.im
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: modulbank.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: moeaic.gov.tw
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -42051,6 +42165,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: moepedia.net
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: moex.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: moez-m.com
@@ -42201,6 +42318,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: monash.ac.uk
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: moneta.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: moneyswift.online
@@ -42732,6 +42852,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: msp.ac.uk
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: mspbank.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: msportknowledge.ac.uk
@@ -43767,6 +43890,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: nationalandacademiclibraries.ac.uk
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: nationalclearingcentre.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: nationalcollegeforadvancedtransportinfrastructure.ac.uk
@@ -45059,6 +45185,9 @@
   value: nicky.xxx
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: nico-bank.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: nico.ms
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -45599,6 +45728,9 @@
   value: niosii.net
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: nipbank.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: niran.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -45669,6 +45801,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: nkc.ac.uk
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: nkcbank.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: nke6.com
@@ -45947,6 +46082,9 @@
   value: norton.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: norvikbank.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: norwichresearchpark.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -46034,6 +46172,9 @@
   value: novids.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: novikom.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: novinhabucetuda.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -46041,6 +46182,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: novinhasdozapzap.com
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: novobank.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: novojoy.com
@@ -46121,6 +46265,9 @@
   value: nrs.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: ns-bank.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: nsad.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -46145,6 +46292,9 @@
   value: nscg.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: nsd.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: nsea.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -46167,6 +46317,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: nsirc.ac.uk
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: nskbl.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: nsloon.com
@@ -47186,6 +47339,9 @@
   value: okazudouga.tokyo
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: okbank.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: okcdn.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -47744,6 +47900,9 @@
   value: oranum.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: orbank.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: orbitalsouthcolleges.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -47949,9 +48108,6 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: otbm.com
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: otello.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: otleycollege.ac.uk
@@ -48554,9 +48710,6 @@
   value: pawchive.st
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
-  value: payecom.ru
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
   value: payget.pro
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -49016,6 +49169,9 @@
   value: perthcoll.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: pervbank.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: pervclips.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -49221,6 +49377,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: pikabu.monster
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: pikhtabank.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: pikpak.io
@@ -49523,9 +49682,6 @@
   value: plastics-cadcam.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
-  value: platiecom.ru
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
   value: platinumlinks.org
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -49755,6 +49911,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: poi6.net
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: poidem.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: poihub.com
@@ -51290,7 +51449,13 @@
   value: printspots.net
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: priobye.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: prioned.ac.uk
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: priovtb.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: prism.ac.uk
@@ -51548,7 +51713,7 @@
   value: psigate.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
-  value: pskb.ru
+  value: pskb.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: pssru.ac.uk
@@ -52304,9 +52469,6 @@
   value: ragnaporn.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
-  value: raiffeisen-media.ru
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
   value: raiffeisen.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -52686,6 +52848,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: rcvs.ac.uk
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: rdb.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: rdf.ac.uk
@@ -53312,6 +53477,9 @@
   value: resl.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: resocreditbank.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: resonabank.co.jp
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -53325,9 +53493,6 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: respawnbyrazer.com
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: restnproducts.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: restore.ac.uk
@@ -53633,6 +53798,9 @@
   value: rncb.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: rncb.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: rncm.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -53864,6 +54032,9 @@
   value: rosbank.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: rosdorbank.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: rosemarydoll.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -54030,6 +54201,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: rsamd.ac.uk
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: rsb.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: rsc-cymru.ac.uk
@@ -54476,6 +54650,9 @@
   value: rustup.rs
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: rutaxi.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: rutc.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -54761,9 +54938,6 @@
   value: samc.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
-  value: samokat.ru
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
   value: sams.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -55028,19 +55202,7 @@
   value: sber-bank.by
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
-  value: sber.pro
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
   value: sber.ru
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: sberauto.com
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: sberbank-insurance.ru
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: sberbank-tele.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: sberbank.com
@@ -55049,55 +55211,7 @@
   value: sberbank.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
-  value: sberbankaktivno.ru
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: sberbankins.ru
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: sbercloud.ru
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: sbercloud.tech
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: sberdevices.ru
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: sberdisk.ru
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: sberfactoring.ru
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: sberhealth.ru
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: sberindex.ru
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: sberleasing.ru
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: sberlogistics.ru
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: sbermegamarket.ru
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: sbermobile.ru
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: sberpb.ru
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
   value: sberspasibo.ru
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: sbertech.ru
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: sbertroika.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: sbgkstv.shop
@@ -55116,6 +55230,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: sbnation.com
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: sbpvtb.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: sbrc-nottingham.ac.uk
@@ -55263,6 +55380,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: scatville.com
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: scb.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: scc.ac.uk
@@ -55656,6 +55776,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: sdhi.ac.uk
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: sdm.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: sdn.ac.uk
@@ -56091,6 +56214,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: sevgikurtulmaz.com
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: sevnb.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: sex-amateur-clips.com
@@ -56819,6 +56945,12 @@
   value: shedevrum.ai
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: shedevrum.com
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: shedevrum.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: sheef.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -57243,6 +57375,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: sibreal.org
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: sibsoc.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: sicsa.ac.uk
@@ -57698,6 +57833,9 @@
   value: slayed.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: slbank.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: slc.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -57872,6 +58010,9 @@
   value: smbctb.co.jp
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: smbfin.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: smbgroup.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -57998,7 +58139,13 @@
   value: snapwebcams.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: snbank.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: snc.ac.uk
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: sngb.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: snjulebu.com
@@ -58095,6 +58242,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: sociolotron.com
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: socium-bank.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: socres.ac.uk
@@ -58203,6 +58353,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: solid.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: solidbank.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: solidifi.app
@@ -58826,6 +58979,9 @@
   value: spatialeconomics.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: spbexchange.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: spc.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -59010,6 +59166,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: sputniknews.com
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: spvb.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: spyrothedragon.com
@@ -60509,6 +60668,9 @@
   value: svobodnaevropa.bg
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: svoi.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: svp-team.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -60813,6 +60975,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: syntheticbiology.ac.uk
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: syntx.ai
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: sysmic.ac.uk
@@ -61784,6 +61949,9 @@
   value: thb.gov.tw
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: thbank.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: thdh.cc
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -62115,6 +62283,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: theporny.com
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: thequestion.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: theroslininstitute.ac.uk
@@ -62481,6 +62652,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: timefxapp.com
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: timerbank.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: timesmembership.com
@@ -62972,6 +63146,9 @@
   value: toyobank.co.jp
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: toyota-bank.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: tpc.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -63090,6 +63267,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: transpornsites.com
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: transstroybank.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: travel-tec.ru
@@ -63405,6 +63585,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: ts.net
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: tsbnk.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: tsd.ac.uk
@@ -64020,6 +64203,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: ubncloud.com
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: ubrr.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: ubs.com
@@ -64667,6 +64853,9 @@
   value: umass.edu
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: umbank.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: umbrella.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -64739,6 +64928,12 @@
   value: unialliance.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: unicredit.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: unicreditbank.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: unidesk.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -64767,6 +64962,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: uniswales.ac.uk
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: united.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: unitedcollegegroup.ac.uk
@@ -65004,6 +65202,12 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: ura-akiba.jp
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: uralfd.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: uralprombank.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: uralsib.ru
@@ -65522,6 +65726,9 @@
   value: vbejeyv.shop
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: vbrr.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: vcanedge.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -65544,6 +65751,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: vdoav.com
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: veb.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: vecchiescopate.casa
@@ -65706,6 +65916,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: vendu.com
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: venets-bank.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: venezporn.com
@@ -65909,7 +66122,13 @@
   value: vetvaccnet.ac.uk
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: vezet.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: vfabric.net
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: vfbank.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: vfsco.at
@@ -66968,6 +67187,9 @@
   value: vlb100.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: vlbb.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: vmailru.net
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -67841,7 +68063,13 @@
   value: vtb-grants.fut.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: vtb.com
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: vtb.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: vtbbo.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: vtbglobalperspectives.com
@@ -70241,6 +70469,9 @@
   value: xn--90ab.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: xn--90ab2c.xn--p1ai
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: xn--90absjljw3g.xn--p1ai
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -70269,9 +70500,6 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: xn--d1acpjx3f.xn--p1ai
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: xn--d1aqf.xn--p1ai
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: xn--d4ty0ojsqzfd.com
@@ -71726,6 +71954,9 @@
   value: yandex-bank.net
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: yandex-team.com
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: yandex-team.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
@@ -71792,10 +72023,16 @@
   value: yandex.lv
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: yandex.market
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: yandex.md
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: yandex.mobi
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: yandex.net.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: yandex.org
@@ -71804,10 +72041,16 @@
   value: yandex.pl
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
+  value: yandex.pro
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
   value: yandex.st
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: yandex.sx
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: yandex.taxi
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: yandex.tj
@@ -71817,6 +72060,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: yandex.tr
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: yandex.travel
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: yandex.ua
@@ -71832,6 +72078,12 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: yandexcom.net
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: yandexdataschool.com
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: yandexdataschool.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: yandexgo.com
@@ -71952,6 +72204,9 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: ycw.ac.uk
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: ydb.tech
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: ydds.ac.uk
@@ -72120,6 +72375,12 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: yoobusiness.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: yookassa.ru
+  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
+- type: DOMAIN-SUFFIX
+  value: yoomoney.ru
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: yopornshop.com
@@ -73074,12 +73335,6 @@
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: zunked.com
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: zvuk-b2b.com
-  comment: upstream:blackmatrix:rule/Clash/Global/Global.list
-- type: DOMAIN-SUFFIX
-  value: zvuk.com
   comment: upstream:blackmatrix:rule/Clash/Global/Global.list
 - type: DOMAIN-SUFFIX
   value: zweiporn.com

@@ -2,7 +2,7 @@ version: 1
 repositories:
   blackmatrix:
     repository: blackmatrix7/ios_rule_script
-    commit: 83f37120c155f67c8eef43221dabe15cc3c95fec
+    commit: 19c84682407580056d0ae2f27e406f70db679de1
     license: GPL-2.0
     format: classical
   v2fly:
