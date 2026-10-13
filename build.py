@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import argparse
+import copy
 import os
 import shutil
 import subprocess
@@ -83,6 +84,7 @@ def provider_specs(policy: dict, categories: dict | None, *, mrs: bool = False) 
 
 
 def clash_config(policy: dict, subscription_url: str = SUB_PLACEHOLDER, categories: dict | None = None, *, mrs: bool = False) -> dict:
+    specs = provider_specs(policy, categories, mrs=mrs)
     config = {
         "mixed-port": 7890,
         "allow-lan": False,
@@ -115,15 +117,45 @@ def clash_config(policy: dict, subscription_url: str = SUB_PLACEHOLDER, categori
                 "health-check": {"enable": True, "url": "https://www.gstatic.com/generate_204", "interval": 300},
             }
         },
-        "proxy-groups": policy["groups"],
-        "rule-providers": {name: {"type": "http", **spec} for name, spec in provider_specs(policy, categories, mrs=mrs).items()},
+        "proxy-groups": copy.deepcopy(policy["groups"]),
+        "rule-providers": {name: {"type": "http", **spec} for name, spec in specs.items()},
         "rules": [
             f"RULE-SET,{provider},{policy['categories'][category]}"
             for category in policy["category_order"]
-            for provider in ([f"{category}_domain", category] if categories and category in categories and domain_payload(categories[category]) else [category])
+            for provider in (f"{category}_domain", category)
+            if provider in specs
         ] + ["GEOIP,CN,DIRECT", f"MATCH,{policy['final']}"],
     }
     return config
+
+
+def clash_merge_config(policy: dict, categories: dict | None = None, *, mrs: bool = False) -> dict:
+    """Clash Verge overlay: replace routing while retaining the active profile's nodes."""
+    config = clash_config(policy, categories=categories, mrs=mrs)
+    groups = config["proxy-groups"]
+    for group in groups:
+        if group.pop("use", None):
+            group["include-all-proxies"] = True
+            group["include-all-providers"] = True
+    # Avoid overwriting providers or cached rules belonging to the original profile.
+    providers = {
+        f"fenliu_{name}": {**spec, "path": f"./rules/fenliu/{Path(spec['path']).name}"}
+        for name, spec in config["rule-providers"].items()
+    }
+    rules = []
+    for rule in config["rules"]:
+        if rule.startswith("RULE-SET,"):
+            _, name, target = rule.split(",", 2)
+            rule = f"RULE-SET,fenliu_{name},{target}"
+        rules.append(rule)
+    return {
+        "profile": {"store-selected": True},
+        "geodata-mode": config["geodata-mode"],
+        "dns": config["dns"],
+        "proxy-groups": groups,
+        "rule-providers": providers,
+        "rules": rules,
+    }
 
 
 def build(rules_dir: Path, policy_path: Path, output: Path, *, subscription: bool = False, mrs: bool = False) -> dict:
@@ -162,6 +194,14 @@ def build(rules_dir: Path, policy_path: Path, output: Path, *, subscription: boo
     (sr_dir / "shadowrocket.conf").write_text(shadowrocket_config(policy), encoding="utf-8")
     header = "# 自动生成；公开模板中的 ${SUB_URL} 必须由用户在本地替换。\n"
     (clash_dir / "config.yaml").write_text(header + dump_yaml(clash_config(policy, subscription_url, categories, mrs=mrs)), encoding="utf-8")
+    merge_header = (
+        "# Clash Verge Rev：订阅 → 全局扩展覆写配置（Merge），粘贴本文件完整内容。\n"
+        "# 使用当前选中订阅的节点；无需填写订阅 URL，不合并其他订阅卡片。\n"
+        "# 替换策略组、分流规则及 DNS 设置；保存后使用规则模式并选择实际节点。\n"
+    )
+    (clash_dir / "merge.yaml").write_text(
+        merge_header + dump_yaml(clash_merge_config(policy, categories, mrs=mrs)), encoding="utf-8"
+    )
     # Attribution accompanies published dist artifacts as well as source code.
     for name in ("LICENSE", "SOURCES.md", "sources.yaml", "upstream.yaml"):
         source = ROOT / name

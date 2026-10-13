@@ -1,6 +1,8 @@
 # 分流规则生成器
 
-用一份 YAML 源规则生成 **Shadowrocket（小火箭）** 与 **Mihomo / Clash Meta** 的规则集及配置模板。使用 Python 3.11。仓库不保存节点或个人订阅；公开模板中的订阅地址始终是 `${SUB_URL}`。
+用一份 YAML 源规则生成 **Shadowrocket（小火箭）** 与 **Mihomo / Clash Meta** 的规则集及配置模板。使用 Python 3.11。仓库不保存节点或个人订阅。独立配置 `config.yaml` 中的订阅地址是 `${SUB_URL}`；Clash Verge Rev 的 `merge.yaml` 直接复用当前订阅节点，无需填写订阅地址。
+
+**Windows / Clash Verge Rev 已有节点订阅？** 使用下方「Clash Verge Rev：在现有订阅上应用规则」的 Merge 方法。你的客户端菜单可能叫「订阅」，不必寻找「配置」菜单。
 
 ## 本地生成
 
@@ -23,7 +25,7 @@ sources.yaml / SOURCES.md   文件摘要、导入原文、去重统计和许可
 build.py / validate.py     生成与校验入口
 tests/                     格式转换、策略引用、校验与订阅保密测试
 dist/shadowrocket/         各分类 .list + shadowrocket.conf
-dist/clash/                各分类 classical .yaml + config.yaml
+dist/clash/                domain / classical 规则集 + config.yaml + merge.yaml
 ```
 
 目前从 **blackmatrix7/ios_rule_script** 和 **v2fly/domain-list-community** 的 47 份固定版本文件导入并去重，包含 **14 个分类、78,624 条规则**。来源、跳过统计与许可见 [SOURCES.md](SOURCES.md)。规则仍按分类匹配，但默认只生成一个可见策略组「节点选择」：需代理的分类及漏网流量走节点选择，国内直连分类直接走 `DIRECT`，广告规则直接走 `REJECT`。没有单独分类的网站优先匹配通用代理列表。
@@ -96,10 +98,11 @@ GitHub Actions 在 push（不含 gh-pages）和 main 的 PR 中执行 validate �
 https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/shadowrocket/shadowrocket.conf
 https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/shadowrocket/ai.list
 https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/clash/config.yaml
+https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/clash/merge.yaml
 https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/clash/ai.yaml
 ```
 
-规则默认通过 jsDelivr CDN 分发，地址在国内通常比 GitHub Raw 稳定。若 jsDelivr 不可用，可把 `policy.yaml` 中的 `rule_base_url` 改为 `https://raw.githubusercontent.com/limail8866-prog/fenliu/gh-pages` 后重新构建；Fork 时改成自己的 Raw 或 CDN 地址。发布前需先等待 main 的发布任务成功。
+规则默认通过 jsDelivr CDN 分发，实际可用性取决于网络，分支地址也可能暂时缓存旧版本。若 jsDelivr 不可用，可把 `policy.yaml` 中的 `rule_base_url` 改为 `https://raw.githubusercontent.com/limail8866-prog/fenliu/gh-pages` 后重新构建；Fork 时改成自己的 Raw、CDN 或 HTTPS 服务器地址。只换配置文件下载地址不会改变文件内的规则 URL。发布前需先等待 main 的发布任务成功；404 通常需要先确认对应文件已发布。
 
 每周一自动检查两个上游仓库的新提交，运行 `tools/sync_rules.py` 导入并校验，然后创建或更新规则审阅 PR。更新不会直接发布；规则覆盖冲突或测试失败时，工作流停止并保留当前规则。
 
@@ -119,6 +122,30 @@ RULE-SET,https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/shadowrocke
 同时保证 `[Proxy Group]` 存在 AI 策略组，并将此规则放在 GEOIP / FINAL 前面。
 
 ## Mihomo / Clash Meta 导入及自己的订阅
+
+### Clash Verge Rev：在现有订阅上应用规则
+
+这条路径适用于已经在「订阅」页导入节点的用户。`merge.yaml` 是覆写内容，不是节点订阅链接，也不是独立节点配置。
+
+1. 在「订阅」页选中一个能正常更新节点的订阅。
+2. 打开 [merge.yaml（Raw）](https://raw.githubusercontent.com/limail8866-prog/fenliu/gh-pages/clash/merge.yaml) 或 [merge.yaml（CDN）](https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/clash/merge.yaml)，复制文件的**全部 YAML 内容**。下载到本地时可用记事本打开；不要只复制 URL。
+3. 点击「全局扩展覆写配置」的 **Merge**，先备份编辑器原有内容，再全选并粘贴完整 YAML。保存并关闭编辑器，不要假定所有版本都会自动保存。
+4. 返回「订阅」页，重新选中原订阅以应用配置；若未生效，使用客户端的重载配置功能。在「代理」页选择**规则模式**。
+5. 在「节点选择」中选一个真实节点。`DIRECT` 表示直连，不是代理节点；首次应用后务必检查当前选择。
+
+覆写会替换订阅的策略组和分流规则，并设置 fake-ip / 国内外 DNS 分流。默认只保留一个业务策略组「节点选择」。原订阅的 `proxies` 和 `proxy-providers` 保留，通过 `include-all-proxies` / `include-all-providers` 收集节点；不需要填写 `${SUB_URL}`。客户端自身在全局模式下显示的 GLOBAL 组不属于分类策略组。
+
+「全局」表示这份覆写对每个订阅都生效，**不会把多张订阅卡片的节点合并到一起**，节点来自当前选中的订阅。更新节点时仍更新原订阅。规则文件按 provider 的 `interval: 86400` 更新；本地粘贴的覆写文本不会自动更新，策略、DNS 或分类结构变化时需要重新复制 `merge.yaml`。如需恢复，粘贴之前备份的 Merge 内容并重新应用订阅。
+
+常见问题：
+
+- **只有 DIRECT，没有节点**：检查当前选中的订阅是否成功导入节点；更新到使用 Mihomo 内核的 Clash Verge Rev。Merge 不会提供节点。
+- **仍显示很多分类组 / 报策略组不存在**：先确认已保存并重新应用。后续的「全局扩展脚本」「订阅扩展配置」「订阅扩展脚本」可能再次修改结果，需检查这些扩展以及客户端显示的最终运行配置。
+- **DNS 设置未生效**：应用设置托管的字段会在最后回写；检查 Clash Verge 的 DNS 覆写设置和最终运行配置。
+- **规则下载失败**：在日志查看失败 URL；CDN 旧缓存可先用 Raw 下载新版覆写，但若规则链接本身不可达，还需要修改 `rule_base_url` 并重新构建，或将覆写中规则 URL 统一换为可访问的镜像。
+- **原订阅有特殊 DNS、链式代理或下载代理设置**：这些设置可能引用原策略组。合并后如提示组名不存在，需要将相关引用改为现有组或恢复原 Merge 内容；不要把校验失败当成已应用成功。
+
+### 其他 Mihomo 客户端：使用独立配置
 
 `dist/clash/config.yaml` 包含 DNS fake-ip、国内/海外 `nameserver-policy`、唯一可见的「节点选择」组和规则顺序。DOMAIN / DOMAIN-SUFFIX 规则使用 `behavior: domain`，发布时编译成 `.mrs` 二进制；关键词和 IP 规则继续使用 classical。`proxy-providers.subscription.url` 为 **`${SUB_URL}` 占位**；Mihomo 不会自动展开这个字符串，须在本地替换后才可加载。订阅需要提供 Mihomo/Clash 可读的 YAML（含 `proxies`），不能直接使用小火箭格式或普通 Base64 节点列表。
 
