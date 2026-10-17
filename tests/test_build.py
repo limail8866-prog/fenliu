@@ -7,7 +7,7 @@ from pathlib import Path
 import pytest
 import yaml
 
-from build import SUB_PLACEHOLDER, build, clash_config
+from build import SUB_PLACEHOLDER, build, clash_config, clash_merge_config
 from rulelib import ROOT, Rule, SourceError, load_sources
 
 
@@ -60,6 +60,12 @@ def test_all_types_written_to_both_formats(tmp_path, rule_type, value, expected,
         (rules_dir / f"{category}.yaml").write_text(yaml.safe_dump(entries))
     output = tmp_path / "out"
     build(rules_dir, ROOT / "policy.yaml", output)
+    # A domain-only category must never refer to a missing classical provider.
+    config = yaml.safe_load((output / "clash/config.yaml").read_text())
+    for rule in config["rules"]:
+        if rule.startswith("RULE-SET,"):
+            spec = config["rule-providers"][rule.split(",")[1]]
+            assert (output / "clash" / Path(spec["url"]).name).is_file()
     assert expected in (output / "shadowrocket/ai.list").read_text().splitlines()
     if rule_type in {"DOMAIN", "DOMAIN-SUFFIX"}:
         domain_rules = yaml.safe_load((output / "clash/ai_domain.yaml").read_text())["payload"]
@@ -124,6 +130,9 @@ def test_private_rendering_and_repository_guard(tmp_path, monkeypatch):
     build(ROOT / "rules", ROOT / "policy.yaml", output, subscription=True)
     config = yaml.safe_load((output / "clash/config.yaml").read_text())
     assert config["proxy-providers"]["subscription"]["url"] == "https://subscription.invalid/private-test-token"
+    merge_text = (output / "clash/merge.yaml").read_text()
+    assert "private-test-token" not in merge_text
+    assert SUB_PLACEHOLDER not in merge_text
     with pytest.raises(SourceError, match="私人目录"):
         build(ROOT / "rules", ROOT / "policy.yaml", ROOT / "dist", subscription=True)
     monkeypatch.delenv("SUB_URL")
@@ -156,6 +165,7 @@ def test_generated_config_does_not_mutate_policy(source_bundle):
     _, policy = source_bundle
     original = copy.deepcopy(policy)
     clash_config(policy)
+    clash_merge_config(policy)
     assert policy == original
 
 
@@ -172,6 +182,36 @@ def test_mrs_build_emits_binary_domain_providers(tmp_path):
         binary = output / "clash" / name
         assert binary.exists() and binary.stat().st_size > 4
         assert binary.read_bytes().startswith(bytes.fromhex("28b52ffd"))
+    merge = yaml.safe_load((output / "clash/merge.yaml").read_text())
+    for provider in merge["rule-providers"].values():
+        if provider["behavior"] == "domain":
+            assert provider["format"] == "mrs"
+        assert (output / "clash" / Path(provider["url"]).name).is_file()
+
+
+def test_merge_artifact_reuses_nodes_and_preserves_routing(artifacts):
+    standalone = yaml.safe_load((artifacts / "clash/config.yaml").read_text())
+    text = (artifacts / "clash/merge.yaml").read_text()
+    merge = yaml.safe_load(text)
+    assert SUB_PLACEHOLDER not in text
+    assert not {"proxy-providers", "proxies", "mixed-port", "external-controller", "tun"} & merge.keys()
+    assert merge["geodata-mode"] is True
+    assert merge["dns"] == standalone["dns"]
+    assert len(merge["proxy-groups"]) == 1
+    group = merge["proxy-groups"][0]
+    assert group["name"] == "节点选择"
+    assert group["include-all-proxies"] and group["include-all-providers"]
+    assert "use" not in group
+    assert merge["rules"] == [
+        rule.replace("RULE-SET,", "RULE-SET,fenliu_", 1)
+        if rule.startswith("RULE-SET,") else rule
+        for rule in standalone["rules"]
+    ]
+    for rule in merge["rules"]:
+        if rule.startswith("RULE-SET,"):
+            provider = merge["rule-providers"][rule.split(",")[1]]
+            assert provider["path"].startswith("./rules/fenliu/")
+            assert (artifacts / "clash" / Path(provider["url"]).name).is_file()
 
 
 def test_x_core_services_and_grok_have_explicit_routing(artifacts):

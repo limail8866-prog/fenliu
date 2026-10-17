@@ -38,7 +38,9 @@ jobs:
       - name: Rebuild optimized MRS rule providers
         run: python build.py --mrs
       - name: Validate config with Mihomo
-        run: mihomo -d "$RUNNER_TEMP/mihomo-home" -t -f dist/clash/config.yaml
+        run: |
+          mihomo -d "$RUNNER_TEMP/mihomo-home" -t -f dist/clash/config.yaml
+          mihomo -d "$RUNNER_TEMP/mihomo-home" -t -f dist/clash/merge.yaml
       - uses: actions/upload-artifact@v4
         with:
           name: dist
