@@ -1,0 +1,513 @@
+# games | 自动生成；请修改 rules/games.yaml
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,cdn-ali.content.steamchina.com
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,cdn-qc.content.steamchina.com
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,cdn-ws.content.steamchina.com
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,csgo.wmsj.cn
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,dl.steam.clngaa.com
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,dl.steam.ksyna.com
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,dota2.wmsj.cn
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,f3b7q2p3.ssl.hwcdn.net
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,fanatical.com
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,humblebundle.com
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,playartifact.com
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,s.team
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,st.dl.bscstorage.net
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,st.dl.eccdnx.com
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,st.dl.pinyuncloud.com
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,steam-api.com
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,steam-chat.com
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,steam.apac.qtlglb.com
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,steam.cdn.on.net
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,steam.cdn.orcon.net.nz
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,steam.cdn.slingshot.co.nz
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,steam.cdn.webra.ru
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,steam.eca.qtlglb.com
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,steam.naeu.qtlglb.com
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,steam.ru.qtlglb.com
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,steam.tv
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,steambroadcast.akamaized.net
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,steamcommunity.com
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,steamcontent.tnkjmec.com
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,steamdeck.com
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,steamgames.com
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,steammobile.akamaized.net
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,steampipe-kr.akamaized.net
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,steampipe-partner.akamaized.net
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,steampipe.akamaized.net
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,steampowered.com
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,steampowered.com.8686c.com
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,steamstat.us
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,steamstatic.com
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,steamstatic.com.8686c.com
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,steamstore-a.akamaihd.net
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,steamunlocked.net
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,steamvideo-a.akamaihd.net
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,underlords.com
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,valvesoftware.com
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-SUFFIX,wmsjsteam.com
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-KEYWORD,steambroadcast
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-KEYWORD,steamstore
+# upstream:blackmatrix:rule/Clash/Steam/Steam.list
+DOMAIN-KEYWORD,steamuserimages
+# upstream:blackmatrix:rule/Clash/Epic/Epic.list
+DOMAIN-SUFFIX,battlebreakers.com
+# upstream:blackmatrix:rule/Clash/Epic/Epic.list
+DOMAIN-SUFFIX,eac-cdn.com
+# upstream:blackmatrix:rule/Clash/Epic/Epic.list
+DOMAIN-SUFFIX,easy.ac
+# upstream:blackmatrix:rule/Clash/Epic/Epic.list
+DOMAIN-SUFFIX,easyanticheat.net
+# upstream:blackmatrix:rule/Clash/Epic/Epic.list
+DOMAIN-SUFFIX,epicgames.com
+# upstream:blackmatrix:rule/Clash/Epic/Epic.list
+DOMAIN-SUFFIX,epicgames.dev
+# upstream:blackmatrix:rule/Clash/Epic/Epic.list
+DOMAIN-SUFFIX,fortnite.com
+# upstream:blackmatrix:rule/Clash/Epic/Epic.list
+DOMAIN-SUFFIX,helpshift.com
+# upstream:blackmatrix:rule/Clash/Epic/Epic.list
+DOMAIN-SUFFIX,paragon.com
+# upstream:blackmatrix:rule/Clash/Epic/Epic.list
+DOMAIN-SUFFIX,playparagon.com
+# upstream:blackmatrix:rule/Clash/Epic/Epic.list
+DOMAIN-SUFFIX,roborecall.com
+# upstream:blackmatrix:rule/Clash/Epic/Epic.list
+DOMAIN-SUFFIX,shadowcomplex.com
+# upstream:blackmatrix:rule/Clash/Epic/Epic.list
+DOMAIN-SUFFIX,spyjinx.com
+# upstream:blackmatrix:rule/Clash/Epic/Epic.list
+DOMAIN-SUFFIX,unrealengine.com
+# upstream:blackmatrix:rule/Clash/Epic/Epic.list
+DOMAIN-SUFFIX,unrealtournament.com
+# upstream:blackmatrix:rule/Clash/PlayStation/PlayStation.list
+DOMAIN-SUFFIX,playstation.com
+# upstream:blackmatrix:rule/Clash/PlayStation/PlayStation.list
+DOMAIN-SUFFIX,playstation.net
+# upstream:blackmatrix:rule/Clash/PlayStation/PlayStation.list
+DOMAIN-SUFFIX,playstationnetwork.com
+# upstream:blackmatrix:rule/Clash/PlayStation/PlayStation.list
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN,login.live.com
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN,logincdn.msauth.net
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN,store-images.s-microsoft.com
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN-SUFFIX,beth.games
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN-SUFFIX,bethesda.net
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN-SUFFIX,bethesdagamestudios.com
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN-SUFFIX,bethsoft.com
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN-SUFFIX,callersbane.com
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN-SUFFIX,forzamotorsport.net
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN-SUFFIX,forzaracingchampionship.com
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN-SUFFIX,forzarc.com
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN-SUFFIX,gamepass.com
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN-SUFFIX,minecraft.net
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN-SUFFIX,minecraftshop.com
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN-SUFFIX,mojang.com
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN-SUFFIX,msgamestudios.com
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN-SUFFIX,orithegame.com
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN-SUFFIX,renovacionxboxlive.com
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN-SUFFIX,tellmewhygame.com
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN-SUFFIX,xbox.co
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN-SUFFIX,xbox.com
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN-SUFFIX,xbox.eu
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN-SUFFIX,xbox.org
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN-SUFFIX,xbox360.co
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN-SUFFIX,xbox360.com
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN-SUFFIX,xbox360.eu
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN-SUFFIX,xbox360.org
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN-SUFFIX,xboxab.com
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN-SUFFIX,xboxab.net
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN-SUFFIX,xboxgamepass.com
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN-SUFFIX,xboxgamestudios.com
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN-SUFFIX,xboxlive.cn
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN-SUFFIX,xboxlive.com
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN-SUFFIX,xboxone.co
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN-SUFFIX,xboxone.com
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN-SUFFIX,xboxone.eu
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN-SUFFIX,xboxplayanywhere.com
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN-SUFFIX,xboxservice.com
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN-SUFFIX,xboxservices.com
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN-SUFFIX,xboxstudios.com
+# upstream:blackmatrix:rule/Clash/Xbox/Xbox.list
+DOMAIN-SUFFIX,xbx.lv
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,100classicbooks.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,ac-pocketcamp.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,amiibo.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,ayudanintendo.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,bowsersinsidestory.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,dialga.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,diddykongracing.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,dkr.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,donkeykongcountryreturns.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,drmario-world.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,excitebots.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,fire-emblem-heroes.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,fireemblemawakening.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,flipnotestudio.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,giratina.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,gloryofheracles.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,hackyourconsole.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,kirbysepicyarn.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,kirbysuperstarultra.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,kyurem.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,legendofzelda.cn
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,legendofzelda.com.cn
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,marioandluigidreamteam.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,mariobroswii.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,mariokart.cn
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,mariokart.com.cn
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,mariokart7.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,mariokart8.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,mariosupersluggers.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,miitomo.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,miitomo.com.cn
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,miiverse.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,newsupermariobrosu.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendo-europe-sales.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendo-europe.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendo.at
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendo.be
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendo.ch
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendo.co.jp
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendo.co.kr
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendo.co.uk
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendo.co.za
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendo.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendo.com.au
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendo.com.hk
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendo.com.pt
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendo.de
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendo.dk
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendo.es
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendo.eu
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendo.fi
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendo.fr
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendo.it
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendo.jp
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendo.net
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendo.nl
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendo.no
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendo.pt
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendo.ru
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendo.se
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendo.tw
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendo3ds.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendodsi.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendoeurope.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendolabo.cn
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendonetwork.net
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendonyc.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendostore.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendoswitch.cn
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendoswitch.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendoswitch.com.cn
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendoswitch.net
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendoswitchtogether.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendowifi.net
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,nintendowii.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,personaltrainermath.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,playnintendo.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,pokedex3d.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,pokemon-moon.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,pokemon-sun.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,pokemon-sunmoon.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,pokemon.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,pokemonbank.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,pokemonblackwhite.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,pokemonbw.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,pokemonchampionships.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,pokemongoldsilver.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,pokemonhome.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,pokemonletsgoeevee.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,pokemonletsgopikachu.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,pokemonmysterydungeon.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,pokemonpicross.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,pokemonplatinum.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,pokemonrubysapphire.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,pokemonsunmoon.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,pokemonswordshield.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,pokemonultrasunmoon.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,pokemonvgc.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,pokemonwifi.net
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,splatoon2tournament.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,starfox.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,supermario.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,supermario3dworld.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,supermariobros.com.cn
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,supermariogalaxy.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,supermariorun.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,superpapermario.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,supersmashbros.cn
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,supersmashbros.com.cn
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,thelegendarystarfy.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,thewonderful101.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,wariolandshakeit.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,wariowarediy.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,wii-u.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,wiifit.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,wiifitu.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,wiipartyu.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,wiisports.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,wiisportsresort.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,wiiugamepad.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,wiivc.net
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,xenoblade.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,xn--mts47c3w9b1qr.cn
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,xn--mts47c3w9b1qr.net
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+DOMAIN-SUFFIX,yoshisnewisland.com
+# upstream:blackmatrix:rule/Clash/Nintendo/Nintendo.list
+IP-CIDR,35.192.0.0/12,no-resolve
+# upstream:blackmatrix:rule/Clash/Battle/Battle.list
+DOMAIN,blizzard.nefficient.co.kr
+# upstream:blackmatrix:rule/Clash/Battle/Battle.list
+DOMAIN,blzddist1-a.akamaihd.net
+# upstream:blackmatrix:rule/Clash/Battle/Battle.list
+DOMAIN,blzddistkr1-a.akamaihd.net
+# upstream:blackmatrix:rule/Clash/Battle/Battle.list
+DOMAIN,bnetproduct-a.akamaihd.net
+# upstream:blackmatrix:rule/Clash/Battle/Battle.list
+DOMAIN,cdn.blz-contentstack.com
+# upstream:blackmatrix:rule/Clash/Battle/Battle.list
+DOMAIN-SUFFIX,battle.net
+# upstream:blackmatrix:rule/Clash/Battle/Battle.list
+DOMAIN-SUFFIX,battlenet.com.cn
+# upstream:blackmatrix:rule/Clash/Battle/Battle.list
+DOMAIN-SUFFIX,blizzard.com
+# upstream:blackmatrix:rule/Clash/Origin/Origin.list
+DOMAIN,cloudsync-prod.s3.amazonaws.com
+# upstream:blackmatrix:rule/Clash/Origin/Origin.list
+DOMAIN,eaasserts-a.akamaihd.net
+# upstream:blackmatrix:rule/Clash/Origin/Origin.list
+DOMAIN,origin-a.akamaihd.net
+# upstream:blackmatrix:rule/Clash/Origin/Origin.list
+DOMAIN,originasserts.akamaized.net
+# upstream:blackmatrix:rule/Clash/Origin/Origin.list
+DOMAIN,rtm.tnt-ea.com
+# upstream:blackmatrix:rule/Clash/Origin/Origin.list
+DOMAIN-SUFFIX,ea.com
+# upstream:blackmatrix:rule/Clash/Origin/Origin.list
+DOMAIN-SUFFIX,origin.com

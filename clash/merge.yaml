@@ -1,0 +1,269 @@
+# Clash Verge Rev：订阅 → 全局扩展覆写配置（Merge），粘贴本文件完整内容。
+# 使用当前选中订阅的节点；无需填写订阅 URL，不合并其他订阅卡片。
+# 替换策略组、分流规则及 DNS 设置；保存后使用规则模式并选择实际节点。
+profile:
+  store-selected: true
+geodata-mode: true
+dns:
+  enable: true
+  listen: 127.0.0.1:1053
+  ipv6: true
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter:
+  - '*.lan'
+  - '*.local'
+  - localhost
+  - +.msftconnecttest.com
+  - +.msftncsi.com
+  default-nameserver:
+  - 223.5.5.5
+  - 119.29.29.29
+  respect-rules: true
+  nameserver:
+  - https://dns.alidns.com/dns-query#DIRECT
+  - https://doh.pub/dns-query#DIRECT
+  nameserver-policy:
+    geosite:cn:
+    - https://dns.alidns.com/dns-query#DIRECT
+    - https://doh.pub/dns-query#DIRECT
+    geosite:geolocation-!cn:
+    - https://cloudflare-dns.com/dns-query#节点选择
+    - https://dns.google/dns-query#节点选择
+  proxy-server-nameserver:
+  - https://dns.alidns.com/dns-query#DIRECT
+proxy-groups:
+- name: 节点选择
+  type: select
+  proxies:
+  - DIRECT
+  include-all-proxies: true
+  include-all-providers: true
+rule-providers:
+  fenliu_ads_reject:
+    type: http
+    behavior: classical
+    format: yaml
+    url: https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/clash/ads_reject.yaml
+    path: ./rules/fenliu/ads_reject.yaml
+    interval: 86400
+  fenliu_ads_reject_domain:
+    type: http
+    behavior: domain
+    format: mrs
+    url: https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/clash/ads_reject_domain.mrs
+    path: ./rules/fenliu/ads_reject_domain.mrs
+    interval: 86400
+  fenliu_ai:
+    type: http
+    behavior: classical
+    format: yaml
+    url: https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/clash/ai.yaml
+    path: ./rules/fenliu/ai.yaml
+    interval: 86400
+  fenliu_ai_domain:
+    type: http
+    behavior: domain
+    format: mrs
+    url: https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/clash/ai_domain.mrs
+    path: ./rules/fenliu/ai_domain.mrs
+    interval: 86400
+  fenliu_streaming:
+    type: http
+    behavior: classical
+    format: yaml
+    url: https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/clash/streaming.yaml
+    path: ./rules/fenliu/streaming.yaml
+    interval: 86400
+  fenliu_streaming_domain:
+    type: http
+    behavior: domain
+    format: mrs
+    url: https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/clash/streaming_domain.mrs
+    path: ./rules/fenliu/streaming_domain.mrs
+    interval: 86400
+  fenliu_telegram:
+    type: http
+    behavior: classical
+    format: yaml
+    url: https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/clash/telegram.yaml
+    path: ./rules/fenliu/telegram.yaml
+    interval: 86400
+  fenliu_telegram_domain:
+    type: http
+    behavior: domain
+    format: mrs
+    url: https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/clash/telegram_domain.mrs
+    path: ./rules/fenliu/telegram_domain.mrs
+    interval: 86400
+  fenliu_x:
+    type: http
+    behavior: classical
+    format: yaml
+    url: https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/clash/x.yaml
+    path: ./rules/fenliu/x.yaml
+    interval: 86400
+  fenliu_x_domain:
+    type: http
+    behavior: domain
+    format: mrs
+    url: https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/clash/x_domain.mrs
+    path: ./rules/fenliu/x_domain.mrs
+    interval: 86400
+  fenliu_github:
+    type: http
+    behavior: classical
+    format: yaml
+    url: https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/clash/github.yaml
+    path: ./rules/fenliu/github.yaml
+    interval: 86400
+  fenliu_github_domain:
+    type: http
+    behavior: domain
+    format: mrs
+    url: https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/clash/github_domain.mrs
+    path: ./rules/fenliu/github_domain.mrs
+    interval: 86400
+  fenliu_games:
+    type: http
+    behavior: classical
+    format: yaml
+    url: https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/clash/games.yaml
+    path: ./rules/fenliu/games.yaml
+    interval: 86400
+  fenliu_games_domain:
+    type: http
+    behavior: domain
+    format: mrs
+    url: https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/clash/games_domain.mrs
+    path: ./rules/fenliu/games_domain.mrs
+    interval: 86400
+  fenliu_apple:
+    type: http
+    behavior: classical
+    format: yaml
+    url: https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/clash/apple.yaml
+    path: ./rules/fenliu/apple.yaml
+    interval: 86400
+  fenliu_apple_domain:
+    type: http
+    behavior: domain
+    format: mrs
+    url: https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/clash/apple_domain.mrs
+    path: ./rules/fenliu/apple_domain.mrs
+    interval: 86400
+  fenliu_microsoft:
+    type: http
+    behavior: classical
+    format: yaml
+    url: https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/clash/microsoft.yaml
+    path: ./rules/fenliu/microsoft.yaml
+    interval: 86400
+  fenliu_microsoft_domain:
+    type: http
+    behavior: domain
+    format: mrs
+    url: https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/clash/microsoft_domain.mrs
+    path: ./rules/fenliu/microsoft_domain.mrs
+    interval: 86400
+  fenliu_social:
+    type: http
+    behavior: classical
+    format: yaml
+    url: https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/clash/social.yaml
+    path: ./rules/fenliu/social.yaml
+    interval: 86400
+  fenliu_social_domain:
+    type: http
+    behavior: domain
+    format: mrs
+    url: https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/clash/social_domain.mrs
+    path: ./rules/fenliu/social_domain.mrs
+    interval: 86400
+  fenliu_google:
+    type: http
+    behavior: classical
+    format: yaml
+    url: https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/clash/google.yaml
+    path: ./rules/fenliu/google.yaml
+    interval: 86400
+  fenliu_google_domain:
+    type: http
+    behavior: domain
+    format: mrs
+    url: https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/clash/google_domain.mrs
+    path: ./rules/fenliu/google_domain.mrs
+    interval: 86400
+  fenliu_payment:
+    type: http
+    behavior: classical
+    format: yaml
+    url: https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/clash/payment.yaml
+    path: ./rules/fenliu/payment.yaml
+    interval: 86400
+  fenliu_payment_domain:
+    type: http
+    behavior: domain
+    format: mrs
+    url: https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/clash/payment_domain.mrs
+    path: ./rules/fenliu/payment_domain.mrs
+    interval: 86400
+  fenliu_global_proxy:
+    type: http
+    behavior: classical
+    format: yaml
+    url: https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/clash/global_proxy.yaml
+    path: ./rules/fenliu/global_proxy.yaml
+    interval: 86400
+  fenliu_global_proxy_domain:
+    type: http
+    behavior: domain
+    format: mrs
+    url: https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/clash/global_proxy_domain.mrs
+    path: ./rules/fenliu/global_proxy_domain.mrs
+    interval: 86400
+  fenliu_cn_direct:
+    type: http
+    behavior: classical
+    format: yaml
+    url: https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/clash/cn_direct.yaml
+    path: ./rules/fenliu/cn_direct.yaml
+    interval: 86400
+  fenliu_cn_direct_domain:
+    type: http
+    behavior: domain
+    format: mrs
+    url: https://cdn.jsdelivr.net/gh/limail8866-prog/fenliu@gh-pages/clash/cn_direct_domain.mrs
+    path: ./rules/fenliu/cn_direct_domain.mrs
+    interval: 86400
+rules:
+- RULE-SET,fenliu_ads_reject_domain,REJECT
+- RULE-SET,fenliu_ads_reject,REJECT
+- RULE-SET,fenliu_ai_domain,节点选择
+- RULE-SET,fenliu_ai,节点选择
+- RULE-SET,fenliu_streaming_domain,节点选择
+- RULE-SET,fenliu_streaming,节点选择
+- RULE-SET,fenliu_telegram_domain,节点选择
+- RULE-SET,fenliu_telegram,节点选择
+- RULE-SET,fenliu_x_domain,节点选择
+- RULE-SET,fenliu_x,节点选择
+- RULE-SET,fenliu_github_domain,节点选择
+- RULE-SET,fenliu_github,节点选择
+- RULE-SET,fenliu_games_domain,节点选择
+- RULE-SET,fenliu_games,节点选择
+- RULE-SET,fenliu_apple_domain,DIRECT
+- RULE-SET,fenliu_apple,DIRECT
+- RULE-SET,fenliu_microsoft_domain,DIRECT
+- RULE-SET,fenliu_microsoft,DIRECT
+- RULE-SET,fenliu_social_domain,节点选择
+- RULE-SET,fenliu_social,节点选择
+- RULE-SET,fenliu_google_domain,节点选择
+- RULE-SET,fenliu_google,节点选择
+- RULE-SET,fenliu_payment_domain,节点选择
+- RULE-SET,fenliu_payment,节点选择
+- RULE-SET,fenliu_global_proxy_domain,节点选择
+- RULE-SET,fenliu_global_proxy,节点选择
+- RULE-SET,fenliu_cn_direct_domain,DIRECT
+- RULE-SET,fenliu_cn_direct,DIRECT
+- GEOIP,CN,DIRECT
+- MATCH,节点选择

@@ -1,0 +1,63 @@
+# github | 自动生成；请修改 rules/github.yaml
+# upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+DOMAIN-SUFFIX,atom.io
+# upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+DOMAIN-SUFFIX,dependabot.com
+# upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+DOMAIN-SUFFIX,ghcr.io
+# upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+DOMAIN-SUFFIX,git.io
+# upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+DOMAIN-SUFFIX,github-atom-io-herokuapp-com.freetls.fastly.net
+# upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+DOMAIN-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com
+# upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+DOMAIN-SUFFIX,github-cloud.s3.amazonaws.com
+# upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+DOMAIN-SUFFIX,github.blog
+# upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+DOMAIN-SUFFIX,github.com
+# upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+DOMAIN-SUFFIX,github.community
+# upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+DOMAIN-SUFFIX,github.dev
+# upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+DOMAIN-SUFFIX,github.io
+# upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+DOMAIN-SUFFIX,githubapp.com
+# upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+DOMAIN-SUFFIX,githubassets.com
+# upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+DOMAIN-SUFFIX,githubcopilot.com
+# upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+DOMAIN-SUFFIX,githubhackathon.com
+# upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+DOMAIN-SUFFIX,githubnext.com
+# upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+DOMAIN-SUFFIX,githubpreview.dev
+# upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+DOMAIN-SUFFIX,githubstatus.com
+# upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+DOMAIN-SUFFIX,githubuniverse.com
+# upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+DOMAIN-SUFFIX,githubusercontent.com
+# upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+DOMAIN-SUFFIX,myoctocat.com
+# upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+DOMAIN-SUFFIX,npm.community
+# upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+DOMAIN-SUFFIX,npmjs.com
+# upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+DOMAIN-SUFFIX,npmjs.org
+# upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+DOMAIN-SUFFIX,opensource.guide
+# upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+DOMAIN-SUFFIX,rawgit.com
+# upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+DOMAIN-SUFFIX,rawgithub.com
+# upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+DOMAIN-SUFFIX,repo.new
+# upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+DOMAIN-SUFFIX,thegithubshop.com
+# upstream:blackmatrix:rule/Clash/GitHub/GitHub.list
+DOMAIN-KEYWORD,github

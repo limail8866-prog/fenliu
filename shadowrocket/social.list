@@ -1,0 +1,1345 @@
+# social | 自动生成；请修改 rules/social.yaml
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,aboutfacebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,accessfacebookfromschool.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,accountkit.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,acebooik.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,acebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,achat-followers-instagram.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,acheter-followers-instagram.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,acheterdesfollowersinstagram.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,acheterfollowersinstagram.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,advancediddetection.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,askfacebook.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,askfacebook.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,atdmt2.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,atlasdmt.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,atlasonepoint.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,atscaleconference.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,binoculus.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,bookstagram.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,botorch.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,buck.build
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,buckbuild.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,buyingfacebooklikes.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,buyoculus.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,careersatfb.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,carstagram.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,cdninstagram.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,celebgramme.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,chickstagram.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,china-facebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,click-url.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,como-hackearfacebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,componentkit.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,crowdtangle.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,dacebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,dlfacebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,dotfacebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,dotfacebook.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,draftjs.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,expresswifi.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,f8.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faacebok.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faacebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faasbook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facbebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facbeok.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facboo.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facbook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facbool.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facboox.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faccebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faccebookk.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facdbook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facdebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,face-book.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faceabook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebboc.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebbook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebboook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebcook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebdok.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebgook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebhook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebkkk.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebo-ok.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faceboak.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebock.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebocke.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebof.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faceboik.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebok.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebokbook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebokc.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebokk.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebokok.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faceboks.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebol.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebolk.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebomok.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faceboo.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebooa.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faceboob.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faceboobok.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebooc.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faceboock.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebood.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebooe.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faceboof.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebooi.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebooik.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebooik.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebooj.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebook-corp.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebook-covid-19.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebook-ebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebook-forum.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebook-hardware.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebook-inc.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebook-login.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebook-newsroom.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebook-newsroom.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebook-pmdcenter.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebook-pmdcenter.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebook-pmdcenter.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebook-privacy.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebook-program.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebook-studio.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebook-support.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebook-texas-holdem.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebook-texas-holdem.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebook.br
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebook.ca
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebook.cc
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebook.design
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebook.hu
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebook.in
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebook.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebook.nl
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebook.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebook.se
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebook.shop
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebook.tv
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebook.us
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebook.wang
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebook123.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebook30.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebook30.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebook30.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebook4business.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookads.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookadvertisingsecrets.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookappcenter.info
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookappcenter.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookappcenter.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookatschool.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookawards.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookblueprint.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookbrand.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookbrand.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookcanadianelectionintegrityinitiative.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookcareer.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookcheats.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookck.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookclub.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookcom.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookconnect.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookconsultant.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookcoronavirus.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookcovers.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookcredits.info
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookdating.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookdevelopergarage.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookdusexe.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookemail.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookenespanol.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookexchange.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookexchange.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookfacebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookflow.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookgames.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookgraphsearch.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookgraphsearch.info
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookgroups.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookhome.cc
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookhome.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookhome.info
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookhub.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebooki.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookinc.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookland.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebooklikeexchange.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebooklive.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebooklivestaging.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebooklivestaging.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebooklogin.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebooklogin.info
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookloginhelp.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebooklogs.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookmail.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookmail.tv
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookmanager.info
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookmarketing.info
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookmarketingpartner.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookmarketingpartners.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookmobile.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookmsn.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebooknews.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebooknfl.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebooknude.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookofsex.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookpaper.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookpay.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookphonenumber.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookphoto.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookphotos.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookpmdcenter.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookpoke.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookpoke.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookpoker.info
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookpokerchips.info
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookporn.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookporn.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookporno.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookportal.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookquotes4u.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebooks.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebooksafety.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebooksecurity.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookshop.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebooksignup.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebooksite.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookstories.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookstudios.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookstudios.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebooksupplier.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebooksuppliers.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookswagemea.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookswagstore.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebooksz.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookthreads.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebooktv.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebooktv.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookvacation.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookw.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookwork.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebookworld.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebool.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebool.info
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebooll.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faceboom.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faceboon.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faceboonk.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faceboooik.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faceboook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faceboop.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faceboot.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faceboox.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebopk.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebpook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebuk.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebuok.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebvook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebyook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facebzook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facecbgook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facecbook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facecbook.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facecook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facecook.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facedbook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faceebok.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faceebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faceebot.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facegbok.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facegbook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faceobk.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faceobok.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faceobook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faceook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facerbooik.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facerbook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facesbooc.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facesounds.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facetook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facevbook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facewbook.co
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facewook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facfacebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facfebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faciometrics.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fackebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facnbook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facrbook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facvebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facwebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,facxebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fadebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faebok.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faebookc.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faeboook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faecebok.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faesebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fafacebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faicbooc.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fasebokk.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fasebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faseboox.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fasttext.cc
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,favebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,faycbok.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fb.careers
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fb.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fb.me
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fbacebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fbaddins.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fbbmarket.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fbboostyourbusiness.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fbcdn-a.akamaihd.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fbcdn.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fbcdn.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fbf8.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fbfeedback.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fbhome.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fbidb.io
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fbinc.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fbinfer.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fbinnovation.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fblitho.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fbmarketing.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fbmessenger.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fbredex.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fbreg.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fbrell.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fbrpms.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fbsbx.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fbsbx.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fbsupport-covid.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fbthirdpartypixel.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fbthirdpartypixel.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fbthirdpartypixel.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fburl.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fbworkmail.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fcacebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fcaebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fcebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fcebookk.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fcfacebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fdacebook.info
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,feacboo.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,feacbook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,feacbooke.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,feacebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fecbbok.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fecbooc.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fecbook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,feceboock.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fecebook.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,feceboox.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fececbook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,feook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,ferabook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fescebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fesebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,ffacebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fgacebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,ficeboock.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,flow.dev
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,flow.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,flowtype.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fmcebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fnacebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fosebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fpacebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fqcebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fracebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,freeb.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,freebasics.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,freebasics.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,freebs.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,freefacebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,freefacebook.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,freefacebookads.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,freefblikes.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,freindfeed.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,frescolib.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,friendbook.info
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,friendfed.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,friendfeed-api.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,friendfeed-media.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,friendfeed.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,friendfeedmedia.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fsacebok.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fscebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,fundraisingwithfacebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,funnyfacebook.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,futureofbusinesssurvey.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,gacebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,gameroom.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,gfacecbook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,groups.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,hackerfacebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,hackfacebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,hackfacebookid.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,hacklang.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,hhvm.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,hifacebook.info
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,howtohackfacebook-account.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,hsfacebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,httpfacebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,httpsfacebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,httpwwwfacebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,i.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,ig.me
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,igcdn.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,igsonar.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,igtv.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,imstagram.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,imtagram.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instaadder.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instachecker.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instafallow.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instafollower.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instagainer.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instagda.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instagify.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instagmania.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instagor.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instagr.am
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instagram-brand.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instagram-engineering.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instagram-help.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instagram-press.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instagram-press.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instagram.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instagramci.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instagramcn.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instagramdi.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instagramhashtags.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instagramhilecim.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instagramhilesi.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instagramium.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instagramizlenme.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instagramkusu.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instagramlogin.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instagramm.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instagramn.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instagrampartners.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instagramphoto.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instagramq.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instagramsepeti.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instagramtakipcisatinal.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instagramtakiphilesi.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instagramtips.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instagramtr.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instagran.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instagranm.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instagrem.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instagrm.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instagtram.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instagy.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instamgram.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instangram.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instanttelegram.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instaplayer.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instastyle.tv
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,instgram.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,intagram.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,intagrm.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,internet.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,intgram.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,ip6.static.sl-reverse.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,kingstagram.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,klik.me
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,liverail.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,liverail.tv
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,lnstagram-help.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,login-account.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,m.me
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,makeitopen.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,markzuckerberg.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,mcrouter.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,mcrouter.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,messenger.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,messengerdevelopers.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,meta.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,midentsolutions.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,mobilefacebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,moneywithfacebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,myfbfans.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,nbabot.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,newsfeed.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,nextstop.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,ocul.us
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,oculus-china.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,oculus.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,oculus2014.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,oculus3d.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,oculusblog.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,oculusbrand.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,oculuscasino.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,oculuscdn.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,oculusconnect.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,oculusdiving.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,oculusforbusiness.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,oculusrift.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,oculusvr.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,ogp.me
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,oninstagram.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,online-deals.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,online-instagram.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,onlineinstagram.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,opencreate.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,opengraphprotocol.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,opengraphprotocol.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,parse.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,powersunitedvr.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,pyrobot.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,reachtheworldonfacebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,react.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,reactjs.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,reactjs.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,recoiljs.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,redkix.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,rocksdb.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,rocksdb.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,rocksdb.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,shopfacebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,sportsfacebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,sportstream.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,supportfacebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,terragraph.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,thefacebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,thefacebook.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,thefind.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,theinstagramhack.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,toplayerserver.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,viewpointsfromfacebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,wa.me
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,web-instagram.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,whatsapp-plus.info
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,whatsapp-plus.me
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,whatsapp-plus.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,whatsapp.biz
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,whatsapp.cc
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,whatsapp.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,whatsapp.info
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,whatsapp.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,whatsapp.org
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,whatsapp.tv
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,whatsappbrand.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,whyfacebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,workplace.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,workplaceusecases.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,worldhack.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,www-facebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,wwwfacebok.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,wwwfacebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,wwwinstagram.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,wwwmfacebook.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,yogalayout.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,zuckerberg.com
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-SUFFIX,zuckerberg.net
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-KEYWORD,facebook
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+DOMAIN-KEYWORD,fbcdn
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+IP-CIDR,108.168.176.192/26,no-resolve
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+IP-CIDR,108.168.177.0/27,no-resolve
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+IP-CIDR,108.168.180.96/27,no-resolve
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+IP-CIDR,108.168.254.65/32,no-resolve
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+IP-CIDR,108.168.255.224/32,no-resolve
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+IP-CIDR,108.168.255.227/32,no-resolve
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+IP-CIDR,108.177.8.0/21,no-resolve
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+IP-CIDR,119.235.224.0/24,no-resolve
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+IP-CIDR,119.235.232.0/24,no-resolve
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+IP-CIDR,119.235.236.0/23,no-resolve
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+IP-CIDR,129.134.0.0/17,no-resolve
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+IP-CIDR,157.240.0.0/17,no-resolve
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+IP-CIDR,169.45.248.118/32,no-resolve
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+IP-CIDR,173.252.64.0/18,no-resolve
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+IP-CIDR,3.123.36.126/32,no-resolve
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+IP-CIDR,31.13.64.0/18,no-resolve
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+IP-CIDR,35.157.215.84/32,no-resolve
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+IP-CIDR,35.157.217.255/32,no-resolve
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+IP-CIDR,52.58.209.134/32,no-resolve
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+IP-CIDR,54.162.243.80/32,no-resolve
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+IP-CIDR,54.173.34.141/32,no-resolve
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+IP-CIDR,54.235.23.242/32,no-resolve
+# upstream:blackmatrix:rule/Clash/Facebook/Facebook.list
+IP-CIDR,54.93.124.31/32,no-resolve
+# upstream:blackmatrix:rule/Clash/Instagram/Instagram.list
+DOMAIN-KEYWORD,instagram
+# upstream:blackmatrix:rule/Clash/Whatsapp/Whatsapp.list
+DOMAIN,graph.facebook.com
+# upstream:blackmatrix:rule/Clash/Whatsapp/Whatsapp.list
+DOMAIN-SUFFIX,bintray.com
+# upstream:blackmatrix:rule/Clash/Whatsapp/Whatsapp.list
+DOMAIN-KEYWORD,whatsapp
+# upstream:blackmatrix:rule/Clash/Whatsapp/Whatsapp.list
+IP-CIDR,158.85.224.160/27,no-resolve
+# upstream:blackmatrix:rule/Clash/Whatsapp/Whatsapp.list
+IP-CIDR,158.85.46.128/27,no-resolve
+# upstream:blackmatrix:rule/Clash/Whatsapp/Whatsapp.list
+IP-CIDR,158.85.5.192/27,no-resolve
+# upstream:blackmatrix:rule/Clash/Whatsapp/Whatsapp.list
+IP-CIDR,173.192.222.160/27,no-resolve
+# upstream:blackmatrix:rule/Clash/Whatsapp/Whatsapp.list
+IP-CIDR,173.192.231.32/27,no-resolve
+# upstream:blackmatrix:rule/Clash/Whatsapp/Whatsapp.list
+IP-CIDR,18.194.0.0/15,no-resolve
+# upstream:blackmatrix:rule/Clash/Whatsapp/Whatsapp.list
+IP-CIDR,184.173.128.0/17,no-resolve
+# upstream:blackmatrix:rule/Clash/Whatsapp/Whatsapp.list
+IP-CIDR,208.43.122.128/27,no-resolve
+# upstream:blackmatrix:rule/Clash/Whatsapp/Whatsapp.list
+IP-CIDR,34.224.0.0/12,no-resolve
+# upstream:blackmatrix:rule/Clash/Whatsapp/Whatsapp.list
+IP-CIDR,50.22.198.204/30,no-resolve
+# upstream:blackmatrix:rule/Clash/Whatsapp/Whatsapp.list
+IP-CIDR,54.242.0.0/15,no-resolve
+# upstream:blackmatrix:rule/Clash/Discord/Discord.list
+DOMAIN-SUFFIX,airhorn.solutions
+# upstream:blackmatrix:rule/Clash/Discord/Discord.list
+DOMAIN-SUFFIX,airhornbot.com
+# upstream:blackmatrix:rule/Clash/Discord/Discord.list
+DOMAIN-SUFFIX,bigbeans.solutions
+# upstream:blackmatrix:rule/Clash/Discord/Discord.list
+DOMAIN-SUFFIX,dis.gd
+# upstream:blackmatrix:rule/Clash/Discord/Discord.list
+DOMAIN-SUFFIX,discord-activities.com
+# upstream:blackmatrix:rule/Clash/Discord/Discord.list
+DOMAIN-SUFFIX,discord-attachments-uploads-prd.storage.googleapis.com
+# upstream:blackmatrix:rule/Clash/Discord/Discord.list
+DOMAIN-SUFFIX,discord.co
+# upstream:blackmatrix:rule/Clash/Discord/Discord.list
+DOMAIN-SUFFIX,discord.com
+# upstream:blackmatrix:rule/Clash/Discord/Discord.list
+DOMAIN-SUFFIX,discord.design
+# upstream:blackmatrix:rule/Clash/Discord/Discord.list
+DOMAIN-SUFFIX,discord.dev
+# upstream:blackmatrix:rule/Clash/Discord/Discord.list
+DOMAIN-SUFFIX,discord.gg
+# upstream:blackmatrix:rule/Clash/Discord/Discord.list
+DOMAIN-SUFFIX,discord.gift
+# upstream:blackmatrix:rule/Clash/Discord/Discord.list
+DOMAIN-SUFFIX,discord.gifts
+# upstream:blackmatrix:rule/Clash/Discord/Discord.list
+DOMAIN-SUFFIX,discord.media
+# upstream:blackmatrix:rule/Clash/Discord/Discord.list
+DOMAIN-SUFFIX,discord.new
+# upstream:blackmatrix:rule/Clash/Discord/Discord.list
+DOMAIN-SUFFIX,discord.store
+# upstream:blackmatrix:rule/Clash/Discord/Discord.list
+DOMAIN-SUFFIX,discord.tools
+# upstream:blackmatrix:rule/Clash/Discord/Discord.list
+DOMAIN-SUFFIX,discordactivities.com
+# upstream:blackmatrix:rule/Clash/Discord/Discord.list
+DOMAIN-SUFFIX,discordapp.com
+# upstream:blackmatrix:rule/Clash/Discord/Discord.list
+DOMAIN-SUFFIX,discordapp.io
+# upstream:blackmatrix:rule/Clash/Discord/Discord.list
+DOMAIN-SUFFIX,discordapp.net
+# upstream:blackmatrix:rule/Clash/Discord/Discord.list
+DOMAIN-SUFFIX,discordapp.page.link
+# upstream:blackmatrix:rule/Clash/Discord/Discord.list
+DOMAIN-SUFFIX,discordcdn.com
+# upstream:blackmatrix:rule/Clash/Discord/Discord.list
+DOMAIN-SUFFIX,discordmerch.com
+# upstream:blackmatrix:rule/Clash/Discord/Discord.list
+DOMAIN-SUFFIX,discordpartygames.com
+# upstream:blackmatrix:rule/Clash/Discord/Discord.list
+DOMAIN-SUFFIX,discordsays.com
+# upstream:blackmatrix:rule/Clash/Discord/Discord.list
+DOMAIN-SUFFIX,discordstatus.com
+# upstream:blackmatrix:rule/Clash/Discord/Discord.list
+DOMAIN-SUFFIX,hammerandchisel.ssl.zendesk.com
+# upstream:blackmatrix:rule/Clash/Discord/Discord.list
+DOMAIN-SUFFIX,watchanimeattheoffice.com
+# upstream:blackmatrix:rule/Clash/Reddit/Reddit.list
+DOMAIN-SUFFIX,redd.it
+# upstream:blackmatrix:rule/Clash/Reddit/Reddit.list
+DOMAIN-SUFFIX,reddit.com
+# upstream:blackmatrix:rule/Clash/Reddit/Reddit.list
+DOMAIN-SUFFIX,redditmail.com
+# upstream:blackmatrix:rule/Clash/Reddit/Reddit.list
+DOMAIN-SUFFIX,redditmedia.com
+# upstream:blackmatrix:rule/Clash/Reddit/Reddit.list
+DOMAIN-SUFFIX,redditstatic.com
+# upstream:blackmatrix:rule/Clash/Reddit/Reddit.list
+DOMAIN-SUFFIX,reddituploads.com
+# upstream:blackmatrix:rule/Clash/Reddit/Reddit.list
+DOMAIN-SUFFIX,reddituploads.com.cdn-cf.behance.net
+# upstream:blackmatrix:rule/Clash/Reddit/Reddit.list
+DOMAIN-SUFFIX,reddituploads.com.cdn-cf.dropbox.com
+# upstream:blackmatrix:rule/Clash/TikTok/TikTok.list
+DOMAIN,lf16-effectcdn.byteeffecttos-g.com
+# upstream:blackmatrix:rule/Clash/TikTok/TikTok.list
+DOMAIN,lf16-pkgcdn.pitaya-clientai.com
+# upstream:blackmatrix:rule/Clash/TikTok/TikTok.list
+DOMAIN,p16-tiktokcdn-com.akamaized.net
+# upstream:blackmatrix:rule/Clash/TikTok/TikTok.list
+DOMAIN,trae-api-sg.mchost.guru
+# upstream:blackmatrix:rule/Clash/TikTok/TikTok.list
+DOMAIN-SUFFIX,bytedapm.com
+# upstream:blackmatrix:rule/Clash/TikTok/TikTok.list
+DOMAIN-SUFFIX,bytegecko-i18n.com
+# upstream:blackmatrix:rule/Clash/TikTok/TikTok.list
+DOMAIN-SUFFIX,byteintlapi.com
+# upstream:blackmatrix:rule/Clash/TikTok/TikTok.list
+DOMAIN-SUFFIX,byteoversea.com
+# upstream:blackmatrix:rule/Clash/TikTok/TikTok.list
+DOMAIN-SUFFIX,capcut.com
+# upstream:blackmatrix:rule/Clash/TikTok/TikTok.list
+DOMAIN-SUFFIX,ibytedtos.com
+# upstream:blackmatrix:rule/Clash/TikTok/TikTok.list
+DOMAIN-SUFFIX,ibyteimg.com
+# upstream:blackmatrix:rule/Clash/TikTok/TikTok.list
+DOMAIN-SUFFIX,ipstatp.com
+# upstream:blackmatrix:rule/Clash/TikTok/TikTok.list
+DOMAIN-SUFFIX,isnssdk.com
+# upstream:blackmatrix:rule/Clash/TikTok/TikTok.list
+DOMAIN-SUFFIX,marscode.com
+# upstream:blackmatrix:rule/Clash/TikTok/TikTok.list
+DOMAIN-SUFFIX,muscdn.com
+# upstream:blackmatrix:rule/Clash/TikTok/TikTok.list
+DOMAIN-SUFFIX,musical.ly
+# upstream:blackmatrix:rule/Clash/TikTok/TikTok.list
+DOMAIN-SUFFIX,sgpstatp.com
+# upstream:blackmatrix:rule/Clash/TikTok/TikTok.list
+DOMAIN-SUFFIX,snssdk.com
+# upstream:blackmatrix:rule/Clash/TikTok/TikTok.list
+DOMAIN-SUFFIX,tik-tokapi.com
+# upstream:blackmatrix:rule/Clash/TikTok/TikTok.list
+DOMAIN-SUFFIX,tiktok.com
+# upstream:blackmatrix:rule/Clash/TikTok/TikTok.list
+DOMAIN-SUFFIX,tiktokcdn-us.com
+# upstream:blackmatrix:rule/Clash/TikTok/TikTok.list
+DOMAIN-SUFFIX,tiktokcdn.com
+# upstream:blackmatrix:rule/Clash/TikTok/TikTok.list
+DOMAIN-SUFFIX,tiktokd.net
+# upstream:blackmatrix:rule/Clash/TikTok/TikTok.list
+DOMAIN-SUFFIX,tiktokd.org
+# upstream:blackmatrix:rule/Clash/TikTok/TikTok.list
+DOMAIN-SUFFIX,tiktokmusic.app
+# upstream:blackmatrix:rule/Clash/TikTok/TikTok.list
+DOMAIN-SUFFIX,tiktokv.com
+# upstream:blackmatrix:rule/Clash/TikTok/TikTok.list
+DOMAIN-SUFFIX,tiktokv.us
+# upstream:blackmatrix:rule/Clash/TikTok/TikTok.list
+DOMAIN-SUFFIX,trae.ai
+# upstream:blackmatrix:rule/Clash/TikTok/TikTok.list
+DOMAIN-SUFFIX,ttwebview.com
+# upstream:blackmatrix:rule/Clash/TikTok/TikTok.list
+DOMAIN-KEYWORD,musical.ly
+# upstream:blackmatrix:rule/Clash/TikTok/TikTok.list
+DOMAIN-KEYWORD,tiktok
+# upstream:v2fly:data/discord
+DOMAIN,discord-attachments-uploads-prd.storage.googleapis.com
+# upstream:v2fly:data/discord
+DOMAIN,hammerandchisel.ssl.zendesk.com
+# upstream:v2fly:data/reddit
+DOMAIN-SUFFIX,reddit.app.link
+# upstream:v2fly:data/reddit
+DOMAIN-SUFFIX,redditblog.com
+# upstream:v2fly:data/reddit
+DOMAIN-SUFFIX,reddithelp.com
+# upstream:v2fly:data/reddit
+DOMAIN-SUFFIX,redditinc.com
+# upstream:v2fly:data/reddit
+DOMAIN-SUFFIX,redditspace.com
+# upstream:v2fly:data/reddit
+DOMAIN-SUFFIX,redditstatus.com
+# upstream:v2fly:data/reddit
+DOMAIN-SUFFIX,reddit.map.fastly.net
+# upstream:v2fly:data/signal
+DOMAIN-SUFFIX,signal.art
+# upstream:v2fly:data/signal
+DOMAIN-SUFFIX,signal.group
+# upstream:v2fly:data/signal
+DOMAIN-SUFFIX,signal.link
+# upstream:v2fly:data/signal
+DOMAIN-SUFFIX,signal.me
+# upstream:v2fly:data/signal
+DOMAIN-SUFFIX,signal.tube
+# upstream:v2fly:data/signal
+DOMAIN-SUFFIX,signal.org
+# upstream:v2fly:data/signal
+DOMAIN-SUFFIX,signalusers.org
+# upstream:v2fly:data/signal
+DOMAIN-SUFFIX,whispersystems.org
+# upstream:v2fly:data/zoom
+DOMAIN-SUFFIX,zoom.com
+# upstream:v2fly:data/zoom
+DOMAIN-SUFFIX,zoom.com.cn
+# upstream:v2fly:data/zoom
+DOMAIN-SUFFIX,zoom.us

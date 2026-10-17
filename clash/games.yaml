@@ -1,0 +1,5 @@
+payload:
+- DOMAIN-KEYWORD,steambroadcast
+- DOMAIN-KEYWORD,steamstore
+- DOMAIN-KEYWORD,steamuserimages
+- IP-CIDR,35.192.0.0/12,no-resolve

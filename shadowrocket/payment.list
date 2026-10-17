@@ -1,0 +1,495 @@
+# payment | 自动生成；请修改 rules/payment.yaml
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,account-paypal.info
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,account-paypal.net
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,account-paypal.org
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,accountpaypal.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,accountpaypal.net
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,accountpaypal.org
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,anfutong.cn
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,anfutong.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,anfutong.com.cn
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,beibao.cn
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,beibao.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,beibao.com.cn
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,bill-safe.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,billmelater.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,billmelater.info
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,billmelater.net
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,bml.info
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,braintreegateway.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,braintreegateway.tv
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,braintreepayments.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,braintreepayments.info
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,braintreepayments.org
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,braintreepayments.tv
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,braintreepaymentsolutions.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,braintreeps.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,briantreepayments.net
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,briantreepayments.tv
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,buyfast-paysmart.net
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,card.io
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,cash2.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,cashify.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,cashify.net
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,devtools-paypal.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,experiencebillmelater.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,filipino-music.net
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,fundpaypal.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,getbraintree.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,gmoney.org
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,i-o-u.info
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,krakenjs.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,loanbuilder.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,login-paypal.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,login-paypal.info
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,mywaytopay.info
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,mywaytopay.net
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,pa9pal.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paaypal.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paily.net
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paily.org
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paipal.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,pavpal.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paydiant.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paylike.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypa1.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypa1.org
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypaal.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-activate.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-activate.info
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-activate.org
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-apac.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-apps.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-biz.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-brandcentral.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-business.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-business.net
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-business.org
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-cardcash.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-cash.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-center.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-center.info
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-center.net
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-center.org
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-communication.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-communications.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-communications.net
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-community.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-community.net
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-comunidad.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-corp.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-database.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-database.us
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-donations.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-dynamic.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-engineering.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-europe.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-excelinvoicing.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-exchanges.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-forward.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-galactic.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-gift.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-gifts.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-gpplus.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-here.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-hrsystem.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-innovationlab.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-integration.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-japan.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-knowledge.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-labs.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-latam.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-learning.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-login.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-login.info
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-login.org
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-login.us
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-luxury.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-mainstreet.net
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-marketing.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-media.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-merchantloyalty.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-mktg.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-mobilemoney.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-network.org
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-notice.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-notify.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-online.info
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-online.net
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-online.org
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-optimizer.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-pages.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-photocard.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-plaza.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-portal.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-prepagata.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-prepagata.net
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-prepaid.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-profile.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-proserv.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-qrshopping.org
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-recargacelular.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-redeem.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-referral.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-retail.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-scoop.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-search.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-secure.net
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-secure.org
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-security.net
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-security.org
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-service.org
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-signin.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-signin.us
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-special.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-specialoffers.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-sptam.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-status.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-support.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-survey.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-survey.org
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-team.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal-viewpoints.net
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal.ca
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal.com.cn
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal.com.hk
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal.com.sg
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal.hk
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal.info
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal.jp
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal.me
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal.net.cn
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal.org.cn
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal.so
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypal.us
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypalbeacon.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypalbenefits.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypalbrasil.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypalcommunity.cn
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypalcommunity.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypalcommunity.net
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypalcommunity.org
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypalcorp.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypalcredit.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypalcreditcard.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypalgivingfund.org
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypalhere.cn
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypalhere.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypalhere.com.cn
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypalhere.info
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypalhere.net
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypalhere.org
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypalhere.tv
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypali.net
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypalinc.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypalindia.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypalinsuranceservices.org
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypall.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypallabs.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypalme.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypalnet.net
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypalnet.org
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypalnetwork.info
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypalnetwork.net
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypalnetwork.org
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypalobjects.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypalonline.net
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypalonline.org
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypalprepagata.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypalprepagata.net
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypalservice.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypalshopping.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypalshopping.net
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypalsurvey.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypalx.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,paypaly.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,payppal.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,payypal.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,pdncommunity.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,pp-soc.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,ppaypal.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,pppds.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,pypl.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,pypl.info
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,pypl.net
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,pypl.tv
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,s-xoom.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,secure-paypal.info
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,securepaypal.info
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,simility.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,sslpaypal.org
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,swiftbank.info
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,swiftbank.us
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,swiftcapital.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,swiftfinancial.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,swiftfinancial.info
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,swiftfinancial.net
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,thepaypalshop.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,theshoppingexpresslane.net
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,venmo-touch.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,venmo.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,venmo.info
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,venmo.net
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,venmo.org
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,venmo.s3.amazonaws.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,webmoneyinfo.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,wiremoneytoirelandwithxoomeasierandcheaper.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,www-paypal.info
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,www-paypal.us
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,wwwxoom.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,xn--bnq297cix3a.cn
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,xoom-experience.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,xoom.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,xoom.io
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,xoom.net.cn
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,xoom.us
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-SUFFIX,xoomcom.com
+# upstream:blackmatrix:rule/Clash/PayPal/PayPal.list
+DOMAIN-KEYWORD,paypal

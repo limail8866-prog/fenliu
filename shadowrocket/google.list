@@ -1,0 +1,1363 @@
+# google | 自动生成；请修改 rules/google.yaml
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN,voice.telephony.goog
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,0emm.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,1e100.net
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,1ucrs.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,265.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,2mdn-cn.net
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,2mdn.net
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,466453.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,abc.xyz
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,adgoogle.net
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,admeld.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,admob-cn.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,adsense.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,adsensecustomsearchads.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,adsenseformobileapps.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,advertisercommunity.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,advertiserscommunity.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,adwords-community.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,adwords.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,adwordsexpress.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,amp.dev
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,ampproject.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,ampproject.net
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,ampproject.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,android.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,androidify.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,androidtv.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,angulardart.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,api.ai
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,apigee.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,app-analytics-services.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,app-measurement-cn.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,app-measurement.net
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,appbridge.ca
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,appbridge.io
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,appbridge.it
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,appspot.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,apture.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,area120.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,asp-cc.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,autodraw.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,avail.googleflights.net
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,bandpage.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,baselinestudy.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,baselinestudy.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,bazel.build
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,bdn.dev
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,beacons.gvt2.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,beacons2.gvt2.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,beacons3.gvt2.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,beatthatquote.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blink.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blog.google
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogblog.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogger.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.ae
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.al
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.am
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.ba
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.be
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.bg
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.bj
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.ca
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.cf
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.ch
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.cl
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.co.at
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.co.id
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.co.il
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.co.ke
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.co.nz
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.co.uk
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.co.za
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.com.ar
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.com.au
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.com.br
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.com.by
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.com.co
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.com.cy
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.com.ee
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.com.eg
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.com.es
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.com.mt
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.com.ng
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.com.tr
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.com.uy
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.cv
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.cz
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.de
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.dk
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.fi
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.fr
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.gr
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.hk
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.hr
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.hu
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.ie
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.in
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.is
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.it
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.jp
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.kr
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.li
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.lt
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.lu
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.md
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.mk
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.mx
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.my
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.nl
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.no
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.pe
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.pt
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.qa
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.re
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.ro
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.rs
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.ru
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.se
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.sg
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.si
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.sk
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.sn
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.td
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.tw
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.ug
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,blogspot.vn
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,brocaproject.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,brotli.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,bumpshare.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,bumptop.ca
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,bumptop.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,bumptop.net
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,bumptop.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,bumptunes.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,c.gle
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,campuslondon.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,capitalg.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,certificate-transparency.dev
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,certificate-transparency.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,charlestonroadregistry.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,chat.gle
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,chrome.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,chromebook.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,chromecast.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,chromeexperiments.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,chromeos.dev
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,chromercise.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,chromestatus.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,chromium.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,chronicle.security
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,chroniclesec.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,clickserve.cc-dt.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,clickserver.googleads.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,cloudburstresearch.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,cloudfunctions.net
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,cloudproxy.app
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,cloudrobotics.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,cobrasearch.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,codespot.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,conscrypt.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,conscrypt.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,cookiechoices.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,coova.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,coova.net
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,coova.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,crbug.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,creativelab5.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,crossmediapanel.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,crr.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,crrev.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,cs4hs.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,dart.dev
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,dartlang.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,dartpad.dev
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,dartsearch-cn.net
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,dartsearch.net
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,data-vocabulary.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,dataliberation.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,debug.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,debugproject.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,deja.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,deps.dev
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,deps.info
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,devsitetest.how
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,dialogflow.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,digisfera.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,digitalassetlinks.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,digitalattackmap.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,doubleclick-cn.net
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,episodic.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,fastlane.ci
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,fastlane.tools
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,feedburner.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,fflick.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,financeleadsonline.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,firebaseapp.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,firebaseio.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,flutter.dev
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,flutterapp.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,foofle.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,froogle.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,fuchsia.dev
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,g-tun.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,g.cn
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,g.co
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,g.dev
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,g.page
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,gateway.dev
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,gcp.gvt2.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,gcr.io
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,gerritcodereview.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,get.app
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,get.dev
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,get.how
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,get.page
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,getbumptop.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,getmdl.io
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,getoutline.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,ggoogle.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,gipscorp.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,gkecnapps.cn
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,globaledu.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,gmail.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,gmodules.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,go-lang.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,go-lang.net
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,go-lang.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,go.dev
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,godoc.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,gogle.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,gogole.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,golang.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,golang.net
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,golang.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,gonglchuangl.net
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,gongyichuangyi.net
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,goo.gl
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googel.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googil.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googl.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google-analytics-cn.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google-analytics.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google-syndication.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.ad
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.ae
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.al
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.am
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.as
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.at
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.az
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.ba
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.be
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.berlin
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.bf
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.bg
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.bi
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.bj
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.bs
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.bt
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.by
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.ca
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.cat
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.cd
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.cf
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.cg
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.ch
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.ci
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.cl
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.cm
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.cn
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.co.ao
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.co.bw
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.co.ck
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.co.cr
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.co.id
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.co.il
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.co.in
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.co.jp
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.co.ke
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.co.kr
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.co.ls
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.co.ma
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.co.mz
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.co.nz
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.co.th
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.co.tz
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.co.ug
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.co.uk
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.co.uz
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.co.ve
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.co.vi
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.co.za
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.co.zm
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.co.zw
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.af
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.ag
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.ai
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.ar
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.au
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.bd
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.bh
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.bn
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.bo
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.br
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.bz
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.co
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.cu
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.cy
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.do
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.ec
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.eg
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.et
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.fj
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.gh
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.gi
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.gt
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.hk
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.jm
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.kh
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.kw
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.lb
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.ly
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.mm
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.mt
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.mx
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.my
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.na
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.ng
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.ni
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.np
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.om
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.pa
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.pe
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.pg
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.ph
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.pk
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.pr
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.py
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.qa
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.sa
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.sb
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.sg
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.sl
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.sv
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.tj
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.tr
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.tw
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.ua
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.uy
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.vc
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.com.vn
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.cv
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.cz
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.de
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.dev
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.dj
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.dk
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.dm
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.dz
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.ee
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.es
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.fi
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.fm
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.fr
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.ga
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.ge
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.gg
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.gl
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.gm
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.gr
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.gy
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.hn
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.hr
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.ht
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.hu
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.ie
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.im
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.iq
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.is
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.it
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.je
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.jo
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.kg
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.ki
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.kz
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.la
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.li
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.lk
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.lt
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.lu
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.lv
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.md
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.me
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.mg
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.mk
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.ml
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.mn
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.ms
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.mu
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.mv
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.mw
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.ne
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.net
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.nl
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.no
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.nr
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.nu
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.pl
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.pn
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.ps
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.pt
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.ro
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.rs
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.ru
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.rw
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.sc
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.se
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.sh
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.si
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.sk
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.sm
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.sn
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.so
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.sr
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.st
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.td
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.tg
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.tl
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.tm
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.tn
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.to
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.tt
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.ventures
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.vg
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.vu
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,google.ws
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googleacquisitionmigration.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googleadapis.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googleadservices-cn.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googleadservices.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googleanalytics.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googleapis-cn.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googleapis.cn
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googleapis.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googleapps-cn.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googleapps.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googlearth.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googleblog.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googlebot.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googlecapital.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googlecert.net
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googlecnapps.cn
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googlecode.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googlecompare.co.uk
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googledanmark.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googledomains.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googlee.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googleearth.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googlefiber.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googlefiber.net
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googlefinland.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googleflights-cn.net
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googlemail.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googlemaps.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googlemashups.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googleoptimize-cn.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googleoptimize.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googlepagecreator.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googlephotos.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googleplay.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googleplus.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googlescholar.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googlesource.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googlestore.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googlesverige.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googlesyndication-cn.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googletagmanager-cn.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googletagmanager.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googletagservices-cn.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googletraveladservices-cn.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googletraveladservices.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googlevads-cn.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googleventures.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googlr.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,goolge.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,gooogle.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,gridaware.app
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,gsrc.io
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,gstatic-cn.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,gstatic.cn
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,gstatic.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,gstaticcnapps.cn
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,gsuite.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,gv.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,gvt0.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,gvt1-cn.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,gvt2-cn.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,gvt3.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,gvt5.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,gvt6.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,gvt7.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,gvt9.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,gwtproject.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,hdrplusdata.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,hey.gle
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,hindiweb.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,howtogetmo.co.uk
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,html5rocks.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,hwgo.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,iam.soy
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,iamremarkable.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,igoogle.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,impermium.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,itasoftware.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,j2objc.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,jibemobile.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,kaggle.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,kaggle.io
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,keyhole.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,keytransparency.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,keytransparency.foo
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,keytransparency.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,lanternal.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,like.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,madewithcode.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,material.io
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,mdialog.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,meet.new
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,mfg-inspector.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,mobileview.page
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,moodstocks.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,near.by
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,nest.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,neverware.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,nomulus.foo
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,oasisfeng.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,oauthz.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,ok.gle
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,on.here
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,on2.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,onefifteen.net
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,onefifteen.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,oneworldmanystories.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,opensourceinsight.dev
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,opensourceinsights.dev
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,openthread.io
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,openweave.io
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,orbitera.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,page.link
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,pagespeedmobilizer.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,pageview.mobi
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,partylikeits1986.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,paxlicense.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,picasa.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,picasaweb.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,picasaweb.net
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,picasaweb.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,picnik.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,pittpatt.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,pixate.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,pki.goog
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,plus.codes
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,polymer-project.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,polymerproject.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,postini.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,privacysandbox.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,prod-controlbe.floonet.goog
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,prod-databe.floonet.goog
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,prod.databe.floonet.goog
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,projectara.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,projectbaseline.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,publishproxy.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,qiao-cn.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,qpx.googleflights.net
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,questvisual.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,quickoffice.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,quiksee.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,recaptcha-cn.net
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,recaptcha.net
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,redhotlabs.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,redirector.gcpcdn.gvt1.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,redirector.gvt1.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,redirector.offline-maps.gvt1.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,redirector.snap.gvt1.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,registry.google
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,revolv.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,ridepenguin.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,run.app
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,savethedate.foo
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,saynow.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,schema.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,schemer.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,screenwisetrends.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,screenwisetrendspanel.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,shattered.io
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,snapseed.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,solveforx.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,stadia.dev
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,staging-controlbe.floonet.goog
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,staging-databe.floonet.goog
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,staging.databe.floonet.goog
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,stcroixmosquito.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,stcroixmosquitoproject.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,studywatchbyverily.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,studywatchbyverily.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,stxmosquito.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,stxmosquitoproject.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,stxmosquitoproject.net
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,stxmosquitoproject.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,synergyse.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,teachparentstech.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,tensorflow.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,tfhub.dev
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,thecleversense.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,thegooglestore.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,thinkquarterly.co.uk
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,thinkquarterly.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,thinkwithgoogle.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,tiltbrush.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,txcloud.net
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,txvia.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,unfiltered.news
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,urchin.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,useplannr.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,usvimosquito.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,usvimosquitoproject.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,v8.dev
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,v8project.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,velostrata.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,verily.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,verilylifesciences.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,verilystudyhub.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,verilystudywatch.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,verilystudywatch.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,wallet.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,waveprotocol.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,waymo.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,waze.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,web.app
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,web.dev
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,webappfieldguide.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,webmproject.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,webpkgcache.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,webrtc.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,weltweitwachsen.de
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,whatbrowser.org
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,widevine.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,withgoogle.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,womenwill.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,womenwill.com.br
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,womenwill.id
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,womenwill.in
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,womenwill.mx
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,www.destinationurl.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,www.pxcc.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,x.company
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,x.team
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,xn--9kr7l.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,xn--9trs65b.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,xn--flw351e.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,xn--ggle-55da.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,xn--gogl-0nd52e.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,xn--gogl-1nd42e.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,xplr.co
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,zukunftswerkstatt.de
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,zynamics.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googledrive.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-SUFFIX,googleusercontent.com
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-KEYWORD,appspot
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-KEYWORD,blogspot
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-KEYWORD,gmail
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-KEYWORD,google
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+DOMAIN-KEYWORD,recaptcha
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+IP-CIDR,173.194.0.0/16,no-resolve
+# upstream:blackmatrix:rule/Clash/Google/Google.list
+IP-CIDR,74.125.0.0/16,no-resolve

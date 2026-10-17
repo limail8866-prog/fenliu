@@ -1,0 +1,1235 @@
+# microsoft | 自动生成；请修改 rules/microsoft.yaml
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN,vsmarketplacebadge.apphb.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,1drv.ms
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,21vbc.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,21vbluecloud.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,21vbluecloud.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,a-msedge.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,a1158.g.akamai.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,a122.dscg3.akamai.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,a767.dscg3.akamai.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,aadrm.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,aadrm.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,acompli.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,acompli.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,adaptivecards.io
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,aggresmart.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,aicscience.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,aka.ms
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,ankarazirvesi2018.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,api-extractor.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,apihub-internal.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,apisof.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,appcenter.ms
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,applicationinsights.io
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,applicationinsights.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,appserviceenvironment.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,aria.ms
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,asp.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,aspnetcdn.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,assets-yammer.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azcrmc-test.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azcrmc.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azk8s.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,aznbcontent.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,aztask.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azure-api.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azure-apihub.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azure-apim.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azure-automation.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azure-connectedvehicles-stage.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azure-connectedvehicles.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azure-devices-int.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azure-devices-provisioning.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azure-devices.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azure-devices.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azure-dns.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azure-dns.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azure-dns.info
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azure-dns.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azure-dns.org
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azure-mobile.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azure-sphere.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azure-test.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azure.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azure.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azure.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azurecomcdn.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azurecomm.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azurecontainer.io
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azurecosmos.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azurecosmosdb.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azurecosmosdb.info
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azurecosmosdb.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azurecr-test.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azurecr.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azuredatabricks.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azuredevopslaunch.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azuredigitaltwin.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azuredigitaltwins.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azuredigitaltwins.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azuredns-prd.info
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azuredns-prd.org
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azureedge-test.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azureedge.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azurefd.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azurefd.us
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azurehdinsight.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azureiotcentral.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azureiotsolutions.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azureiotsuite.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azureiotsuite.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azuremresolver.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azureplanetscale.info
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azureplanetscale.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azureprivatedns.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azurerms.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azurerms.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azuresandbox.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azureserviceprofiler.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azuresmartspaces.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azurestackvalidation.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,azurewebsites.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,b2clogin.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,b3itech.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,bbing.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,bibg.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,biing.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,binads.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,binb.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,binf.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,bing.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,bing.com.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,bing.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,bing123.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,bing135.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,bing4.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,bingads.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,bingagencyawards.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,bingapis.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,bingapistatistics.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,binginternal.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,bingit.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,bingiton.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,bingj.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,bingpix.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,bingpk.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,bings.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,bingsandbox.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,bingtoolbar.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,bingtranslator.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,bingvisualsearch.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,bingworld.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,biying.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,biying.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,biying.com.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,blazor.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,blueaggrestore.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,bluecloudprod.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,bluehatil.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,bluehatnights.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,boswp.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,botframework.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,brazilpartneruniversity.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,breakdown.me
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,c-msedge.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,cegid-cloud.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,centralvalidation.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,ch9.ms
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,charticulator.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,chinacloud-mobile.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,chinacloudapi.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,chinacloudapp.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,chinacloudsites.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,cloudapp.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,cloudappsecurity.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,codethemicrobit.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,cortana.ai
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,cortanaanalytics.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,cortanaskills.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,cosmosdb.info
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,cosmosdb.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,crmdynint-gcc.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,crmdynint.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,crossborderexpansion.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,cs11.wpc.v0cdn.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,cs9.wac.phicdn.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,devopsassessment.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,devopsms.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,dictate.ms
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,discoverbing.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,docs.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,doom.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,dot.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,dwh5.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,dynamics.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,dynamics.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,e-msedge.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,efproject.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,elderscrolls.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,engkoo.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,evoke-windowsservices-tas.msedge
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,exp-tas.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,explorebing.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,fabric.io
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,fasttrackreadysupport.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,femalefounderscomp.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,flipwithsurface.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,fluidpreview.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,footprintdns.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,g.akamaiedge.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,gamesstack.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,gameuxmasterguide.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,gears5.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,gearspop.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,gearstactics.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,getmicrosoftkey.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,gfx.ms
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,gigjam.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,gotcosmos.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,graphengine.io
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,groupme.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,hdinsightservices.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,here.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,here.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,heremaps.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,hockeyapp.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,hololens.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,hotmail.co
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,hotmail.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,hotmail.eu
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,hotmail.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,hotmail.org
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,hummingbird.ms
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,ie10.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,ie11.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,ie8.co
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,ie9.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,imaginecup.pl
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,img-prod-cms-rt-microsoft-com.akamaized.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,img-s-msn-com.akamaized.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,ingads.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,insiderdevtour.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,internetexplorer.co
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,internetexplorer.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,intunewiki.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,iotinactionevents.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,joinms.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,joinms.com.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,joinmva.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,jwt.ms
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,kidgrid.tv
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,kumo.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,latampartneruniversity.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,live.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,live.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,live.com.au
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,live.eu
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,live.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,livetileedge.dsx.mp.microsoft.com.edgekey.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,livingyourambition.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,lync.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,lync.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,m12.vc
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,makecode.org
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,managedmeetingrooms.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,management-azure-devices-int.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,management-azure-devices-provisioning.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,management-azure-devices.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,management-azure-devices.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,mapblast.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,mappoint.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,masalladeloslimites.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,mcchcdn.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,meetfasttrack.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,meetyourdevices.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,mepn.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,mesh.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,mgmt-azure-api.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microbit.org
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft-falcon.io
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft-give.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft-int.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft-online.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft-online.com.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft-ppe.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft-sap-events.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft-sbs-domains.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft-smb.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft-tst.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.az
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.be
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.by
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.ca
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.cat
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.ch
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.cl
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.com.nsatc.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.cz
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.de
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.dk
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.ee
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.es
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.eu
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.fi
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.ge
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.hu
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.io
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.is
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.it
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.jp
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.lt
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.lu
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.lv
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.md
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.pl
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.pt
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.red
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.ro
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.rs
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.ru
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.se
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.si
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.tv
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.ua
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.uz
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft.vn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoft365.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftaccountguard.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftadc.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftads.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftadvertising.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftadvertisingregionalawards.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftaffiliates.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftapp.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftazuread-sso.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftazuresponsorships.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftazurestatus.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftcloud.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftcloudsummit.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftcloudworkshop.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftcommunitytraining.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftdiplomados.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsofteca.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftedge.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftedgeinsider.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftemail.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftestore.com.hk
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftgamestack.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsofthouse.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsofthouse.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftinternetsafety.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftiotcentral.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftiotinsiderlabs.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftlatamaitour.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftlatamholiday.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftlinc.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftmetrics.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftmxfilantropia.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftnews.cc
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftnews.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftnews.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftnews.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftnews.org
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftnewsforkids.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftnewsforkids.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftnewsforkids.org
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftnewskids.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftnewskids.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftnewskids.org
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftol.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftol.com.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftonline-i.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftonline-m-i.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftonline-m.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftonline-p-i.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftonline-p-i.net.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftonline-p.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftonline-p.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftonline-p.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftonline-p.net.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftonline.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftonline.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftpartnercommunity.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftpartnersolutions.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftreactor.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftreactor.com.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftreactor.info
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftreactor.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftreactor.org
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftready.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftsilverlight.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftsilverlight.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftsilverlight.org
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftsiteselection.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftsqlserver.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftstart.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftstore.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftstore.com.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftstore.com.hk
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftstream.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftteams.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsofttradein.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsofttranslator-int.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsofttranslator.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftusercontent.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftuwp.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,mmais.com.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,mmdnn.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,mncmsidlab1.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,momentumms.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,mono-project.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,morphcharts.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,mpnevolution.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,ms-studiosmedia.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,ms365surfaceoffer.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msa.akadns6.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msappproxy.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msappproxy.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msauth.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msauth.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msauthimages.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msauthimages.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,mschallenge2018.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,mschcdn.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msdn.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msecnd.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msedge.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msft.info
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msft.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msftauth.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msftauth.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msftauthimages.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msftauthimages.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msftcenterone.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msftcloudes.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msftconnecttest.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msfteducation.ca
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msftidentity.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msftnet.org
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msgamesresearch.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msidentity.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msidentity.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msidlabpbmc.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msignitechina.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msinnovationchallenge.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msminico.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msminico.com.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msn.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msn.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msn.com.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msn.com.nsatc.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msn.com.tw
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msn.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msnewskids.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msnewskids.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msnewskids.org
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msnkids.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msnmaps.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msocdn.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msocsp.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msopentech.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,mspairlift.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,mspil.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msra.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msropendata.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,mstea.ms
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msturing.org
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msudalosti.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msunlimitedcloudsummit.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msvevent.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msxiaobing.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msxiaoice.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,msxiaona.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,mwf-service.akamaized.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,myhomemsn.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,mymicrosoft.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,nextechafrica.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,nuget.org
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,nugettest.org
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,nxta.org
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,o365cn.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,o365files.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,o365weve-dev.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,o365weve-ppe.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,o365weve.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,oaspapps.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,office.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,office.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,office365-net.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,office365.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,office365.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,office365love.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,office365tw.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,officecdn-microsoft-com.akamaized.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,officedev.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,officeplus.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,officeppe.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,officewebapps.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,omniroot.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,onecollector.cloudapp.aria
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,onedrive.co
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,onedrive.co.uk
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,onedrive.eu
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,onedrive.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,onedrive.org
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,onenote.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,onenote.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,onestore.ms
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,onmicrosoft.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,onmschina.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,opentranslatorstothings.org
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,opticsforthecloud.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,osdinfra.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,outingsapp.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,outlook.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,outlook.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,outlookgroups.ms
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,outlookmobile.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,ovi.com.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,passport.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,pbiwebcontent.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,phonefactor.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,pixapp.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,playfabapi.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,playfabcn.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,poshtestgallery.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,powerapps.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,powerappscdn.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,powerappsportals.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,powerautomate.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,powerautomate.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,powerbi.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,powerbi.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,powershellgallery.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,prod-video-cms-rt-microsoft-com.akamaized.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,projectmurphy.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,projectsangam.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,public-trust.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,pwabuilder.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,pxt.io
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,reactorms.com.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,renlifang.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,renovacionoffice.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,s-microsoft.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,s-msedge.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,s-msft.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,s-msn.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,sankie.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,sclive.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,serverlesslibrary.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,sfbassets.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,sfbassets.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,sfx.ms
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,sharepoint.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,signalr.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,skype.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,skype.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,skypeassets.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,skypeassets.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,skypeforbusiness.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,sprinklesapp.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,sqlserveronlinux.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,staffhub.ms
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,start.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,statics-marketingsites-eas-ms-com.akamaized.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,statics-marketingsites-eus-ms-com.akamaized.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,statics-marketingsites-neu-ms-com.akamaized.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,statics-marketingsites-wcus-ms-com.akamaized.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,successwithteams.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,surface.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,svc.ms
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,sway-cdn.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,sway-extensions.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,sway.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,syncshop.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,sysinternals.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,tailwindtraders.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,techhub.ms
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,tenor.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,tfsallin.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,timelinestoryteller.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,trafficmanager.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,trafficmanager.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,translatetheweb.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,trustcenter.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,tryfunctions.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,unity3dcloud.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,unlocklimitlesslearning.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,userpxt.io
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,uwpcommunitytoolkit.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,vfsforgit.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,vfsforgit.org
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,videobreakdown.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,videoindexer.ai
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,vip5.afdorigin-prod-am02.afdogw.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,virtualearth.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,visualstudio-staging.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,visualstudio.co
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,visualstudio.co.uk
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,visualstudio.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,visualstudio.eu
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,visualstudio.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,vsallin.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,vsassets.io
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,vscode-cdn.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,vscode-unpkg.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,vscode-webview.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,vscode.dev
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,wbd.ms
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,what-fan.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,windows-int.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,windows-ppe.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,windows.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,windows.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,windows.nl
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,windows8.hk
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,windowsazure.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,windowsazure.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,windowsazurestatus.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,windowscommunity.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,windowslive.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,windowsmarketplace.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,windowsphone-int.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,windowsphone.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,windowssearch.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,windowsupdate.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,winhec.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,winhec.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,winmp.cn
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,wlxrs.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,working-bing-int.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,wunderlist.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,xamarin.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,yammer.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,yammerusercontent.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,1drv.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,livefilestore.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,microsoftpersonalcontent.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,onedrive.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,sharepoint.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,sharepointonline.com
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-SUFFIX,spoprod-a.akamaihd.net
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-KEYWORD,microsoft
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-KEYWORD,1drv
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-KEYWORD,onedrive
+# upstream:blackmatrix:rule/Clash/Microsoft/Microsoft.list
+DOMAIN-KEYWORD,skydrive

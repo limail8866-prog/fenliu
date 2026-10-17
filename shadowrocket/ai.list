@@ -1,0 +1,247 @@
+# ai | 自动生成；请修改 rules/ai.yaml
+# upstream:blackmatrix:rule/Clash/OpenAI/OpenAI.list
+DOMAIN,browser-intake-datadoghq.com
+# upstream:blackmatrix:rule/Clash/OpenAI/OpenAI.list
+DOMAIN,chat.openai.com.cdn.cloudflare.net
+# upstream:blackmatrix:rule/Clash/OpenAI/OpenAI.list
+DOMAIN,openai-api.arkoselabs.com
+# upstream:blackmatrix:rule/Clash/OpenAI/OpenAI.list
+DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+# upstream:blackmatrix:rule/Clash/OpenAI/OpenAI.list
+DOMAIN,openaicomproductionae4b.blob.core.windows.net
+# upstream:blackmatrix:rule/Clash/OpenAI/OpenAI.list
+DOMAIN,production-openaicom-storage.azureedge.net
+# upstream:blackmatrix:rule/Clash/OpenAI/OpenAI.list
+DOMAIN,static.cloudflareinsights.com
+# upstream:blackmatrix:rule/Clash/OpenAI/OpenAI.list
+DOMAIN-SUFFIX,ai.com
+# upstream:blackmatrix:rule/Clash/OpenAI/OpenAI.list
+DOMAIN-SUFFIX,algolia.net
+# upstream:blackmatrix:rule/Clash/OpenAI/OpenAI.list
+DOMAIN-SUFFIX,api.statsig.com
+# upstream:blackmatrix:rule/Clash/OpenAI/OpenAI.list
+DOMAIN-SUFFIX,auth0.com
+# upstream:blackmatrix:rule/Clash/OpenAI/OpenAI.list
+DOMAIN-SUFFIX,chatgpt.com
+# upstream:blackmatrix:rule/Clash/OpenAI/OpenAI.list
+DOMAIN-SUFFIX,chatgpt.livekit.cloud
+# upstream:blackmatrix:rule/Clash/OpenAI/OpenAI.list
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+# upstream:blackmatrix:rule/Clash/OpenAI/OpenAI.list
+DOMAIN-SUFFIX,events.statsigapi.net
+# upstream:blackmatrix:rule/Clash/OpenAI/OpenAI.list
+DOMAIN-SUFFIX,featuregates.org
+# upstream:blackmatrix:rule/Clash/OpenAI/OpenAI.list
+DOMAIN-SUFFIX,host.livekit.cloud
+# upstream:blackmatrix:rule/Clash/OpenAI/OpenAI.list
+DOMAIN-SUFFIX,identrust.com
+# upstream:blackmatrix:rule/Clash/OpenAI/OpenAI.list
+DOMAIN-SUFFIX,intercom.io
+# upstream:blackmatrix:rule/Clash/OpenAI/OpenAI.list
+DOMAIN-SUFFIX,intercomcdn.com
+# upstream:blackmatrix:rule/Clash/OpenAI/OpenAI.list
+DOMAIN-SUFFIX,launchdarkly.com
+# upstream:blackmatrix:rule/Clash/OpenAI/OpenAI.list
+DOMAIN-SUFFIX,oaistatic.com
+# upstream:blackmatrix:rule/Clash/OpenAI/OpenAI.list
+DOMAIN-SUFFIX,oaiusercontent.com
+# upstream:blackmatrix:rule/Clash/OpenAI/OpenAI.list
+DOMAIN-SUFFIX,observeit.net
+# upstream:blackmatrix:rule/Clash/OpenAI/OpenAI.list
+DOMAIN-SUFFIX,openai.com
+# upstream:blackmatrix:rule/Clash/OpenAI/OpenAI.list
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+# upstream:blackmatrix:rule/Clash/OpenAI/OpenAI.list
+DOMAIN-SUFFIX,openaicom.imgix.net
+# upstream:blackmatrix:rule/Clash/OpenAI/OpenAI.list
+DOMAIN-SUFFIX,segment.io
+# upstream:blackmatrix:rule/Clash/OpenAI/OpenAI.list
+DOMAIN-SUFFIX,stripe.com
+# upstream:blackmatrix:rule/Clash/OpenAI/OpenAI.list
+DOMAIN-SUFFIX,turn.livekit.cloud
+# upstream:blackmatrix:rule/Clash/OpenAI/OpenAI.list
+DOMAIN-KEYWORD,openai
+# upstream:blackmatrix:rule/Clash/OpenAI/OpenAI.list
+IP-CIDR,24.199.123.28/32,no-resolve
+# upstream:blackmatrix:rule/Clash/OpenAI/OpenAI.list
+IP-CIDR,64.23.132.171/32,no-resolve
+# upstream:blackmatrix:rule/Clash/Claude/Claude.list
+DOMAIN,cdn.usefathom.com
+# upstream:blackmatrix:rule/Clash/Claude/Claude.list
+DOMAIN-SUFFIX,anthropic.com
+# upstream:blackmatrix:rule/Clash/Claude/Claude.list
+DOMAIN-SUFFIX,claude.ai
+# upstream:blackmatrix:rule/Clash/Gemini/Gemini.list
+DOMAIN,ai.google.dev
+# upstream:blackmatrix:rule/Clash/Gemini/Gemini.list
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+# upstream:blackmatrix:rule/Clash/Gemini/Gemini.list
+DOMAIN,makersuite.google.com
+# upstream:blackmatrix:rule/Clash/Gemini/Gemini.list
+DOMAIN-SUFFIX,bard.google.com
+# upstream:blackmatrix:rule/Clash/Gemini/Gemini.list
+DOMAIN-SUFFIX,deepmind.com
+# upstream:blackmatrix:rule/Clash/Gemini/Gemini.list
+DOMAIN-SUFFIX,deepmind.google
+# upstream:blackmatrix:rule/Clash/Gemini/Gemini.list
+DOMAIN-SUFFIX,gemini.google.com
+# upstream:blackmatrix:rule/Clash/Gemini/Gemini.list
+DOMAIN-SUFFIX,generativeai.google
+# upstream:blackmatrix:rule/Clash/Gemini/Gemini.list
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+# upstream:blackmatrix:rule/Clash/Gemini/Gemini.list
+DOMAIN-SUFFIX,apis.google.com
+# upstream:blackmatrix:rule/Clash/Gemini/Gemini.list
+DOMAIN-KEYWORD,colab
+# upstream:blackmatrix:rule/Clash/Gemini/Gemini.list
+DOMAIN-KEYWORD,developerprofiles
+# upstream:blackmatrix:rule/Clash/Gemini/Gemini.list
+DOMAIN-KEYWORD,generativelanguage
+# upstream:blackmatrix:rule/Clash/Twitter/Twitter.list
+DOMAIN-SUFFIX,grok.com
+# upstream:blackmatrix:rule/Clash/Copilot/Copilot.list
+DOMAIN,api.msn.com
+# upstream:blackmatrix:rule/Clash/Copilot/Copilot.list
+DOMAIN,api.statsig.com
+# upstream:blackmatrix:rule/Clash/Copilot/Copilot.list
+DOMAIN,assets.msn.com
+# upstream:blackmatrix:rule/Clash/Copilot/Copilot.list
+DOMAIN,copilot.microsoft.com
+# upstream:blackmatrix:rule/Clash/Copilot/Copilot.list
+DOMAIN,gateway.bingviz.microsoft.net
+# upstream:blackmatrix:rule/Clash/Copilot/Copilot.list
+DOMAIN,gateway.bingviz.microsoftapp.net
+# upstream:blackmatrix:rule/Clash/Copilot/Copilot.list
+DOMAIN,in.appcenter.ms
+# upstream:blackmatrix:rule/Clash/Copilot/Copilot.list
+DOMAIN,location.microsoft.com
+# upstream:blackmatrix:rule/Clash/Copilot/Copilot.list
+DOMAIN,odc.officeapps.live.com
+# upstream:blackmatrix:rule/Clash/Copilot/Copilot.list
+DOMAIN,r.bing.com
+# upstream:blackmatrix:rule/Clash/Copilot/Copilot.list
+DOMAIN,self.events.data.microsoft.com
+# upstream:blackmatrix:rule/Clash/Copilot/Copilot.list
+DOMAIN,services.bingapis.com
+# upstream:blackmatrix:rule/Clash/Copilot/Copilot.list
+DOMAIN,sydney.bing.com
+# upstream:blackmatrix:rule/Clash/Copilot/Copilot.list
+DOMAIN,www.bing.com
+# upstream:blackmatrix:rule/Clash/Copilot/Copilot.list
+DOMAIN-SUFFIX,api.microsoftapp.net
+# upstream:blackmatrix:rule/Clash/Copilot/Copilot.list
+DOMAIN-SUFFIX,bing-shopping.microsoft-falcon.io
+# upstream:blackmatrix:rule/Clash/Copilot/Copilot.list
+DOMAIN-SUFFIX,challenges.cloudflare.com
+# upstream:blackmatrix:rule/Clash/Copilot/Copilot.list
+DOMAIN-SUFFIX,edgeservices.bing.com
+# upstream:blackmatrix:rule/Clash/Copilot/Copilot.list
+DOMAIN-KEYWORD,openaicom-api
+# upstream:v2fly:data/openai
+DOMAIN-SUFFIX,chat.com
+# upstream:v2fly:data/openai
+DOMAIN-SUFFIX,chatgpt.site
+# upstream:v2fly:data/openai
+DOMAIN-SUFFIX,crixet.com
+# upstream:v2fly:data/openai
+DOMAIN-SUFFIX,oaistatsig.com
+# upstream:v2fly:data/openai
+DOMAIN-SUFFIX,sora.com
+# upstream:v2fly:data/openai
+DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
+# upstream:v2fly:data/openai
+DOMAIN,openaiapi-site.azureedge.net
+# upstream:v2fly:data/openai
+DOMAIN,openaiassets.blob.core.windows.net
+# upstream:v2fly:data/openai
+DOMAIN,openaicom.imgix.net
+# upstream:v2fly:data/anthropic
+DOMAIN-SUFFIX,clau.de
+# upstream:v2fly:data/anthropic
+DOMAIN-SUFFIX,claude.com
+# upstream:v2fly:data/anthropic
+DOMAIN-SUFFIX,claude.dev
+# upstream:v2fly:data/anthropic
+DOMAIN-SUFFIX,claudemcpclient.com
+# upstream:v2fly:data/anthropic
+DOMAIN-SUFFIX,claudemcpcontent.com
+# upstream:v2fly:data/anthropic
+DOMAIN-SUFFIX,claudeusercontent.com
+# upstream:v2fly:data/anthropic
+DOMAIN,servd-anthropic-website.b-cdn.net
+# upstream:v2fly:data/google-deepmind
+DOMAIN-SUFFIX,geller-pa.googleapis.com
+# upstream:v2fly:data/google-deepmind
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+# upstream:v2fly:data/google-deepmind
+DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
+# upstream:v2fly:data/google-deepmind
+DOMAIN,alkalicore-pa.clients6.google.com
+# upstream:v2fly:data/google-deepmind
+DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
+# upstream:v2fly:data/google-deepmind
+DOMAIN-SUFFIX,makersuite.google.com
+# upstream:v2fly:data/google-deepmind
+DOMAIN-SUFFIX,ai.studio
+# upstream:v2fly:data/google-deepmind
+DOMAIN-SUFFIX,aistudio.google.com
+# upstream:v2fly:data/google-deepmind
+DOMAIN-SUFFIX,gemini.google
+# upstream:v2fly:data/google-deepmind
+DOMAIN-SUFFIX,gemini.gstatic.com
+# upstream:v2fly:data/google-deepmind
+DOMAIN,geminiweb-pa.clients.google.com
+# upstream:v2fly:data/google-deepmind
+DOMAIN,geminiweb-pa.clients6.google.com
+# upstream:v2fly:data/google-deepmind
+DOMAIN,cloudaicompanion.googleapis.com
+# upstream:v2fly:data/google-deepmind
+DOMAIN,cloudcode-pa.googleapis.com
+# upstream:v2fly:data/google-deepmind
+DOMAIN,daily-cloudcode-pa.googleapis.com
+# upstream:v2fly:data/google-deepmind
+DOMAIN,notebooklm-pa.googleapis.com
+# upstream:v2fly:data/google-deepmind
+DOMAIN,notebooklm.googleapis.com
+# upstream:v2fly:data/google-deepmind
+DOMAIN-SUFFIX,labstailwind.pa.googleapis.com
+# upstream:v2fly:data/google-deepmind
+DOMAIN-SUFFIX,notebook.google
+# upstream:v2fly:data/google-deepmind
+DOMAIN-SUFFIX,notebook.google.com
+# upstream:v2fly:data/google-deepmind
+DOMAIN-SUFFIX,notebooklm.google
+# upstream:v2fly:data/google-deepmind
+DOMAIN-SUFFIX,notebooklm.google.com
+# upstream:v2fly:data/google-deepmind
+DOMAIN-SUFFIX,jules.google
+# upstream:v2fly:data/google-deepmind
+DOMAIN-SUFFIX,jules.google.com
+# upstream:v2fly:data/google-deepmind
+DOMAIN-SUFFIX,labs.google
+# upstream:v2fly:data/google-deepmind
+DOMAIN-SUFFIX,labs.google.com
+# upstream:v2fly:data/google-deepmind
+DOMAIN-SUFFIX,flow.google
+# upstream:v2fly:data/google-deepmind
+DOMAIN-SUFFIX,flow.google.com
+# upstream:v2fly:data/google-deepmind
+DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
+# upstream:v2fly:data/google-deepmind
+DOMAIN-SUFFIX,aicode.googleapis.com
+# upstream:v2fly:data/google-deepmind
+DOMAIN-SUFFIX,aida.googleapis.com
+# upstream:v2fly:data/google-deepmind
+DOMAIN-SUFFIX,opal.google
+# upstream:v2fly:data/google-deepmind
+DOMAIN-SUFFIX,opal.google.com
+# upstream:v2fly:data/google-deepmind
+DOMAIN,antigravity-pa.googleapis.com
+# upstream:v2fly:data/google-deepmind
+DOMAIN,antigravity.googleapis.com
+# upstream:v2fly:data/google-deepmind
+DOMAIN-SUFFIX,antigravity.google
+# upstream:v2fly:data/google-deepmind
+DOMAIN-SUFFIX,antigravity-unleash.goog
+# upstream:v2fly:data/google-deepmind
+DOMAIN-SUFFIX,stitch.withgoogle.com

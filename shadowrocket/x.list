@@ -1,0 +1,63 @@
+# x | 自动生成；请修改 rules/x.yaml
+# upstream:blackmatrix:rule/Clash/Twitter/Twitter.list
+DOMAIN-SUFFIX,cms-twdigitalassets.com
+# upstream:blackmatrix:rule/Clash/Twitter/Twitter.list
+DOMAIN-SUFFIX,periscope.tv
+# upstream:blackmatrix:rule/Clash/Twitter/Twitter.list
+DOMAIN-SUFFIX,pscp.tv
+# upstream:blackmatrix:rule/Clash/Twitter/Twitter.list
+DOMAIN-SUFFIX,t.co
+# upstream:blackmatrix:rule/Clash/Twitter/Twitter.list
+DOMAIN-SUFFIX,tweetdeck.com
+# upstream:blackmatrix:rule/Clash/Twitter/Twitter.list
+DOMAIN-SUFFIX,twimg.co
+# upstream:blackmatrix:rule/Clash/Twitter/Twitter.list
+DOMAIN-SUFFIX,twimg.com
+# upstream:blackmatrix:rule/Clash/Twitter/Twitter.list
+DOMAIN-SUFFIX,twimg.org
+# upstream:blackmatrix:rule/Clash/Twitter/Twitter.list
+DOMAIN-SUFFIX,twitpic.com
+# upstream:blackmatrix:rule/Clash/Twitter/Twitter.list
+DOMAIN-SUFFIX,twitter.biz
+# upstream:blackmatrix:rule/Clash/Twitter/Twitter.list
+DOMAIN-SUFFIX,twitter.com
+# upstream:blackmatrix:rule/Clash/Twitter/Twitter.list
+DOMAIN-SUFFIX,twitter.jp
+# upstream:blackmatrix:rule/Clash/Twitter/Twitter.list
+DOMAIN-SUFFIX,twittercommunity.com
+# upstream:blackmatrix:rule/Clash/Twitter/Twitter.list
+DOMAIN-SUFFIX,twitterflightschool.com
+# upstream:blackmatrix:rule/Clash/Twitter/Twitter.list
+DOMAIN-SUFFIX,twitterinc.com
+# upstream:blackmatrix:rule/Clash/Twitter/Twitter.list
+DOMAIN-SUFFIX,twitteroauth.com
+# upstream:blackmatrix:rule/Clash/Twitter/Twitter.list
+DOMAIN-SUFFIX,twitterstat.us
+# upstream:blackmatrix:rule/Clash/Twitter/Twitter.list
+DOMAIN-SUFFIX,twtrdns.net
+# upstream:blackmatrix:rule/Clash/Twitter/Twitter.list
+DOMAIN-SUFFIX,twttr.com
+# upstream:blackmatrix:rule/Clash/Twitter/Twitter.list
+DOMAIN-SUFFIX,twttr.net
+# upstream:blackmatrix:rule/Clash/Twitter/Twitter.list
+DOMAIN-SUFFIX,twvid.com
+# upstream:blackmatrix:rule/Clash/Twitter/Twitter.list
+DOMAIN-SUFFIX,vine.co
+# upstream:blackmatrix:rule/Clash/Twitter/Twitter.list
+DOMAIN-SUFFIX,x.com
+# upstream:blackmatrix:rule/Clash/Twitter/Twitter.list
+DOMAIN-KEYWORD,twitter
+# upstream:blackmatrix:rule/Clash/Twitter/Twitter.list
+IP-CIDR,192.133.76.0/22,no-resolve
+# upstream:blackmatrix:rule/Clash/Twitter/Twitter.list
+IP-CIDR,199.59.148.0/22,no-resolve
+# upstream:blackmatrix:rule/Clash/Twitter/Twitter.list
+IP-CIDR,199.96.56.0/21,no-resolve
+# upstream:blackmatrix:rule/Clash/Twitter/Twitter.list
+IP-CIDR,202.160.128.0/22,no-resolve
+# upstream:blackmatrix:rule/Clash/Twitter/Twitter.list
+IP-CIDR,209.237.192.0/19,no-resolve
+# upstream:blackmatrix:rule/Clash/Twitter/Twitter.list
+IP-CIDR,69.195.160.0/19,no-resolve
+# upstream:v2fly:data/twitter
+DOMAIN-SUFFIX,twitter.map.fastly.net

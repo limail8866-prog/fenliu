@@ -1,0 +1,77 @@
+# telegram | 自动生成；请修改 rules/telegram.yaml
+# upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+DOMAIN,api.imem.app
+# upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+DOMAIN,api.swiftgram.app
+# upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+DOMAIN-SUFFIX,cdn-telegram.org
+# upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+DOMAIN-SUFFIX,comments.app
+# upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+DOMAIN-SUFFIX,contest.com
+# upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+DOMAIN-SUFFIX,graph.org
+# upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+DOMAIN-SUFFIX,legra.ph
+# upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+DOMAIN-SUFFIX,mbrx.app
+# upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+DOMAIN-SUFFIX,quiz.directory
+# upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+DOMAIN-SUFFIX,stel.com
+# upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+DOMAIN-SUFFIX,t.me
+# upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+DOMAIN-SUFFIX,tdesktop.com
+# upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+DOMAIN-SUFFIX,telega.one
+# upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+DOMAIN-SUFFIX,telegra.ph
+# upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+DOMAIN-SUFFIX,telegram-cdn.org
+# upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+DOMAIN-SUFFIX,telegram.dog
+# upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+DOMAIN-SUFFIX,telegram.me
+# upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+DOMAIN-SUFFIX,telegram.org
+# upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+DOMAIN-SUFFIX,telegram.space
+# upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+DOMAIN-SUFFIX,telegramdownload.com
+# upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+DOMAIN-SUFFIX,telesco.pe
+# upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+DOMAIN-SUFFIX,tg.dev
+# upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+DOMAIN-SUFFIX,tx.me
+# upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+DOMAIN-SUFFIX,usercontent.dev
+# upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+DOMAIN-KEYWORD,nicegram
+# upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+IP-CIDR,109.239.140.0/24,no-resolve
+# upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+IP-CIDR,139.59.210.98/32,no-resolve
+# upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+IP-CIDR,149.154.160.0/20,no-resolve
+# upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+IP-CIDR,196.55.216.167/32,no-resolve
+# upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+IP-CIDR,5.28.192.0/18,no-resolve
+# upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+IP-CIDR,91.108.0.0/16,no-resolve
+# upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+IP-CIDR6,2001:67c:4e8::/48,no-resolve
+# upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+IP-CIDR6,2001:b28:f23c::/47,no-resolve
+# upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+IP-CIDR6,2001:b28:f23f::/48,no-resolve
+# upstream:blackmatrix:rule/Clash/Telegram/Telegram.list
+IP-CIDR6,2a0a:f280::/29,no-resolve
+# upstream:v2fly:data/telegram
+DOMAIN-SUFFIX,fragment.com
+# upstream:v2fly:data/telegram
+DOMAIN-SUFFIX,ton.org
+# upstream:v2fly:data/telegram
+DOMAIN-SUFFIX,toncenter.com

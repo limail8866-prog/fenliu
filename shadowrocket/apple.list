@@ -1,0 +1,3157 @@
+# apple | 自动生成；请修改 rules/apple.yaml
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN,apple-events.akamaized.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN,beatselectronicsllc.tt.omtrdc.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN,e16991.b.akamaiedge.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN,edge.apple
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN,icons.axm-usercontent-apple.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN,lookup-api.apple.com.edgekey.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN,p-events-delivery.akamaized.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,100beatscheap.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,1monsterbeatsbydreus.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,1to1computing.com.au
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,1to1conference.com.au
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,2013beatsbydrdreonline.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,2013beatsbydrdreshop.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,2013beatsbydreshop.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,2013beatshdcybermonday.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,2013cheapestbeats.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,2013newbeatsworld.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,2013pascherbeatsbydre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,2014cheapbeatsbydre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,2beatsdre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,2buybeatsbydre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,2drdrebeats.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,40shopping.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,4beatsbydre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,5beatsbydre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,5lml.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,a0pple.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,aaagradeheadphones.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,aanaan.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,aapl.tw
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,abcheadphones.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,abeatsbydrdre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,aeasyshop.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,airmay.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,airport.brussels
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,airport.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,airport.eu
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,airsupportapp.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,airtunes.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,airtunes.info
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,airtunes.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ajtalk.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,albeats.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,alchemysynth.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,annstores.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,aokwholesale.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ap0le.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,aple.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apole.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,app0le.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appl-e.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appl.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appl4e.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appla.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appldnld.apple.com.edgesuite.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple-darwin.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple-darwin.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple-darwin.org
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple-dns.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple-dns.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple-dns.com.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple-enews.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple-expo.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple-expo.eu
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple-hk.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple-ibooks.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple-inc.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple-mapkit.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple-maps.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple-online.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple-usa.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.ae
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.at
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.be
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.bg
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.bs
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.ca
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.ch
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.cl
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.cm
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.co
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.co.cr
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.co.hu
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.co.jp
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.co.kr
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.co.mz
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.co.nz
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.co.th
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.co.uk
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.com.af
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.com.au
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.com.bo
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.com.br
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.com.cdn20.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.com.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.com.co
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.com.de
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.com.do
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.com.gr
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.com.gy
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.com.jm
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.com.lk
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.com.mg
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.com.mwcloudcdn.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.com.mwcname.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.com.mx
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.com.my
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.com.pa
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.com.pe
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.com.pl
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.com.pr
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.com.pt
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.com.py
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.com.sg
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.com.sv
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.com.tr
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.com.tw
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.com.uy
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.cz
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.de
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.dk
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.ee
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.es
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.eu
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.fi
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.fr
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.hamburg
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.hn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.hr
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.hu
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.ie
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.in
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.is
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.it
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.jo
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.jp
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.kr
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.lk
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.lt
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.lv
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.me
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.my
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.net.gr
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.nl
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.no
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.pk
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.pl
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.pt
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.ro
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.rs
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.ru
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.sa
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.se
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.sg
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.si
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.sk
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.so
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.tt
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.tw
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.uk
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.us
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.xn--czr694b
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.xn--fiqs8s
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.xyz
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleafrica.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleantilles.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleaustralia.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleaustralia.com.au
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleaustralia.net.au
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applebk.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applecarbon.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applecard.tv
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applecentar.co.rs
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applecentar.rs
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applecenter.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applecenter.com.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applecentre.com.au
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applecentre.info
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleclub.com.hk
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applecom.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applecomputer-imac.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applecomputer.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applecomputer.co.in
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applecomputer.co.nz
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applecomputer.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applecomputer.com.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applecomputer.com.hk
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applecomputer.com.tw
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applecomputer.hu
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applecomputer.kr
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applecomputerimac.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applecomputerinc.info
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applecomputers.co.nz
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applecoronavirus.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appledns.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appledns.com.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleexpo.eu
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleexpo.info
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applefilmaker.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applefilmmaker.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applefinalcutproworld.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applefinalcutproworld.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applefinalcutproworld.org
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applehongkong.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applehongkong.com.hk
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleinclegal.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleipodsettlement.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleiservices.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applelink.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applemagickeyboard.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applemalaysia.com.my
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applemasters.info
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleonline.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleonline.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleoriginalproductions.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleos.tv
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applepencil.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applepodcasts.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applepremiumreseller.com.au
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applepremiumresellers.com.au
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applereach.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applereach.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apples-msk.ru
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleschoolcontent.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applescreensavers.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applescript.info
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleshare.info
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleshop.co.uk
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applesiri.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applesurveys.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleswift.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appletaiwan.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appletips.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleweb.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applexpo.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applezh.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applf.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applfe.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applle.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applw.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appmediagroup.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appule.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appye.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apyle.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,aucheapbeats.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,audiobeatsau.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,audiobeatsbydre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,audiomonsterbeatsonline.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,auricularemonsterbeats.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,auricularesbeatsbaratosshop.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,auricularesbeatsmarkt.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ausbeatsbydrdre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,bag-glasses1.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,bandgirlz.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,baxsound.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,bbestmall.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatbd.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatbydre2013.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatbydreheadphonesonsale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatbydrekopen.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatbydremonster.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatbydreuk2014.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatdrdres.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatfactoryoutlets.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatmonstersaustralia.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beats-by-dre-australia.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beats-bydrdre.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beats-bydre-mall.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beats-bydrecheapsale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beats-bydreoutletonline.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beats-bydreoutletsale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beats-bydreoutletsale.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beats-bydreoutletssale.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beats-bydrestore.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beats-bydreuk.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beats-deal.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beats-dre-us.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beats-headphones-buy-cheap.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beats-headphones.us
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beats-sale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beats-seller.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beats-soaho.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beats1.cc
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beats1.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beats1.com.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beats1.tv
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beats123.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beats2.com.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beats4.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beats4.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beats4outlets.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beats4salecheap.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsallsale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsaudifonos.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsaudiobydre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsaudiobydre.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsaudios.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbeatsmonster.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbestdeals.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsblackfridaydeals.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsblackfridayretails.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsboxingdayuksale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrdre-headphones.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrdre-officials5.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrdre-online.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrdre-onsale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrdre-store.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrdre-store.us
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrdre4sale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrdrebiz.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrdrecustom.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrdredanmark.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrdremall.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrdreoutlet.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrdres.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrdresale.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrdrestore.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrdreus.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydre-beatsheadphone.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydre-chen.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydre-club.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydre-headphones.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydre-headphonesshop.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydre-mall.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydre-outlet.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydre-outletsale.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydre-outletstore.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydre-sell.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydre-store.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydre-studio.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydre-us.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydre.com.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydre.jp
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydre2081.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydre411.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydre4usales.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydreauofficial.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydreausale.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydreaustralia-sale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydreaustraliaonline.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydreaustraliaonlines.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydreaustraliasales.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrebeatsby.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydreblackfriday2013.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydreblackfridaypro.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydreboxingdayca.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrecasquesfr.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrecheap-outletstore.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrecheaper.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrecheaponlinesales.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrecolors.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrecustomwireless.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrecybermondaydeals2013.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrecybermondaydeals2013.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydredanmarks.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydredealsblackfriday.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydredealscybermonday.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrediscount.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrediscountonline.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydredr.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydreexecutivesale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydreformall2013-nl.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydreforsalesonline.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydreforshop2013-nl.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydreforstore.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydreforyououtlet.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrefr.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrefrcasquepascher.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrefriday.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydregot.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrehd.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrehd.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydreheadphones-nz.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydreheadphonesolo.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrehut.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydreinexpensive.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydreireland-sales.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydreirelandonlines.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydreirelandsale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydreirelandsonline.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydremall2013.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydremonsteraustralia.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrenls.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrenorge1.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydreofficialdanmark.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydreoksale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydreol.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydreonlie2013-nl.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydreonlines-ireland.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydreonlines-uk.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydreonlinesale-nz.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydreoordopjes.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydreoslo.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydreoutletsale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydreoutletscheap.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrerealstore.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydres-shop.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydresale-uk.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydresalemall2013.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydresaleonlines-nz.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydresales.us
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydresalesonline-australia.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydresdanmark.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydreshop-uk.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydreshops.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydresingapores.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydresingaporesale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydresold.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydresolohdonline-canada.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydresonline-nz.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrespeakers.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydressale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydressolo.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydresstudio.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrestorevip.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrestudio-australia.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrestudio.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydretoutlet.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydreuk.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydreuk.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydreus.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrevipde.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrew.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbydrsmonsterinusa.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbymusic.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbysdrbre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsbysdrdres.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatscasque-france.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatscheap-nz.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatscheap-uk.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatscheapforsale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatscollection2014.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatscustomblackfriday.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsdanmark2013.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsdrdre-headphones.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsdrdre-it.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsdrdre-solo.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsdrdre2014.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsdrdrecuffie.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsdrdrekaufenschweiz.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsdrdreneon.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsdre-monster.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsdre.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsdre4cheap.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsdrecheap.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsdredreheadphones.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsdreforsale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsdreinau.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsdremonster-uk.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsdrenewcolorful4usale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsdreoutletsale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsdresale2013.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsdresalestore.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsdresolo2013.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsdreus.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsearbudsheadphoness.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatselectronic.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatselectronics.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsep.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsep.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsep.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsfacstore.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsfactoroutlets.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsfactorycollection.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsfactoryoutles.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsforcheap-usa.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsforme.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsfranceofficiel.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsheadphones-discount.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsheadphones1.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsheadphones2u.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsheadphonesale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsheadphonesdealer.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsheadphonesforcheap.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsheadphonesonline.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsheadphoness.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsheadphonestudio.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsheadphonesusamall.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatshopuk.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsincanada.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsinsingapore.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsireland.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsjoy.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsmonstersales.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsmusic.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsmusic.wang
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsneon.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsnzsale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsodre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsofdre-usa.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsonblackfriday2013.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsone.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsoutlet.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsoutletanytime.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsoutletonlines.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatspascher-bydre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatspascher-fr.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatspascher.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatspaschers.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatspillnewcolor.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatspills.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatspromonsterjp.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatspromotions.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatssales.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatssaleus.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatssaustraliabuy.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatssbyaustralia.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatssbydredanmark.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsshop-uk.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsshop-usa.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsshopstore.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatssingapores.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatssingaporeshop.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsstudiohodetelefoner.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsstudiosite.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatstoreusa.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatsua.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatswholesale.us
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatswirelesscheap.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beatswirelesscuffie.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,beddit.tv
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,begin-trade.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,bestbeats4u.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,bestshoesale2014.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,biitii.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,blackfridaydrebeatsnew.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,blackfridaydrebeatsshop.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,bloommicroventures.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,bookonsky.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,bossae.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,braeburncapital.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,brandeasygo.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,brandelectronic.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,brandproducts1688.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,brands098.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,burstly.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,burstlyrewards.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,businesswebwise.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,buy-from-shanghai.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,buyaapl.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,buyaapl.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,buyaple.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,buybeatsbydre-uk.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,buybeatsheadphonesbydre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,buycheapbeatsbus.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,buycheapbeatsbydre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,buycheapbeatsbydreshop.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,buycheapbeatsdreuk.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,buydrdrebeatbox.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,buyminibeatbox.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,buyonlineheadphones.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,buyshoponly.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,buzzardflapper.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,bybeatsdre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,bydrebeats.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,calendarserver.org
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,camelphat.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,camelspaceeffect.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,canada-beatsbydre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,carbon.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,carekit.org
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,casque-fr.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,casquebeatsbydrdresolohd.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,casquebeatsdocteurdre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,casquebeatsdre2013.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,casquebeatsenligne.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,casquebeatsfracheter.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,casquebeatsmer.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,casquebeatsofficiel-fr.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,casquebeatspascher2013.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,casquebeatssolo.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,casquedrdrebeatssfr.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,casquemonsterbeats.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,casquemonsterbeatsbydre2013.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,casquesbeatsaudio.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,catalina.hk
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cdn-apple-mapkit.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheap-beats-by-dre.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheap-beatsbydre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapbagshoes.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapbeats.us
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapbeats365.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapbeats4sale.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapbeatsaustraliasale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapbeatsbus.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapbeatsbydr.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapbeatsbydrdrepro.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapbeatsbydre-au.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapbeatsbydre99.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapbeatsbydrefau.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapbeatsbydremall.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapbeatsbydremonster.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapbeatsbydrenz.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapbeatsbydreonsale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapbeatsbydreoutlet-nz.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapbeatsbydreoutlet.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapbeatsbydreoutlets2013.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapbeatsbydresale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapbeatsbydreshop.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapbeatsbydrestudioedition.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapbeatsbydrestudioutlet.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapbeatsdrdresolo.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapbeatsdrestudios.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapbeatsheadphone2014.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapbeatsheadphones.us
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapbeatsie.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapbeatsla.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapbeatssale4u.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapbeatsshopbydre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapcustombeatsbydre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapdrdrebeats8.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapdrdrebeatsca.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapdrebeats8.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheaperbeatsbydresale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapestbeatsdrdre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapheadphonesland.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapheadphonessale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapheadsetmall.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapheadsetshop.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapmonsterbeatsbydrdre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapmonsterbeatsheadsets.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapmonsterbeatssale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapmonsterbeatsusa.us
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapmonstersbeatsonsale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapnewbeatsbydre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapsalemonster.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapshoesvip.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapwireless04.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheapwirelessbeats.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cheerwholesale.us
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,chihair-straightener.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,chinaclothesstore.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,chomp.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ciattackers.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cmhalq.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cnshopin.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,coolmonster.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,coreml.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cozydrdrebeats.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cqcorea.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cuffiesaldi.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cups.org
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,custombeatsbydrebuy.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,custombeatsdeals.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,custombeatsforcheap.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,custombeatsny.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,custombeatssbydreus.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,customdrdrebeats.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,customizedbeatbydre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,customizedbeatsbydre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,customizedbeatsdre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cybermondaybeats4sale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,danemarket.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,danmarkbeatsbydrdre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,dashwood360.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,dctbeatsbydre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,dealsbeatsblackfriday.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,desktopmovie.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,desktopmovie.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,desktopmovie.org
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,desktopmovies.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,desktopmovies.org
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,detaliczny.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,developer-advisor.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,device-manager.us
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,digitalhub.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,discountbeatsbydre-us.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,discountbeatsstore.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,discussionsapple.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,dispatcher.is.autonavi.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,dkbeatsbydre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,dot-mac.de
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,dotmac.de
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drbeatsukmart.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drdre-beats.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drdrebeats-chen.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drdrebeats-headphone.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drdrebeats-usa.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drdrebeatsale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drdrebeatsbillig.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drdrebeatsdesale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drdrebeatsdiscount.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drdrebeatsforu.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drdrebeatsretail2013.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drdrebeatssale7.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drdrebeatsuk.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drdrefnac.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drdreheadphonebeats.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drdreheadphonekey.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drdreheadphonesusstore.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drdremonster-beats.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drdremonsterdre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drdreprobeatssale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drebeats-australia.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drebeats-france.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drebeats-monster.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drebeats-monsteraustralia.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drebeats-monsterusa.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drebeats-singapore.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drebeats-singapore.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drebeats-singaporecheap.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drebeats-singaporecheap.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drebeats-solo.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drebeats-studio.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drebeatsaustralia-cheap.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drebeatsaustralia-cheap.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drebeatsbuy.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drebeatsbydreoutlet.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drebeatscanada.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drebeatsdeutschland.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drebeatsforsaleus.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drebeatsheadphones-nz.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drebeatshome.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drebeatsoldes.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drebeatsoutletstore.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drebeatspill.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drebeatssite.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drebeatssolocybermondaysale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drebeatsstudio2013.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drebeatstudio.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,drebyby.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,dremonsterbeatsoutlets.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,dreprobeats.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,dreprofy.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,dtsell.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,dvdstudiopro.biz
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,dvdstudiopro.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,dvdstudiopro.info
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,dvdstudiopro.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,dvdstudiopro.org
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,dvdstudiopro.us
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,earphonescheapest.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,earpod.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ebuyheadphones.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ecgapp.com.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ecgapp.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,edu-research.org
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,emac.co.in
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,emac.in
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,emagic.de
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,esbeatsbydrebuy.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,etheadphones.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,eworld.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,faceid99.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,faceid99.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,faceidglobal.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,faceshift.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,facetime.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,famosascalvas.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,finalcutpro.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,find-apple.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,findmybeats.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,firewire.cl
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,firewire.eu
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,foundationdb.org
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,fr-beatsbydrestore.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,francecasquebeatssolde.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,frcasquesbeats.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,free-aa.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,free-sns.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,frishoes.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,gamebeforethegame.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,geoport.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,getdrebeatssale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,gmnetworks.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,gobeatsye.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,gobuyonlinestore.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,goodsdunk.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,gsp4-cn.ls.apple.com.edgekey.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,headphonepubs.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,headphones-cool.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,headphones-dre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,headphones-outlet-online.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,headphonesbeatsaudio.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,headphonesbeatsbydre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,headphoneses.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,headphoneshome.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,headphoneshotsales.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,headphonesol.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,headphonesretailer.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,headphonessupply.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,headphonezip.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,headset987.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,hellokittybeats.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,highbolt.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,highdefinitionbeatsbydre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,hipaa6020.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,hipzoom.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,homepod.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,honawalaan.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,hopstop.tv
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,hotbeatsonsale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,hotmonsterbeats.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,hottestheadphonesonline.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,hrsaz.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ibeats-uk.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ibeatsbydre.cc
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ibeatsbydre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ichat.co.in
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,idvd.eu
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,igoshopping.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ikids.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ilecture.co.nz
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ilife.eu
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ilife.gr
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ilife.wang
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,illianacomputerrecycling.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,imessage.tv
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,imonsterbeats.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,incentivetravelgifts.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,insidear.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,insidemacintosh.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ioffergift.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iosinthecar.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipa-iphone.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipple.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ischool.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,islamiccenterofnewlondon.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,italiabeatsbydrdre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,itools.info
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,itunes.com.edgekey.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iwork.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iwork.se
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iwork.wang
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,jetfuelapp.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,jetfuelapps.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,jkbeats.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,kickshatchannel.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,kobbeatssbydredk.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,kopfhorergunstigshop.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,latticedata.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,leecountytimes.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,lexuemei.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,livephotos.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,livephotos.com.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,livephotos.tv
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,lojaiphone.com.br
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,lovebeatsdr.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,lovemarca.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ls.apple.com.edgesuite.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,luckyissue.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,lyzsxx.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,mac-mini.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,mac.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,mac.com.au
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,mac.eu
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,mac.rs
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macappsto.re
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macboxset.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,mach-os.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,mach-os.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,machos.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macintosh.eu
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macintoshsoftware.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macmini.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macos.com.au
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macosforge.org
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macossierra.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macosx.info
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macosxlion.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macpazar.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macreach.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macreach.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macruby.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macruby.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macruby.org
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,mairbeats.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,makeeu.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,mallheadphone.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,mbeats-tech.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,mbheadphone.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,micstl.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,mmonsterheadphones.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,mobileme.dk
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monbeats2013.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monster-beats-by-dr-dre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monster-beats-headphones.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeats-cheap.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeats-headphone.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeats-onsale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeats-solo.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeats-solo.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeats365buy.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeats8beatsbydre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatsale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatsalestore.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatsau.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatsbydrdre-nz.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatsbydrdre-usa.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatsbydrdrecanada.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatsbydrdrestudio.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatsbydre-nz.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatsbydre-usa.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatsbydre2015.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatsbydreaustraliacheap.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatsbydrebilligde.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatsbydrefactory.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatsbydrenew.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatsbydres.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatsbydreshop.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatscasques.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatscommunity.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatsdrdrecheap.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatsfactory.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatsfinland.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatsforsale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatsheadphone.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatsheadphones.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatshere.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatsitaly.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatsmall.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatsnegozi.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatsok.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatsonlinestoreuk.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatsoutlet.us
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatspascher.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatsru.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatssales.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatssalg.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatsshops.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatsstore.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatssydneyaustralia.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatstang.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatstienda.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbeatstudio.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterbydrebeat.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monstercasquebeatspascher.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monstercheapbeatss.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterdrebeats-canada.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterdrebeats-usa.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterdrebeats-usa.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterheadphone.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monsterproduct.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monstersbeatbydres.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monstersdebea.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,monstershopcheapbeats.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,moreheadphones.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,mr-apple.com.tw
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ms4dre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,mybeatsbydrestudio.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,mybeatsbydreuk.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,mybeatscheapbydre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,myferrariheadphones.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,mzstatic.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,namemybeats.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,neborder.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,negozimonsterbeats.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,negoziomonsterbeats.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,newbeatsblackfriday.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,newbemany.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,newdrediscount.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,newestbeatsbydre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,newlysprung.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,newmonst1erbeatsto1re.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,newmonsterbeatsheadphones.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,newschristmasshopping.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,newton.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,next.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,nflhotsalejerseys.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,nicesshop.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,offerairjordanlebron.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,officialbeatsbydreshop.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,officialbeatsbydrestore.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,officialdrdre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,officialheadphone.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ogameblog.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,onbeatsbydresale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,onlinemonsterbeatsonsale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,onsalekey.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,onsaletrend.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,organicfruitapps.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,outletbeatsshop.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,overapple.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,pascherbeatsmonster.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,paulsimon-music.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,perfectkickz.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,personeelsland.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,picknicekicks.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,pickshoesclothes.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,pillbeatsblackfridaysale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,pocketbiketrader.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,powerbeats2wireless.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,powerbeatsbydrdre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,powerbeatsbydre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,powerbook.eu
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,promonsterbeatsbydre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,prostudiobeatscybersale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,pullstring.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,quatrowireless.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,quicktime.cc
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,quicktime.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,quicktime.com.au
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,quicktime.eu
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,quicktime.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,quicktime.tv
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,qwapi.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,rbsgr.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,reform-apple.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,repsneakermall.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,repswing.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,researchandcare.org
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,researchkit.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,researchkit.com.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,researchkit.hk
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,researchkit.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,researchkit.org
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,researchkit.tv
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,safebrowsing.apple
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,salebeatslasteststyle4you.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,saleblackfridaydrebeats.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,salecheaphandbags.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,samebags.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,sanvaras.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,scnshop.cc
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,services-apple.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,servicetalk.io
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,shazam.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,shoers.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,shoestop2.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,shop-headphones.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,shopbeatsdre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,shopbydre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,shopcustomizedbeats.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,shopdrebeats.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,shopmonsterbeats.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,shopping-days.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,shoppinguheadphones.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,siri.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,sneaker666.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,sneakerpage.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,sneakerskick.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,solostudioksale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,soso7778.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,specialtyheadphones.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,spektral.cc
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,spiritclubs.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,store.apple.com.edgekey.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,straightouttasomewhere.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,studiobeatsbydrdre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,sulwerphoto.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,sunglassessale2014.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,superearsenjoy.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,supplybestjerseys.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,sustainthesound.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,sverigebeatsbydrdre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,swift.org
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,swiftui.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,swiftui.com.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,szcheapmonsterheadphones.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,szwinnertechnology.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,takegoto.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,texture.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,the-monster-beats.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,thebeatsbydre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,thebeatsbydre.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,thebeatsheadphonesale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,theuab.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,thinkdifferent.us
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,topbeatsbydrdreoutlet.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,topbeatsdealer.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,topbeatsforsale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,touchid.tv
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,touchid.wang
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,tracking-location.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,tradevip1.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,truedepth3d.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,tryrating.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,tteshop.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ubnw.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,unstyle.us
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,usa-beatsbydreheadphonesonsale.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,v-has.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,vertexsmb.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,vip-beats.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,vipbeatsbydre.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,vipheadphones.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,vipshoes2.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,wasdj.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,webkit.org
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,webkitgtk.org
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,webobjects.co.uk
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,webobjects.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,webobjects.de
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,webobjects.eu
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,webobjects.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,wholesale-exporter1.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,wholesalediscountpurses.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,wholesalefine.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,wholesaleonlinemart.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,worldcoinpay.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,wpewebkit.org
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,wuxiapple.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,wwapple.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,www-sms-apple.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,www.apple.com.edgekey.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,wwwapple.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,wwwapple.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,wwwlapple.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,xn--czrs0t4phtr3a.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,xn--fiqs8sxootzz.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,xn--fiqs8sxootzz.xn--hxt814e
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,xn--gtvq61aiijy0b.xn--hxt814e
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,xn--gtvz22d.wang
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,xn--gtvz22d.xn--hxt814e
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,xn--hxtr4rozx.xn--czr694b
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,xn--kput3imi374g.xn--hxt814e
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,xn--ohq11k7pl25iyo8a.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,xn--ruq8a011kt6y.xn--hxt814e
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,yourmonsterbeats.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,12diasdepresentesdeitunes.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,12diasderegalosdeitunes.cl
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,12diasderegalosdeitunes.co
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,12diasderegalosdeitunes.co.cr
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,12diasderegalosdeitunes.co.ni
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,12diasderegalosdeitunes.co.ve
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,12diasderegalosdeitunes.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,12diasderegalosdeitunes.com.co
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,12diasderegalosdeitunes.com.hn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,12diasderegalosdeitunes.com.ni
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,12diasderegalosdeitunes.com.ve
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,12diasderegalosdeitunes.cr
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,12diasderegalosdeitunes.gt
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,12diasderegalosdeitunes.hn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,12diasderegalosdeitunes.pe
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,12joursdecadeauxdeitunes.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,aaplimg.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,app-store.wang
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appe-store.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple-appstore.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple-icloud.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple-itunes.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple-pay.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple-pay.rs
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple-pay.wang
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleaccount.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleappstore.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleappstore.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleappstore.tv
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appledarwin.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appledarwin.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleicloud.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleid-applemx.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleid-applemx.us
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleid-iclou.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleid-uk.us
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleid.berlin
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleid.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleid.hamburg
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleid.hk
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applemx-icloud.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleone.audio
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleone.blog
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleone.chat
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleone.cloud
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleone.club
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleone.community
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleone.film
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleone.guide
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleone.host
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleone.space
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleone.tech
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleone.website
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applepay.berlin
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applepay.co.rs
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applepay.com.tw
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applepay.hamburg
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applepay.hk
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applepay.info
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applepay.jp
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applepay.rs
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applepay.tv
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applepaycash.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applepaycash.com.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applepaycash.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applepaycash.tv
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applepaymerchantsupplies.info
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applepaysupplies.berlin
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applepaysupplies.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applepaysupplies.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applepaysupplies.com.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applepaysupplies.info
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applepaysupplies.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applepaysupplies.tv
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applewallet.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applewallet.tv
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appsto.re
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appstore.co.id
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appstore.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appstore.hk
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appstore.my
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appstore.ph
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appstoreapple.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,asto.re
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,darwinsource.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,darwinsource.org
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,darwinsourcecode.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloud-apple.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloud-content.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloud-isupport.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloud-sandbox.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloud.ch
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloud.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloud.com.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloud.de
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloud.ee
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloud.fi
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloud.fr
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloud.hu
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloud.ie
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloud.is
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloud.jp
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloud.lv
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloud.net.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloud.om
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloud.org
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloud.pt
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloud.ro
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloud.se
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloud.si
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloud.sk
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloud.vn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloudads.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloudapple.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloudbox.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloudbrowser.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloude.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloudhome.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloudmail.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloudmusic.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloudnet.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloudo.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloudo.de
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloudo.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloudos.de
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloudos.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloudpay.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloudsecure.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloudsetup.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ids-apple.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ios-icloud.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,itun.es
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,itunbes.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ituneas.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,itunes-apple.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,itunes-radio.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,itunes.ca
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,itunes.co
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,itunes.co.th
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,itunes.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,itunes.hk
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,itunes.mx
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,itunes.org
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,itunes.rio
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,itunes.us
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,itunes12days.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,itunesapple.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,itunesessentials.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,itunesfestivals.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,itunesiradio.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ituneslatino.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ituneslogin.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,itunesmatch.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,itunesparty.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,itunesradio.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,itunesradio.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,itunesradio.com.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,itunesradio.rio
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,itunesradio.tv
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,itunesradio.tw
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,itunesstore.co
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,itunesu.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,itunesu.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iutunes.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,me.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,myappleid.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,myicloud.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,mylcloud.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,tvappstore.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,wwwicloud.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,wwwitunes.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,aplestore.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,aplleipods.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple-imac.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple-store.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple-store.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple-store.wang
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple-watch.com.ru
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applecare.berlin
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applecare.cc
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applecare.eu
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applecare.hamburg
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applecare.wang
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleclassicipod.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleimac.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleiphone.hu
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleiphone.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleiphonecell.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestor.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestore.bg
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestore.cc
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestore.ch
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestore.cm
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestore.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestore.co.hu
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestore.co.jp
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestore.co.ug
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestore.co.uk
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestore.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestore.com.au
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestore.com.bn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestore.com.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestore.com.ee
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestore.com.eg
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestore.com.gr
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestore.com.hk
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestore.com.hr
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestore.com.jo
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestore.com.my
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestore.com.ph
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestore.com.pl
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestore.com.pt
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestore.com.ro
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestore.com.ru
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestore.com.sn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestore.com.tw
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestore.de
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestore.hk
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestore.kr
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestore.me
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestore.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestore.net.gr
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestore.ph
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestore.qa
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestore.sg
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestore.wang
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestoreonline.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applestorepro.eu
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applewatch.hk
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applewatch.tv
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applewatch.tw
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applewatch.wang
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applewatchedition.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applewatchseries3.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applewatchsport.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,bestiphonestuff.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cooliphonecasesstore.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,custom-iphonecase.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,designeriphonescases.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,dl-iphone.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,downloadsforipod.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ebookforipad.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,euroipad.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,findmyipad.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,fundaiphone5s.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,hebiphone.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,hf-iphone.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,imac-apple.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,imac-applecomputer.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,imac.co
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,imac.co.nz
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,imac.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,imac.eu
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,imac.gr
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,imac.one
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,imac.rs
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,imacapple.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,imacapplecomputer.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,imacsources.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,indiaipad.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipad.co.kr
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipad.de
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipad.host
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipad.wang
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipad3.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipadair.cl
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipadair.cm
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipadair.com.br
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipadair.com.es
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipadair.fr
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipadair.hk
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipadair.ie
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipadair.jp
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipadair.tw
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipadaustralia.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipadmini.cm
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipadmini.com.lk
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipadmini.lk
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipadpro.buzz
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphine.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphone-8.com.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphone-cd.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphone-cn.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphone-sh.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphone-vip1.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphone-vip2.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphone-vip3.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphone-vip4.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphone-vip5.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphone-x.tv
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphone-yh.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphone-zh.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphone.cm
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphone.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphone.com.au
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphone.com.gr
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphone.es
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphone.host
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphone.net.gr
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphone.pt
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphone.rs
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphone.ru
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphone.wang
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphone4.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphone4.com.br
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphone4s.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphone5.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphone5casescovers.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphone5s5case.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphoneacessorios.com.br
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphonecase2013.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphonecase5.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphonecases100.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphonecases5.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphoneclaro.com.br
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphonecollcase.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphonefc.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphonegermany.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphonehangzhou.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphoneimessage.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphoneplus.wang
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphonerip.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphonese.tv
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphoneunlockimei.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphonexs.tv
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipod.ca
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipod.ch
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipod.cm
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipod.co
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipod.co.nz
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipod.co.uk
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipod.co.za
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipod.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipod.com.au
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipod.com.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipod.com.fr
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipod.com.hk
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipod.com.sg
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipod.com.tw
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipod.de
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipod.es
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipod.eu
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipod.fr
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipod.gr
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipod.hk
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipod.is
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipod.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipod.no
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipod.pk
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipod.rs
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipod.ru
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipod.tw
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipodcentre.nl
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipodcleaner.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipoditouch.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipodnano.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipodnano.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipodprices.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipodrip.ca
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipodrocks.com.au
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipods.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipodshop.com.au
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipodtouch.co
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ipodtouch.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,launchpad.wang
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,mac.wang
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macbook.co
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macbook.hk
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macbook.tw
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macbook.wang
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macbookair.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macbookair.co.kr
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macbookair.co.uk
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macbookair.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macbookair.com.au
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macbookair.com.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macbookair.com.es
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macbookair.es
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macbookair.hk
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macbookair.jp
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macbookair.kr
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macbookair.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macbookpro.co
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macbookpro.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macbookpro.com.au
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macbookpro.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macbookpro.us
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macbookpros.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,macbooksale.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,myipod.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,offrezdesipods.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,onlineapplestore.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,onlyiphone5case.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,simplyipod.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ukipad.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,wwwipodlounge.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,wwwmacbookair.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.comscoreresearch.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple.news
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appleenews.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applemusic.berlin
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applemusic.co
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applemusic.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applemusic.com.au
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applemusic.hamburg
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applemusic.wang
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applemusicconnect.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applemusicfestival.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applenews.berlin
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applenews.hamburg
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applenews.tv
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,applenewsformat.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appletv.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appletv.fr
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appletv.wang
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appletv4.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appletv4.com.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,appletvapp.apple
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,i-book.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,i-book.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ibook.co.nz
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ibook.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ibook.eu
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ibook.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ibookpartner.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,ibooksauthor.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,imovie.eu
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,imoviegallery.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,imoviestage.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphoto.eu
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphoto.no
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphoto.se
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,iphoto.wang
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,musickit.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,wwwapplemusic.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple-dns.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,digicert.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple-cloudkit.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apple-livephotoskit.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,apzones.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,cdn-apple.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloud-content.com.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-SUFFIX,icloud.cn
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-KEYWORD,apple-support.akadns.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-KEYWORD,apple.com.akadns.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-KEYWORD,apple.com.edgekey.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-KEYWORD,buy.itunes.apple.com
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-KEYWORD,smp-device
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-KEYWORD,testflight
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+DOMAIN-KEYWORD,icloud.com.akadns.net
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+IP-CIDR,139.178.128.0/18,no-resolve
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+IP-CIDR,144.178.0.0/19,no-resolve
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+IP-CIDR,144.178.36.0/22,no-resolve
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+IP-CIDR,144.178.48.0/20,no-resolve
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+IP-CIDR,17.0.0.0/8,no-resolve
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+IP-CIDR,192.35.50.0/24,no-resolve
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+IP-CIDR,198.183.17.0/24,no-resolve
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+IP-CIDR,205.180.175.0/24,no-resolve
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+IP-CIDR,63.92.224.0/19,no-resolve
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+IP-CIDR,65.199.22.0/23,no-resolve
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+IP-CIDR6,2403:300::/32,no-resolve
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+IP-CIDR6,2620:149::/32,no-resolve
+# upstream:blackmatrix:rule/Clash/Apple/Apple.list
+IP-CIDR6,2a01:b740::/32,no-resolve
