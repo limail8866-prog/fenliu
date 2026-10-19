@@ -2,12 +2,12 @@ version: 1
 repositories:
   blackmatrix:
     repository: blackmatrix7/ios_rule_script
-    commit: 83f37120c155f67c8eef43221dabe15cc3c95fec
+    commit: 7dd06b44f5093dd5404e1e5f3bca5452d97146ef
     license: GPL-2.0
     format: classical
   v2fly:
     repository: v2fly/domain-list-community
-    commit: c6adacf29cc4fb05e04651fcf03e00989ef9f797
+    commit: 6ee52f2c36634aeabeb9c4ba486ca02cd84c3d4f
     license: MIT
     format: v2ray
 sources:

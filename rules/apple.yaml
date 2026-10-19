@@ -3404,9 +3404,6 @@
   value: apple-appstore.cn
   comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
 - type: DOMAIN-SUFFIX
-  value: apple-icloud.cn
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
   value: apple-itunes.cn
   comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
 - type: DOMAIN-SUFFIX
@@ -3437,9 +3434,6 @@
   value: appledarwin.net
   comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
 - type: DOMAIN-SUFFIX
-  value: appleicloud.cn
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
   value: appleid-applemx.com
   comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
 - type: DOMAIN-SUFFIX
@@ -3462,9 +3456,6 @@
   comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
 - type: DOMAIN-SUFFIX
   value: appleid.hk
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: applemx-icloud.com
   comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
 - type: DOMAIN-SUFFIX
   value: appleone.audio
@@ -3605,136 +3596,7 @@
   value: darwinsourcecode.com
   comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
 - type: DOMAIN-SUFFIX
-  value: icloud-apple.cn
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloud-content.com
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloud-isupport.com
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloud-sandbox.com
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloud.ch
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloud.com
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloud.com.cn
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloud.de
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloud.ee
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloud.fi
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloud.fr
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloud.hu
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloud.ie
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloud.is
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloud.jp
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloud.lv
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloud.net.cn
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloud.om
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloud.org
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloud.pt
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloud.ro
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloud.se
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloud.si
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloud.sk
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloud.vn
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloudads.net
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloudapple.cn
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloudbox.net
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloudbrowser.net
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloude.com
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloudhome.com
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloudmail.net
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloudmusic.net
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloudnet.net
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloudo.com
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloudo.de
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloudo.net
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloudos.de
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloudos.net
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloudpay.net
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloudsecure.net
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloudsetup.com
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
   value: ids-apple.com
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: ios-icloud.com
   comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
 - type: DOMAIN-SUFFIX
   value: itun.es
@@ -3836,22 +3698,10 @@
   value: iutunes.com
   comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
 - type: DOMAIN-SUFFIX
-  value: me.com
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
   value: myappleid.com
   comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
 - type: DOMAIN-SUFFIX
-  value: myicloud.net
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: mylcloud.net
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
   value: tvappstore.net
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: wwwicloud.com
   comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
 - type: DOMAIN-SUFFIX
   value: wwwitunes.com
@@ -4658,7 +4508,16 @@
   value: apple-cloudkit.com
   comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
 - type: DOMAIN-SUFFIX
+  value: apple-icloud.cn
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
   value: apple-livephotoskit.com
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: appleicloud.cn
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: applemx-icloud.com
   comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
 - type: DOMAIN-SUFFIX
   value: apzones.com
@@ -4667,10 +4526,151 @@
   value: cdn-apple.com
   comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
 - type: DOMAIN-SUFFIX
+  value: icloud-apple.cn
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloud-content.com
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
   value: icloud-content.com.cn
   comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
 - type: DOMAIN-SUFFIX
+  value: icloud-isupport.com
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloud-sandbox.com
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloud.ch
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
   value: icloud.cn
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloud.com
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloud.com.cn
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloud.de
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloud.ee
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloud.fi
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloud.fr
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloud.hu
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloud.ie
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloud.is
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloud.jp
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloud.lv
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloud.net.cn
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloud.om
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloud.org
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloud.pt
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloud.ro
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloud.se
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloud.si
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloud.sk
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloud.vn
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloudads.net
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloudapple.cn
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloudbox.net
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloudbrowser.net
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloude.com
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloudhome.com
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloudmail.net
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloudmusic.net
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloudnet.net
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloudo.com
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloudo.de
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloudo.net
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloudos.de
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloudos.net
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloudpay.net
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloudsecure.net
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: icloudsetup.com
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: ios-icloud.com
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: me.com
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: myicloud.net
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: mylcloud.net
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: wwwicloud.com
   comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
 - type: DOMAIN-KEYWORD
   value: apple-support.akadns.net

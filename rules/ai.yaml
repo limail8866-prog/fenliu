@@ -218,6 +218,9 @@
   value: oaistatsig.com
   comment: upstream:v2fly:data/openai
 - type: DOMAIN-SUFFIX
+  value: openai.org
+  comment: upstream:v2fly:data/openai
+- type: DOMAIN-SUFFIX
   value: sora.com
   comment: upstream:v2fly:data/openai
 - type: DOMAIN-SUFFIX

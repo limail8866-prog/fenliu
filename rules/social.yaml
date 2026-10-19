@@ -1889,6 +1889,15 @@
   value: capcut.com
   comment: upstream:blackmatrix:rule/Clash/TikTok/TikTok.list
 - type: DOMAIN-SUFFIX
+  value: capcutapi.com
+  comment: upstream:blackmatrix:rule/Clash/TikTok/TikTok.list
+- type: DOMAIN-SUFFIX
+  value: capcutapi.us
+  comment: upstream:blackmatrix:rule/Clash/TikTok/TikTok.list
+- type: DOMAIN-SUFFIX
+  value: capcutstatic.com
+  comment: upstream:blackmatrix:rule/Clash/TikTok/TikTok.list
+- type: DOMAIN-SUFFIX
   value: ibytedtos.com
   comment: upstream:blackmatrix:rule/Clash/TikTok/TikTok.list
 - type: DOMAIN-SUFFIX
