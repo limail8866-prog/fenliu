@@ -218,6 +218,9 @@
   value: oaistatsig.com
   comment: upstream:v2fly:data/openai
 - type: DOMAIN-SUFFIX
+  value: openai.org
+  comment: upstream:v2fly:data/openai
+- type: DOMAIN-SUFFIX
   value: sora.com
   comment: upstream:v2fly:data/openai
 - type: DOMAIN-SUFFIX
@@ -233,7 +236,22 @@
   value: openaicom.imgix.net
   comment: upstream:v2fly:data/openai
 - type: DOMAIN-SUFFIX
+  value: ant.dev
+  comment: upstream:v2fly:data/anthropic
+- type: DOMAIN-SUFFIX
+  value: anthropic.team
+  comment: upstream:v2fly:data/anthropic
+- type: DOMAIN-SUFFIX
+  value: antspace.dev
+  comment: upstream:v2fly:data/anthropic
+- type: DOMAIN-SUFFIX
+  value: chatbotclaude.com
+  comment: upstream:v2fly:data/anthropic
+- type: DOMAIN-SUFFIX
   value: clau.de
+  comment: upstream:v2fly:data/anthropic
+- type: DOMAIN-SUFFIX
+  value: claude.app
   comment: upstream:v2fly:data/anthropic
 - type: DOMAIN-SUFFIX
   value: claude.com
@@ -242,10 +260,25 @@
   value: claude.dev
   comment: upstream:v2fly:data/anthropic
 - type: DOMAIN-SUFFIX
+  value: claude.new
+  comment: upstream:v2fly:data/anthropic
+- type: DOMAIN-SUFFIX
+  value: claude.site
+  comment: upstream:v2fly:data/anthropic
+- type: DOMAIN-SUFFIX
+  value: claudeacademy.com
+  comment: upstream:v2fly:data/anthropic
+- type: DOMAIN-SUFFIX
   value: claudemcpclient.com
   comment: upstream:v2fly:data/anthropic
 - type: DOMAIN-SUFFIX
   value: claudemcpcontent.com
+  comment: upstream:v2fly:data/anthropic
+- type: DOMAIN-SUFFIX
+  value: claudepages.dev
+  comment: upstream:v2fly:data/anthropic
+- type: DOMAIN-SUFFIX
+  value: claudestudio.com
   comment: upstream:v2fly:data/anthropic
 - type: DOMAIN-SUFFIX
   value: claudeusercontent.com
