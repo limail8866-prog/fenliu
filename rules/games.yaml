@@ -17,6 +17,9 @@
   value: dl.steam.ksyna.com
   comment: upstream:blackmatrix:rule/Clash/Steam/Steam.list
 - type: DOMAIN-SUFFIX
+  value: dota2.com
+  comment: upstream:blackmatrix:rule/Clash/Steam/Steam.list
+- type: DOMAIN-SUFFIX
   value: dota2.wmsj.cn
   comment: upstream:blackmatrix:rule/Clash/Steam/Steam.list
 - type: DOMAIN-SUFFIX
@@ -92,6 +95,9 @@
   value: steamcommunity.com
   comment: upstream:blackmatrix:rule/Clash/Steam/Steam.list
 - type: DOMAIN-SUFFIX
+  value: steamconnecttest.com
+  comment: upstream:blackmatrix:rule/Clash/Steam/Steam.list
+- type: DOMAIN-SUFFIX
   value: steamcontent.tnkjmec.com
   comment: upstream:blackmatrix:rule/Clash/Steam/Steam.list
 - type: DOMAIN-SUFFIX
@@ -146,6 +152,9 @@
   value: underlords.com
   comment: upstream:blackmatrix:rule/Clash/Steam/Steam.list
 - type: DOMAIN-SUFFIX
+  value: valve.net
+  comment: upstream:blackmatrix:rule/Clash/Steam/Steam.list
+- type: DOMAIN-SUFFIX
   value: valvesoftware.com
   comment: upstream:blackmatrix:rule/Clash/Steam/Steam.list
 - type: DOMAIN-SUFFIX
@@ -159,6 +168,42 @@
   comment: upstream:blackmatrix:rule/Clash/Steam/Steam.list
 - type: DOMAIN-KEYWORD
   value: steamuserimages
+  comment: upstream:blackmatrix:rule/Clash/Steam/Steam.list
+- type: IP-CIDR
+  value: 103.10.124.0/23
+  comment: upstream:blackmatrix:rule/Clash/Steam/Steam.list
+- type: IP-CIDR
+  value: 103.28.54.0/24
+  comment: upstream:blackmatrix:rule/Clash/Steam/Steam.list
+- type: IP-CIDR
+  value: 146.66.152.0/24
+  comment: upstream:blackmatrix:rule/Clash/Steam/Steam.list
+- type: IP-CIDR
+  value: 146.66.155.0/24
+  comment: upstream:blackmatrix:rule/Clash/Steam/Steam.list
+- type: IP-CIDR
+  value: 155.133.224.0/19
+  comment: upstream:blackmatrix:rule/Clash/Steam/Steam.list
+- type: IP-CIDR
+  value: 162.254.192.0/21
+  comment: upstream:blackmatrix:rule/Clash/Steam/Steam.list
+- type: IP-CIDR
+  value: 185.25.180.0/22
+  comment: upstream:blackmatrix:rule/Clash/Steam/Steam.list
+- type: IP-CIDR
+  value: 192.69.96.0/22
+  comment: upstream:blackmatrix:rule/Clash/Steam/Steam.list
+- type: IP-CIDR
+  value: 205.196.6.0/24
+  comment: upstream:blackmatrix:rule/Clash/Steam/Steam.list
+- type: IP-CIDR
+  value: 208.64.200.0/22
+  comment: upstream:blackmatrix:rule/Clash/Steam/Steam.list
+- type: IP-CIDR
+  value: 208.78.164.0/22
+  comment: upstream:blackmatrix:rule/Clash/Steam/Steam.list
+- type: IP-CIDR
+  value: 45.121.184.0/24
   comment: upstream:blackmatrix:rule/Clash/Steam/Steam.list
 - type: DOMAIN-SUFFIX
   value: battlebreakers.com
