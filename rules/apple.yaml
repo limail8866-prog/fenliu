@@ -3572,9 +3572,6 @@
   value: applewallet.tv
   comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
 - type: DOMAIN-SUFFIX
-  value: appsto.re
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
   value: appstore.co.id
   comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
 - type: DOMAIN-SUFFIX
@@ -4538,9 +4535,6 @@
   value: apple.comscoreresearch.com
   comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
 - type: DOMAIN-SUFFIX
-  value: apple.news
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
   value: appleenews.com
   comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
 - type: DOMAIN-SUFFIX
@@ -4548,9 +4542,6 @@
   comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
 - type: DOMAIN-SUFFIX
   value: applemusic.co
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: applemusic.com
   comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
 - type: DOMAIN-SUFFIX
   value: applemusic.com.au
@@ -4649,7 +4640,19 @@
   value: wwwapplemusic.com
   comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
 - type: DOMAIN-SUFFIX
+  value: applemusic.com
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
   value: apple-dns.net
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: apple.news
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: appsto.re
+  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
+- type: DOMAIN-SUFFIX
+  value: cdn-apple.com
   comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
 - type: DOMAIN-SUFFIX
   value: digicert.com
@@ -4664,13 +4667,7 @@
   value: apzones.com
   comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
 - type: DOMAIN-SUFFIX
-  value: cdn-apple.com
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
   value: icloud-content.com.cn
-  comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
-- type: DOMAIN-SUFFIX
-  value: icloud.cn
   comment: upstream:blackmatrix:rule/Clash/Apple/Apple.list
 - type: DOMAIN-KEYWORD
   value: apple-support.akadns.net
